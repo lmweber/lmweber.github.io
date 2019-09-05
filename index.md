@@ -18,19 +18,16 @@ My training includes a PhD in Biostatistics with [Prof. Mark Robinson](https://r
 
 ### Contact
 
-Dr. Lukas Weber \
-[Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/) \
-[Bloomberg School of Public Health](https://www.jhsph.edu/) \
-[Johns Hopkins University](https://www.jhu.edu/) \
-E3011 | 615 North Wolfe Street \
+Dr. Lukas Weber <br/>
+[Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/) <br/>
+[Bloomberg School of Public Health](https://www.jhsph.edu/) <br/>
+[Johns Hopkins University](https://www.jhu.edu/) <br/>
+E3011 | 615 North Wolfe Street <br/>
 Baltimore, MD 21205-2179, USA
 
-<img src="images/envelope.svg" alt="Email logo" width="20" height="20"> [Email: firstname.lastname@jhu.edu]()
-
-<img src="images/github.svg" alt="GitHub logo" width="20" height="20"> [GitHub: `lmweber`](https://github.com/lmweber)
-
-<img src="images/scholar.svg" alt="Google Scholar logo" width="20" height="20"> [Google Scholar](https://scholar.google.com/citations?user=M8uPSzMAAAAJ&hl=en)
-
+<img src="images/envelope.svg" alt="Email logo" width="20" height="20"> [Email: firstname.lastname@jhu.edu]() <br/>
+<img src="images/github.svg" alt="GitHub logo" width="20" height="20"> [GitHub: `lmweber`](https://github.com/lmweber) <br/>
+<img src="images/scholar.svg" alt="Google Scholar logo" width="20" height="20"> [Google Scholar](https://scholar.google.com/citations?user=M8uPSzMAAAAJ&hl=en) <br/>
 <img src="images/twitter.svg" alt="Twitter logo" width="20" height="20"> [Twitter: `@lmwebr`](https://twitter.com/lmwebr)
 
 
