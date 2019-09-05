@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Lukas M. Weber
-description: Lukas M. Weber
 ---
 
 # About me
