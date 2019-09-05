@@ -7,9 +7,9 @@ code {
 }
 
 a code {
-  color: #slateblue;
+  color: #08c;
 }
 
-a {
-  color: #slateblue;
+h1, h2, h3, h4 {
+  color: darkslateblue;
 }
