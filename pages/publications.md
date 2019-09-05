@@ -3,6 +3,11 @@ layout: page
 title: Publications
 ---
 
-text here
+
+link to Google Scholar
+
+
+list of publications
+
 
 

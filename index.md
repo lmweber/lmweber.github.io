@@ -3,19 +3,21 @@ layout: page
 title: Lukas M. Weber
 ---
 
+
 ### About me
 
-testing
+my background
 
----
 
-testing
+overall research statement
+
+
+to add links: [Publications](pages/publications.html)
+
 
 
 ### Contact
 
-text
-
-- [Publications](pages/publications.html)
+contact details
 
 
