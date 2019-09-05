@@ -1,12 +1,9 @@
 ---
 layout: page
-title: Publications
+title: Research
 ---
 
 overall statement
-
-
-open science
 
 
 projects (with links to paper / software etc)
