@@ -12,7 +12,7 @@ I am interested in rigorous development and benchmarking of statistical and comp
 
 I am also interested in teaching, especially R programming skills, and have been an instructor for several short workshops taught through the [Data Carpentry](https://datacarpentry.org/) and [Software Carpentry](https://software-carpentry.org/) initiatives.
 
-My training includes a PhD in Biostatistics with [Prof. Mark Robinson](https://robinsonlabuzh.github.io/) at the University of Zurich, Switzerland; and a MSc in Statistics at ETH Zurich, Switzerland. Previously, I studied physics, mathematics, and economics at the University of Western Australia and Australian National University, and worked for several years as a policy analyst in the Australian federal public service.
+My training includes a PhD in Biostatistics with [Prof. Mark Robinson](https://robinsonlabuzh.github.io/) at the University of Zurich, Switzerland; and a MSc in Statistics at ETH Zurich, Switzerland. Previously, I studied physics, mathematics, and economics at the University of Western Australia and Australian National University, and worked for several years as a policy analyst for the Australian federal public service.
 
 
 
