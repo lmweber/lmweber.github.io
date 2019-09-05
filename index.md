@@ -8,9 +8,9 @@ title: Lukas M. Weber
 
 my background
 
-
 overall research statement
 
+open science
 
 to add links: [Publications](pages/publications.html)
 
