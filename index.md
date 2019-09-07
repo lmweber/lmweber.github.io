@@ -4,7 +4,7 @@ layout: page
 ---
 
 
-### About me
+### About
 
 I am a postdoctoral fellow in the lab of [Prof. Stephanie Hicks](https://www.stephaniehicks.com/) at the [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/), [Bloomberg School of Public Health](https://www.jhsph.edu/), [Johns Hopkins University](https://www.jhu.edu/), where I am working on data analysis, statistical methodology, and software development for single-cell data.
 
