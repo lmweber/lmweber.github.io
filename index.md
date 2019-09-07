@@ -16,7 +16,7 @@ My training includes a PhD in Biostatistics with [Prof. Mark Robinson](https://r
 
 
 
-### Contact details
+### Contact
 
 <div class="row-fluid" markdown="1">
 <div class="span6" markdown="1">
