@@ -1,15 +1,14 @@
 ---
 layout: page
-title: Brief CV
+title: More
 ---
-
 
 Under construction!
 
 
 <!--
 
-brief CV
+more
 
 -->
 
