@@ -48,7 +48,7 @@ These results are described in the following publication:
 
 
 
-### Benchmarking guidelines
+### Benchmarking practices
 
 Benchmarking has represented a key component of the work during several of my previous projects. Thorough benchmarking of methods is crucial during computational work --- for example, when developing new methods, or independent comparisons to provide recommendations for other users. However, in practice, many benchmarks do not fulfill their aims. For example, they may be too narrow in scope, or fail to consider important design details such as comparable levels of parameter optimization.
 
