@@ -6,7 +6,7 @@ layout: page
 
 ### About
 
-I am a postdoctoral fellow in the lab of [Prof. Stephanie Hicks](https://www.stephaniehicks.com/) at the [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/), [Bloomberg School of Public Health](https://www.jhsph.edu/), [Johns Hopkins University](https://www.jhu.edu/), where I am working on data analysis, statistical methodology, and software development for single-cell data.
+I am a postdoctoral fellow in the lab of [Prof. Stephanie Hicks](https://www.stephaniehicks.com/) at the [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/), [Bloomberg School of Public Health](https://www.jhsph.edu/), [Johns Hopkins University](https://www.jhu.edu/), where I am working on data analysis, statistical methodology, software development, and benchmarking for single-cell data.
 
 I am interested in rigorous development and benchmarking of statistical and computational methodologies, with applications in high-throughput biological data, especially single-cell genomic and proteomic data. Most of my work uses the R programming language, and I develop software packages for the [Bioconductor](http://bioconductor.org/) project. I am strongly committed to open science, including publication of preprints and open access publications, as well as freely accessible software, code, and data repositories.
 
