@@ -22,7 +22,7 @@ I am currently involved in a collaborative project aimed at identifying the biol
 
 ### Differential analysis in high-dimensional cytometry data
 
-During my PhD in the lab of [Prof. Mark Robinson, University of Zurich](https://robinsonlabuzh.github.io/), I worked on several projects relating to differential analysis in high-dimensional cytometry data. High-dimensional cytometry refers to a set of technologies that enable measurement of expression levels of around 20--100 proteins in thousands to millions of cells, using targeted antibody-based probes. Differential analysis experiments aim to detect groups of cells with differing characteristics between samples in different conditions, e.g., diseased vs. healthy. This can include differential abundance of cell types, as well as differential states (e.g., signaling or other functional states) for specific cell types of interest.
+During my PhD in the lab of [Prof. Mark Robinson, University of Zurich](https://robinsonlabuzh.github.io/), I worked on several projects relating to differential analysis in high-dimensional cytometry data. High-dimensional cytometry refers to a set of technologies that enable measurement of expression levels of around 20--100 proteins in thousands to millions of cells, using targeted antibody-based probes (including multicolor flow cytometry, mass cytometry or CyTOF, and sequence-based or genomic cytometry). Differential analysis experiments aim to detect groups of cells with differing characteristics between samples in different conditions, e.g., diseased vs. healthy. This can include differential abundance of cell types, as well as differential states (e.g., signaling or other functional states) for specific cell types of interest.
 
 Key publications related to this theme (which I either led or contributed to) include the following:
 
@@ -32,7 +32,7 @@ Key publications related to this theme (which I either led or contributed to) in
 
 - Nowicka N., Krieg C., Crowell H.L., **Weber L.M.**, Hartmann F.J., Guglietta S., Becher B., Levesque M.P., and Robinson M.D. (2019), [*CyTOF workflow: differential discovery in high-throughput high-dimensional cytometry datasets*](https://f1000research.com/articles/6-748), F1000Research, v3.
 
-    This paper describes a computational workflow for differential discovery analyses in high-dimensional cytometry data, based largely on Bioconductor packages. Comprehensive R code is provided within the publication, for steps including preprocessing, exploratory analyses, differential testing, and visualizations. The code is also provided in the form of a [Bioconductor workflow](https://bioconductor.org/packages/cytofWorkflow) package.
+    This paper describes a complete computational workflow for differential discovery analyses in high-dimensional cytometry data, based largely on R/Bioconductor packages. Comprehensive R code is provided within the publication, for steps including preprocessing, exploratory analyses, differential testing, and visualizations. The code is also provided in the form of a [Bioconductor workflow](https://bioconductor.org/packages/cytofWorkflow) package.
 
 
 
@@ -64,7 +64,7 @@ I am interested in projects that aim to rigorously evaluate and establish statis
 
 - benchmarking of new classes of methods from machine learning
 - data analysis for multi-modal data (e.g., transcriptomic and proteomic data from the same single cells)
-- computational workflows (user-friendly and modular)
+- computational workflows (user-friendly, modular)
 - experimental design
 - data preprocessing procedures (e.g., normalization of single-cell data)
 
