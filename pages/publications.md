@@ -15,6 +15,8 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 - **Weber L.M.** and Soneson C. (2019), *HDCytoData: Collection of high-dimensional cytometry benchmark datasets in Bioconductor object formats*, F1000Research, 8:1459, v1. Links to: [Paper](https://f1000research.com/articles/8-1459), [R/Bioconductor package](http://bioconductor.org/packages/HDCytoData).
 
 
+---
+
 
 ### Key papers
 
@@ -34,6 +36,8 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 - **Weber L.M.**, Saelens W., Cannoodt R., Soneson C., Hapfelmeier A., Gardner P.P., Boulesteix A.-L., Saeys Y., and Robinson M.D. (2019), *Essential guidelines for computational method benchmarking*, Genome Biology, 20, 125. Link to: [Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1738-8).
 
+
+---
 
 
 ### Collaboration papers
