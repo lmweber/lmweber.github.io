@@ -30,7 +30,7 @@ Key publications related to this theme (which I either led or contributed to) in
 
     In this paper, we developed a new computational framework (*diffcyt*) for differential discovery analyses in high-dimensional cytometry data, with extensive benchmarking against existing approaches. The *diffcyt* framework is freely available as an R package from [Bioconductor](http://bioconductor.org/packages/diffcyt).
 
-- Nowicka N., Krieg C., Crowell H.L., **Weber L.M.**, Hartmann F.J., Guglietta S., Becher B., Levesque M.P., and Robinson M.D. (2019), [*CyTOF workflow: differential discovery in high-throughput high-dimensional cytometry datasets*](https://f1000research.com/articles/6-748), F1000Research, v3.
+- Nowicka N., Krieg C., Crowell H.L., **Weber L.M.**, Hartmann F.J., Guglietta S., Becher B., Levesque M.P., and Robinson M.D. (2019), [*CyTOF workflow: differential discovery in high-throughput high-dimensional cytometry datasets*](https://f1000research.com/articles/6-748), F1000Research, 6:748, v3.
 
     This paper describes a complete computational workflow for differential discovery analyses in high-dimensional cytometry data, based largely on R/Bioconductor packages. Comprehensive R code is provided within the publication, for steps including preprocessing, exploratory analyses, differential testing, and visualizations. The code is also provided in the form of a [Bioconductor workflow](https://bioconductor.org/packages/cytofWorkflow) package.
 
@@ -54,7 +54,7 @@ Benchmarking has represented a key component of the work during several of my pr
 
 In order to assist other computational researchers interested in benchmarking, we coordinated a review paper summarizing key practical guidelines and recommendations for performing high-quality benchmarks, based on our experiences in computational biology. The paper was drafted in collaboration with members of three external research groups, who have also been extensively involved in benchmarking:
 
-- **Weber L.M.**, Saelens W., Cannoodt R., Soneson C., Hapfelmeier A., Gardner P.P., Boulesteix A.-L., Saeys Y. and Robinson M.D. (2019), [*Essential guidelines for computational method benchmarking*](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1738-8), Genome Biology, 20, 125.
+- **Weber L.M.**, Saelens W., Cannoodt R., Soneson C., Hapfelmeier A., Gardner P.P., Boulesteix A.-L., Saeys Y., and Robinson M.D. (2019), [*Essential guidelines for computational method benchmarking*](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1738-8), Genome Biology, 20, 125.
 
 
 
