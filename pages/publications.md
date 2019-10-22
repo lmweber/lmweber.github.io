@@ -36,12 +36,12 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 ### Collaboration papers
 
-- Krieg C., Nowicka M., Guglietta S., Schindler S., Hartmann F.J., **Weber L.M.**, Dummer R., Robinson M.D., Levesque M.P.\* and Becher B.\* (2018), *High-dimensional single-cell analysis predicts response to anti-PD-1 immunotherapy*, Nature Medicine, 24, 2, 144--153.
+- Krieg C., Nowicka M., Guglietta S., Schindler S., Hartmann F.J., **Weber L.M.**, Dummer R., Robinson M.D., Levesque M.P.\* and Becher B.\* (2018), *High-dimensional single-cell analysis predicts response to anti-PD-1 immunotherapy*, Nature Medicine, 24, 2, 144--153. Link to: [Paper](https://www.nature.com/articles/nm.4466).
 
-- Hartmann F.J., Bernard-Valnet R., Quériault C., Mrdjen D., **Weber L.M.**, Galli E., Krieg C., Robinson M.D., Nguyen X.-H., Dauvilliers Y., Liblau R.S., and Becher B. (2016), *High-dimensional single-cell analysis reveals the immune signature of narcolepsy*, Journal of Experimental Medicine, 213, 12, 2621--2633.
+- Hartmann F.J., Bernard-Valnet R., Quériault C., Mrdjen D., **Weber L.M.**, Galli E., Krieg C., Robinson M.D., Nguyen X.-H., Dauvilliers Y., Liblau R.S., and Becher B. (2016), *High-dimensional single-cell analysis reveals the immune signature of narcolepsy*, Journal of Experimental Medicine, 213, 12, 2621--2633. Link to: [Paper](http://jem.rupress.org/content/213/12/2621).
 
-- Burger A.\*, Lindsay H.\*, Felker A., Hess C., Anders C., Chiavacci E., Zaugg J., **Weber L.M.**, Catena R., Jinek M., Robinson M.D., and Mosimann C. (2016), *Maximizing mutagenesis with solubilized CRISPR-Cas9 ribonucleoprotein complexes*, Development, 143, 2025--2037.
+- Burger A.\*, Lindsay H.\*, Felker A., Hess C., Anders C., Chiavacci E., Zaugg J., **Weber L.M.**, Catena R., Jinek M., Robinson M.D., and Mosimann C. (2016), *Maximizing mutagenesis with solubilized CRISPR-Cas9 ribonucleoprotein complexes*, Development, 143, 2025--2037. Link to: [Paper](https://dev.biologists.org/content/143/11/2025).
 
-- Robinson M.D., Kahraman A., Law C.W., Lindsay H., Nowicka M., **Weber L.M.**, and Zhou X. (2014), *Statistical methods for detecting differentially methylated loci and regions*, Frontiers in Genetics, 5, 324.
+- Robinson M.D., Kahraman A., Law C.W., Lindsay H., Nowicka M., **Weber L.M.**, and Zhou X. (2014), *Statistical methods for detecting differentially methylated loci and regions*, Frontiers in Genetics, 5, 324. Link to: [Paper](https://www.frontiersin.org/articles/10.3389/fgene.2014.00324).
 
 
