@@ -20,7 +20,7 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 - **Weber L.M.**, Nowicka N., Soneson C., and Robinson M.D. (2019), *diffcyt: Differential discovery in high-dimensional cytometry via high-resolution clustering*, Communications Biology, 2, 183. Links to: [Paper](https://www.nature.com/articles/s42003-019-0415-5), [R/Bioconductor package](http://bioconductor.org/packages/diffcyt), [Code](https://github.com/lmweber/diffcyt-evaluations), [Data](http://flowrepository.org/id/FR-FCM-ZYL8).
 
-- Nowicka N., Krieg C., Crowell H.L., **Weber L.M.**, Hartmann F.J., Guglietta S., Becher B., Levesque M.P., and Robinson M.D. (2019), *CyTOF workflow: differential discovery in high-throughput high-dimensional cytometry datasets*, F1000Research, 6:748, v3. Links to: [Paper](https://f1000research.com/articles/6-748), [R/Bioconductor package](https://bioconductor.org/packages/cytofWorkflow).
+- Nowicka N., Krieg C., Crowell H.L., **Weber L.M.**, Hartmann F.J., Guglietta S., Becher B., Levesque M.P., and Robinson M.D. (2017; updated 2019), *CyTOF workflow: differential discovery in high-throughput high-dimensional cytometry datasets*, F1000Research, 6:748, v3. Links to: [Paper](https://f1000research.com/articles/6-748), [R/Bioconductor package](https://bioconductor.org/packages/cytofWorkflow).
 
 
 #### *Benchmarking*

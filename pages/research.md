@@ -30,7 +30,7 @@ Key publications related to this theme (which I either led or contributed to) in
 
     In this paper, we developed a new computational framework (*diffcyt*) for differential discovery analyses in high-dimensional cytometry data, with extensive benchmarking against existing approaches. The *diffcyt* framework is freely available as an R package from [Bioconductor](http://bioconductor.org/packages/diffcyt).
 
-- Nowicka N., Krieg C., Crowell H.L., **Weber L.M.**, Hartmann F.J., Guglietta S., Becher B., Levesque M.P., and Robinson M.D. (2019), [*CyTOF workflow: differential discovery in high-throughput high-dimensional cytometry datasets*](https://f1000research.com/articles/6-748), F1000Research, 6:748, v3.
+- Nowicka N., Krieg C., Crowell H.L., **Weber L.M.**, Hartmann F.J., Guglietta S., Becher B., Levesque M.P., and Robinson M.D. (2017; updated 2019), [*CyTOF workflow: differential discovery in high-throughput high-dimensional cytometry datasets*](https://f1000research.com/articles/6-748), F1000Research, 6:748, v3.
 
     This paper describes a complete computational workflow for differential discovery analyses in high-dimensional cytometry data, based largely on R/Bioconductor packages. Comprehensive R code is provided within the publication, for steps including preprocessing, exploratory analyses, differential testing, and visualizations. The code is also provided in the form of a [Bioconductor workflow](https://bioconductor.org/packages/cytofWorkflow) package.
 
