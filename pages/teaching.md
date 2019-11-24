@@ -24,7 +24,7 @@ I have assisted with teaching during the following courses.
 - [Advanced Data Science](https://jhu-advdatasci.github.io/2019/) (guest lecture on resampling techniques), Prof. Stephanie Hicks, Johns Hopkins University, 13 Nov 2019
 - Practical Bioinformatics (session on RMarkdown and R programming), Prof. Mark Robinson, University of Zurich, 23 May 2019
 - Statistical Analysis of High-Throughput Genomic and Transcriptomic Data (session on high-dimensional cytometry data analysis), Prof. Mark Robinson, University of Zurich, 26 Nov 2018
-- Practical Bioinformatics (session on single-cell RNA-sequencing data analysis), University of Zurich, 31 May 2018
+- Practical Bioinformatics (session on single-cell RNA-sequencing data analysis), Prof. Mark Robinson, University of Zurich, 31 May 2018
 - Statistical Analysis of High-Throughput Genomic and Transcriptomic Data (session on high-dimensional cytometry data analysis), Prof. Mark Robinson, University of Zurich, 11 Dec 2017
 - Practical Bioinformatics (teaching assistant), Prof. Mark Robinson, University of Zurich, 27--29 May 2015
 - Statistik II (applied statistics and R programming; teaching assistant for exercise sessions), ETH Zurich, fall semester 2014
