@@ -16,19 +16,19 @@ Key publications are described in more detail on the [Research](research.html) p
 
 ### Key papers
 
-##### *Differential analysis in high-dimensional cytometry*
+*Differential analysis in high-dimensional cytometry*
 
 - **Weber L.M.**, Nowicka N., Soneson C., and Robinson M.D. (2019), *diffcyt: Differential discovery in high-dimensional cytometry via high-resolution clustering*, Communications Biology, 2, 183. Links to: [Paper](https://www.nature.com/articles/s42003-019-0415-5), [R/Bioconductor package](http://bioconductor.org/packages/diffcyt), [Code](https://github.com/lmweber/diffcyt-evaluations), [Data](http://flowrepository.org/id/FR-FCM-ZYL8).
 
 - Nowicka N., Krieg C., Crowell H.L., **Weber L.M.**, Hartmann F.J., Guglietta S., Becher B., Levesque M.P., and Robinson M.D. (2017; updated 2019), *CyTOF workflow: differential discovery in high-throughput high-dimensional cytometry datasets*, F1000Research, 6:748, v3. Links to: [Paper](https://f1000research.com/articles/6-748), [R/Bioconductor package](https://bioconductor.org/packages/cytofWorkflow).
 
 
-##### *Benchmarking*
+*Benchmarking*
 
 - **Weber L.M.** and Robinson M.D. (2016), *Comparison of clustering methods for high‐dimensional single‐cell flow and mass cytometry data*, Cytometry Part A, 89A, 12, 1084--1096. Links to: [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.23030), [Code](https://github.com/lmweber/cytometry-clustering-comparison), [Data](http://flowrepository.org/id/FR-FCM-ZZPH).
 
 
-##### *Review*
+*Review*
 
 - **Weber L.M.**, Saelens W., Cannoodt R., Soneson C., Hapfelmeier A., Gardner P.P., Boulesteix A.-L., Saeys Y., and Robinson M.D. (2019), *Essential guidelines for computational method benchmarking*, Genome Biology, 20, 125. Link to: [Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1738-8).
 
