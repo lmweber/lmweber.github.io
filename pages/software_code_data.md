@@ -28,7 +28,7 @@ Additional code repositories (e.g. smaller projects, examples and tutorials, and
 
 - [**diffcyt-evaluations**](https://github.com/lmweber/diffcyt-evaluations): GitHub repository containing code to reproduce the benchmarking analyses in our paper introducing the *diffcyt* framework ([Weber et al. 2019](https://www.nature.com/articles/s42003-019-0415-5)).
 
-- [**cytometry-clustering-comparison**](https://github.com/lmweber/cytometry-clustering-comparison): GitHub repository containing reproducible code from our paper comparing clustering algorithms for high-dimensional cytometry data ([Weber and Robinson, 2016](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.23030)).
+- [**cytometry-clustering-comparison**](https://github.com/lmweber/cytometry-clustering-comparison): GitHub repository containing reproducible code from our benchmark paper comparing clustering algorithms for high-dimensional cytometry data ([Weber and Robinson, 2016](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.23030)).
 
 
 
