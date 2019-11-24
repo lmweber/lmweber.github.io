@@ -10,7 +10,7 @@ I am interested in a variety of problems related to data analysis, statistical m
 
 ### What is a cell type?
 
-From a biological perspective, I am interested in the fundamental question of "what is a cell type?". By learning from datasets generated using new single-cell technologies (e.g., single-cell RNA sequencing, high-dimensional cytometry, single-cell epigenomics, as well as multi-modal technologies), we can refine definitions of known cell types and states according to their molecular profiles, and potentially discover new cell types and subtle transient states, in both health and disease. This question motivates several parts of my methodological work.
+From a biological perspective, I am interested in the fundamental question of "what is a cell type?". By learning from datasets generated using new single-cell technologies (e.g. single-cell RNA sequencing, high-dimensional cytometry, single-cell epigenomics, as well as multi-modal technologies), we can refine definitions of known cell types and states according to their molecular profiles, and potentially discover new cell types and subtle transient states, in both health and disease. This question motivates several parts of my methodological work.
 
 
 
@@ -22,7 +22,7 @@ I am currently involved in a collaborative project aimed at identifying the biol
 
 ### Differential analysis in high-dimensional cytometry data
 
-During my PhD in the lab of [Prof. Mark Robinson, University of Zurich](https://robinsonlabuzh.github.io/), I worked on several projects relating to differential analysis in high-dimensional cytometry data. High-dimensional cytometry refers to a set of technologies that enable measurement of expression levels of around 20--100 proteins in thousands to millions of cells, using targeted antibody-based probes (including multicolor flow cytometry, mass cytometry or CyTOF, and sequence-based or genomic cytometry). Differential analysis experiments aim to detect groups of cells with differing characteristics between samples in different conditions, e.g., diseased vs. healthy. This can include differential abundance of cell types, as well as differential states (e.g., signaling or other functional states) for specific cell types of interest.
+During my PhD in the lab of [Prof. Mark Robinson, University of Zurich](https://robinsonlabuzh.github.io/), I worked on several projects relating to differential analysis in high-dimensional cytometry data. High-dimensional cytometry refers to a set of technologies that enable measurement of expression levels of around 20--100 proteins in thousands to millions of cells, using targeted antibody-based probes (including multicolor flow cytometry, mass cytometry or CyTOF, and sequence-based or genomic cytometry). Differential analysis experiments aim to detect groups of cells with differing characteristics between samples in different conditions, e.g. diseased vs. healthy. This can include differential abundance of cell types, as well as differential states (e.g. signaling or other functional states) for specific cell types of interest.
 
 Key publications related to this theme (which I either led or contributed to) include the following:
 
@@ -38,9 +38,9 @@ Key publications related to this theme (which I either led or contributed to) in
 
 ### Comparison of clustering algorithms
 
-During my PhD, I performed an extensive benchmark of clustering algorithms for high-dimensional cytometry data. Clustering represents a key preprocessing step in computational workflows: measurements from individual cells are summarized by grouping them into clusters representing cell types, which can then be further investigated, e.g., by differential testing.
+During my PhD, I performed an extensive benchmark of clustering algorithms for high-dimensional cytometry data. Clustering represents a key preprocessing step in computational workflows: measurements from individual cells are summarized by grouping them into clusters representing cell types, which can then be further investigated, e.g. by differential testing.
 
-Due to the rapidly increasing dimensionality of datasets from new technologies (in particular mass cytometry or CyTOF), a number of research groups had developed new clustering algorithms designed for these data types. However, these algorithms had not yet been comprehensively compared in an independent evaluation. In our benchmark, we compared freely available clustering algorithms, using several publicly available datasets containing a known ground truth. A key result was that the [FlowSOM](https://bioconductor.org/packages/FlowSOM) algorithm (Van Gassen et al., 2015) gave both excellent performance and fast runtimes; we subsequently used this algorithm in our work on differential analysis.
+Due to the rapidly increasing dimensionality of datasets from new technologies (in particular mass cytometry or CyTOF), a number of research groups had developed new clustering algorithms designed for these data types. However, these algorithms had not yet been comprehensively compared in an independent evaluation. In our benchmark, we compared freely available clustering algorithms, using several publicly available datasets containing a known ground truth. A key result was that the [FlowSOM](https://bioconductor.org/packages/FlowSOM) algorithm (Van Gassen et al. 2015) gave both excellent performance and fast runtimes; we subsequently used this algorithm in our work on differential analysis.
 
 These results are described in the following publication:
 
@@ -63,9 +63,9 @@ In order to assist other computational researchers interested in benchmarking, w
 I am interested in projects that aim to rigorously evaluate and establish statistical practices in the analysis of high-throughput biological data, as well as assisting experimental researchers to access and use suitable computational methods. Specific issues that I plan to work more on in the future include:
 
 - benchmarking of new classes of methods from machine learning
-- data analysis for multi-modal data (e.g., transcriptomic and proteomic data from the same single cells)
+- data analysis for multi-modal data (e.g. transcriptomic and proteomic data from the same single cells)
 - computational workflows (user-friendly, modular)
 - experimental design
-- data preprocessing procedures (e.g., normalization of single-cell data)
+- data preprocessing procedures (e.g. normalization of single-cell data)
 
 
