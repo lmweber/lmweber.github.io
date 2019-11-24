@@ -14,11 +14,11 @@ Key software, code, and data resources are listed below. Additional projects are
 
 Development versions of these packages are also available from [GitHub](https://github.com/lmweber).
 
-- **diffcyt**: R package implementing a computational framework for differential discovery analyses in high-dimensional cytometry data. Available from [Bioconductor](http://bioconductor.org/packages/diffcyt).
+- **diffcyt**: R package implementing a computational framework for differential discovery analyses in high-dimensional cytometry data. [Available from Bioconductor](http://bioconductor.org/packages/diffcyt).
 
-- **HDCytoData**: R package providing streamlined access to a number of publicly available high-dimensional cytometry benchmark datasets in standard Bioconductor object formats. Available from [Bioconductor](http://bioconductor.org/packages/HDCytoData).
+- **HDCytoData**: R package providing streamlined access to a number of publicly available high-dimensional cytometry benchmark datasets in standard Bioconductor object formats. [Available from Bioconductor](http://bioconductor.org/packages/HDCytoData).
 
-- **regsplice**: R package implementing statistical methodology for detection of differential splicing (differential exon usage) in RNA-seq data. Available from [Bioconductor](http://bioconductor.org/packages/regsplice).
+- **regsplice**: R package implementing statistical methodology for detection of differential splicing (differential exon usage) in RNA-seq data. [Available from Bioconductor](http://bioconductor.org/packages/regsplice).
 
 
 
