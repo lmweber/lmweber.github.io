@@ -34,7 +34,7 @@ Additional code repositories (e.g. smaller projects, examples and tutorials, and
 
 ### Data repositories
 
-Papers corresponding to the repositories below are also listed on the [Publications](pages/publications.html) page.
+Papers corresponding to the repositories below are also listed on the [Publications](publications.html) page.
 
 - [**FlowRepository FR-FCM-ZYL8**](http://flowrepository.org/id/FR-FCM-ZYL8): Data repository containing datasets used in the benchmarking analyses from our paper introducing the *diffcyt* framework ([Weber et al. 2019](https://www.nature.com/articles/s42003-019-0415-5)). These datasets are also provided in a more easily accessible format in the [HDCytoData](http://bioconductor.org/packages/HDCytoData) Bioconductor package.
 
