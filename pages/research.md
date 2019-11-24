@@ -69,11 +69,3 @@ I am interested in projects that aim to rigorously evaluate and establish statis
 - data preprocessing procedures (e.g., normalization of single-cell data)
 
 
-
-<!--
-
-note: to add links to other pages: [Publications](pages/publications.html)
-
--->
-
-
