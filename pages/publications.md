@@ -4,7 +4,7 @@ title: Publications
 ---
 
 
-For a complete list of publications, see also [Google Scholar](https://scholar.google.com/citations?user=M8uPSzMAAAAJ&hl=en).
+For a complete list of publications, see also [Google Scholar](https://scholar.google.com/citations?user=1vZo3toAAAAJ&hl=en).
 
 
 
