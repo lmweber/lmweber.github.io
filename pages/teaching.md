@@ -19,7 +19,7 @@ I have instructed at several short workshops through the [Software Carpentry](ht
 
 ### Courses
 
-I have assisted with teaching the following courses.
+I have assisted with teaching during the following courses.
 
 - [Advanced Data Science](https://jhu-advdatasci.github.io/2019/) (guest lecture on resampling techniques), Prof. Stephanie Hicks, Johns Hopkins University, 13 Nov 2019
 - Practical Bioinformatics (session on RMarkdown and R programming), Prof. Mark Robinson, University of Zurich, 23 May 2019
