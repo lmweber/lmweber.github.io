@@ -24,7 +24,7 @@ Development versions of these packages are also available from [GitHub](https://
 
 ### Code repositories
 
-Additional code repositories (e.g. smaller projects, examples and tutorials, and ongoing projects) are available from my [GitHub](https://github.com/lmweber) page. Papers corresponding to the repositories below are also listed on the [Publications](pages/publications.html) page.
+Additional code repositories (e.g. smaller projects, examples and tutorials, and ongoing projects) are available from my [GitHub](https://github.com/lmweber) page. Papers corresponding to the repositories below are also listed on the [Publications](publications.html) page.
 
 - [**diffcyt-evaluations**](https://github.com/lmweber/diffcyt-evaluations): GitHub repository containing code to reproduce the benchmarking analyses in our paper introducing the *diffcyt* framework ([Weber et al. 2019](https://www.nature.com/articles/s42003-019-0415-5)).
 
