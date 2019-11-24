@@ -10,7 +10,7 @@ I am interested in a variety of problems related to data analysis, statistical m
 
 ### What is a cell type?
 
-From a biological perspective, I am interested in the fundamental question of "what is a cell type?". By learning from datasets generated using new single-cell technologies (e.g. single-cell RNA sequencing, high-dimensional cytometry, single-cell epigenomics, as well as multi-modal technologies), we can refine definitions of known cell types and states according to their molecular profiles, and potentially discover new cell types and subtle transient states, in both health and disease. This question motivates several parts of my methodological work.
+From a biological perspective, I am interested in the fundamental question of "what is a cell type?". By learning from datasets generated using new single-cell technologies (e.g. single-cell RNA sequencing, high-dimensional cytometry, single-cell epigenomics, as well as multi-modal technologies), it is possible to refine definitions of known cell types and states according to their molecular profiles, potentially discover new cell types and transient states in health and disease, and address fundamental biological questions regarding the nature of cells and cell types. This question motivates several aspects of my methodological work.
 
 
 
@@ -58,13 +58,14 @@ In order to assist other computational researchers interested in benchmarking, w
 
 
 
-### Further projects
+### Future projects
 
 I am interested in projects that aim to rigorously evaluate and establish statistical practices in the analysis of high-throughput biological data, as well as assisting experimental researchers to access and use suitable computational methods. Specific issues that I plan to work more on in the future include:
 
-- benchmarking of new classes of methods from machine learning
-- data analysis for multi-modal data (e.g. transcriptomic and proteomic data from the same single cells)
-- computational workflows (user-friendly, modular)
+- benchmarking of new classes of methods from machine learning (e.g. generative adversarial networks, GANs)
+- data analysis for single-cell multi-modal data (e.g. transcriptomic and proteomic data from the same cells)
+- data analysis for spatial data (e.g. spatial transcriptomics)
+- computational workflows (user-friendly and modular)
 - experimental design
 - data preprocessing procedures (e.g. normalization of single-cell data)
 
