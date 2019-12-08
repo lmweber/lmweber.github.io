@@ -21,7 +21,7 @@ My training includes a PhD in Biostatistics with [Prof. Mark Robinson](https://r
 <div class="row-fluid" markdown="1">
 <div class="span6" markdown="1">
 
-Dr. Lukas Weber <br/>
+Lukas M. Weber, Ph.D. <br/>
 [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/) <br/>
 [Bloomberg School of Public Health](https://www.jhsph.edu/) <br/>
 [Johns Hopkins University](https://www.jhu.edu/) <br/>

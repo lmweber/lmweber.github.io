@@ -26,7 +26,7 @@ Luckily, a number of innovative initiatives are underway, which aim to improve a
 
 ### Code of conduct
 
-If you plan to collaborate with me, you agree to abide by an appropriate code of conduct policy for an academic environment, such as the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct).
+If you plan to work with me, you agree to abide by an appropriate code of conduct policy for an academic environment, such as the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct).
 
 
 
