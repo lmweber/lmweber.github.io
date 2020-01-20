@@ -10,8 +10,6 @@ Key publications are described in more detail on the [Research](research.html) p
 
 ### Preprints
 
-- **Weber L.M.** and Soneson C. (2019), *HDCytoData: Collection of high-dimensional cytometry benchmark datasets in Bioconductor object formats*, F1000Research, 8:1459, v1. Links to: [Paper](https://f1000research.com/articles/8-1459), [R/Bioconductor package](http://bioconductor.org/packages/HDCytoData).
-
 
 
 ### Key papers
@@ -26,6 +24,8 @@ Key publications are described in more detail on the [Research](research.html) p
 ##### Benchmarking
 
 - **Weber L.M.** and Robinson M.D. (2016), *Comparison of clustering methods for high‐dimensional single‐cell flow and mass cytometry data*, Cytometry Part A, 89A, 12, 1084--1096. Links to: [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.23030), [Code](https://github.com/lmweber/cytometry-clustering-comparison), [Data](http://flowrepository.org/id/FR-FCM-ZZPH).
+
+- **Weber L.M.** and Soneson C. (2019), *HDCytoData: Collection of high-dimensional cytometry benchmark datasets in Bioconductor object formats*, F1000Research, 8:1459, v2. Links to: [Paper](https://f1000research.com/articles/8-1459), [R/Bioconductor package](http://bioconductor.org/packages/HDCytoData).
 
 
 ##### Review
