@@ -36,6 +36,8 @@ Key publications are described in more detail on the [Research](research.html) p
 
 ### Collaboration papers
 
+- Shaul M.E., Eyal O., Guglietta S., Aloni P., Zlotnik A., Forkosh E., Levy L., **Weber L.M.**, Levin Y., Pomerantz A., Nechushtan H., Eruslanov E., Singhal S., Robinson M.D., Krieg C., and Fridlender Z.G. (2020), *Circulating neutrophil subsets in advanced lung cancer patients exhibit unique immune signature and relate to prognosis*, FASEB Journal. Link to: [Paper](https://onlinelibrary.wiley.com/doi/full/10.1096/fj.201902467R). <!-- to do: add journal volume / issue / page number when available -->
+
 - Krieg C., Nowicka M., Guglietta S., Schindler S., Hartmann F.J., **Weber L.M.**, Dummer R., Robinson M.D., Levesque M.P.\* and Becher B.\* (2018), *High-dimensional single-cell analysis predicts response to anti-PD-1 immunotherapy*, Nature Medicine, 24, 2, 144--153. Link to: [Paper](https://www.nature.com/articles/nm.4466).
 
 - Hartmann F.J., Bernard-Valnet R., Quériault C., Mrdjen D., **Weber L.M.**, Galli E., Krieg C., Robinson M.D., Nguyen X.-H., Dauvilliers Y., Liblau R.S., and Becher B. (2016), *High-dimensional single-cell analysis reveals the immune signature of narcolepsy*, Journal of Experimental Medicine, 213, 12, 2621--2633. Link to: [Paper](http://jem.rupress.org/content/213/12/2621).
