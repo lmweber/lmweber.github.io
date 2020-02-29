@@ -10,6 +10,8 @@ Key publications are described in more detail on the [Research](research.html) p
 
 ### Preprints
 
+##### Spatial transcriptomics
+
 - Maynard K.R.\*, Collado-Torres L.\*, **Weber L.M.**, Uytingco C., Barry B.K., Williams S.R., Catallini J.L. II, Tran M.N., Besich Z., Tippani M., Chew J., Yin Y., Kleinman J.E., Hyde T.M., Rao N., Hicks S.C., Martinowich K.<sup>+</sup>, Jaffe A.E.<sup>+</sup> (2020), *Transcriptome-scale spatial gene expression in the human dorsolateral prefrontal cortex*, bioRxiv, v1. Links to: [Paper](https://www.biorxiv.org/content/10.1101/2020.02.28.969931v1), [Web application](http://spatial.libd.org/spatialLIBD/), [R/Bioconductor package](http://bioconductor.org/packages/spatialLIBD), [Code for paper](https://github.com/LieberInstitute/HumanPilot), [Code for web application](https://github.com/LieberInstitute/spatialLIBD).
 
 
