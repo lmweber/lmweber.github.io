@@ -12,7 +12,7 @@ This includes techniques such as clustering and dimension reduction.
 
 I am also interested in making these methods accessible through the development of user-friendly computational data analysis pipelines.
 
-**Key papers:**
+*Key papers:*
 
 - **Weber L.M.** and Robinson M.D. (2016), *Comparison of clustering methods for high‐dimensional single‐cell flow and mass cytometry data*, Cytometry Part A, 89A, 12, 1084--1096. Links to: [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.23030), [Code](https://github.com/lmweber/cytometry-clustering-comparison), [Data](http://flowrepository.org/id/FR-FCM-ZZPH).
 
@@ -30,7 +30,7 @@ Methods for differential analyses are frequently used for exploratory analyses i
 
 I have been involved with several projects to develop improved methods for DA and DS analyses in mass cytometry (CyTOF) data.
 
-**Key papers:**
+*Key papers:*
 
 - **Weber L.M.**, Nowicka N., Soneson C., and Robinson M.D. (2019), *diffcyt: Differential discovery in high-dimensional cytometry via high-resolution clustering*, Communications Biology, 2, 183. Links to: [Paper](https://www.nature.com/articles/s42003-019-0415-5), [R/Bioconductor package](http://bioconductor.org/packages/diffcyt), [Code](https://github.com/lmweber/diffcyt-evaluations), [Data](http://flowrepository.org/id/FR-FCM-ZYL8).
 
@@ -46,17 +46,17 @@ I have been involved with several projects to develop improved methods for DA an
 
 My methodological work is motivated by experimental collaborations in high-throughput biology. Recently, I have been involved in several collaborations on data analysis for spatial transcriptomics (10x Genomics Visium platform) in human brain. This is a fascinating new type of data, which allows measuring transcriptome-wide gene expression with spatial resolution, at near single-cell level. These projects allow us to contribute to fundamental biological insights, while opening up new avenues for statistical methodological research to develop data analysis methods that account for the unique characteristics of these data types.
 
-**Key papers:**
+*Key papers:*
 
 - Maynard and Collado-Torres et al. (2020) (spatial transcriptomics collaboration on human brain; see details above)
 
 
 
-### Experimental design
+### Single-cell RNA sequencing
 
 Single-cell RNA sequencing experiments are expensive, and frequently subject to systematic issues such as batch effects. Application of improved methods for experimental design, such as genetic variation-based sample multiplexing, can help alleviate these issues.
 
-**Key papers:**
+*Key papers:*
 
 - **Weber L.M.**, Hippen A.A., Hickey P.F., Berrett K.C., Gertz J., Doherty J.A., Greene C.S., and Hicks S.C. (2020), *Genetic demultiplexing of pooled single-cell RNA-sequencing samples in cancer facilitates effective experimental design*, bioRxiv, v1, 371963. Links to: [Paper](https://www.biorxiv.org/content/10.1101/2020.11.06.371963v1), [Code](https://github.com/lmweber/snp-dmx-cancer), [Data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE156793), [Code (controlled access)](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002262.v1.p1).
 
@@ -70,7 +70,7 @@ Benchmarking is a crucial aspect of computational methods development. New metho
 
 Useful contributions include both neutral benchmarks (i.e. major systematic comparisons of algorithms by researchers not involved with developing any of the methods), as well as smaller (but still comprehensive) benchmarks performed by developers of a new method to demonstrate their performance.
 
-**Key papers:**
+*Key papers:*
 
 - **Weber L.M.**, Saelens W., Cannoodt R., Soneson C., Hapfelmeier A., Gardner P.P., Boulesteix A.-L., Saeys Y., and Robinson M.D. (2019), *Essential guidelines for computational method benchmarking*, Genome Biology, 20, 125. Link to: [Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1738-8).
 

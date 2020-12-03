@@ -16,8 +16,8 @@ Recent conference talks:
 
 Recent conference posters:
 
-- ASHG Institute for Genomic Medicine Symposium on Spatial Omics, 26 October 2020 (virtual symposium; poster): *Unsupervised analysis of transcriptome-scale spatial gene expression in human dorsolateral prefrontal cortex using spatial transcriptomics data*, [link to poster](https://zenodo.org/record/4110719)
+- ASHG Institute for Genomic Medicine Symposium on Spatial Omics, 26 October 2020 (virtual symposium; poster): *Unsupervised analysis of transcriptome-scale spatial gene expression in human dorsolateral prefrontal cortex using spatial transcriptomics data*. [Link to poster](https://zenodo.org/record/4110719).
 
-- Genome Informatics, 14 September 2020 (virtual conference; poster and lightning talk): *Unsupervised analysis of transcriptome-scale spatial gene expression in human dorsolateral prefrontal cortex using spatial transcriptomics data*, [link to poster](https://zenodo.org/record/4110719)
+- Genome Informatics, 14 September 2020 (virtual conference; poster and lightning talk): *Unsupervised analysis of transcriptome-scale spatial gene expression in human dorsolateral prefrontal cortex using spatial transcriptomics data*. [Link to poster](https://zenodo.org/record/4110719).
 
 

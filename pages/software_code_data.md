@@ -8,7 +8,7 @@ title: Software / Code / Data
 
 Links to most of my software packages and code repositories are also available via [GitHub](https://github.com/lmweber).
 
-Key packages and repositories are listed below. Additional smaller repositories are also available via GitHub.
+Key packages and repositories are listed below. Additional smaller repositories are also available via [GitHub](https://github.com/lmweber).
 
 
 
