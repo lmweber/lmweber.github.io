@@ -94,9 +94,9 @@ Key papers:
 
 ### Open science
 
-Science is a collaborative human effort spanning continents and generations. Openness is crucial, since it allows us all to build on each others' achievements.
+Science is a collaborative human effort spanning continents and generations. Openness is crucial, since it allows us all to build on each others' achievements and insights.
 
-I strongly support modern practices in open science, including -- providing freely available code and data repositories along with all papers to ensure reproducibility of computational analyses; developing freely available and open-source software packages to implement all new statistical methods; collaborative development of software via platforms such as GitHub; and making papers more easily accessible by posting preprints and publishing open access papers.
+I strongly support modern practices in open science, including -- providing freely available code and data repositories along with all papers to ensure reproducibility of computational analyses; developing freely available and open-source software packages to implement all new statistical methods; collaborative development of software via platforms such as GitHub; and making papers accessible by posting preprints and publishing open access papers.
 
 These practices have undergone enormous change within the last 10 years -- especially the widespread adoption of preprints in biology through [bioRxiv](https://www.biorxiv.org/). I am excited to continue following these developments over the coming years and decades, and will continue to adopt best practices in open science in all my own research work.
 
