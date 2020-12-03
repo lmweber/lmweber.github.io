@@ -1,18 +1,18 @@
 ---
 layout: page
-title: Software, code, data
+title: Software / Code / Data
 ---
 
 
-I have led the development of and am responsible for maintaining several software packages, available as R packages from Bioconductor and GitHub. In addition, I have created publicly accessible code and data repositories to support the analyses in my published papers.
+### GitHub
 
-Key software, code, and data resources are listed below. Additional projects are also accessible from my [GitHub](https://github.com/lmweber) page.
+Links to most of my software packages and code repositories are also available via [GitHub](https://github.com/lmweber).
+
+Key packages and repositories are listed below. Additional smaller repositories are also available via GitHub.
 
 
 
 ### Software packages
-
-Development versions of these packages are also available from [GitHub](https://github.com/lmweber).
 
 - **diffcyt**: R package implementing a computational framework for differential discovery analyses in high-dimensional cytometry data. [Available from Bioconductor](http://bioconductor.org/packages/diffcyt).
 
@@ -24,7 +24,7 @@ Development versions of these packages are also available from [GitHub](https://
 
 ### Code repositories
 
-Additional code repositories (e.g. smaller projects, examples and tutorials, and ongoing projects) are available from my [GitHub](https://github.com/lmweber) page. Papers corresponding to the repositories below are also listed on the [Publications](publications.html) page.
+- [**snp-dmx-cancer**](https://github.com/lmweber/snp-dmx-cancer): Snakemake pipeline and code repository to reproduce analyses in our paper evaluating genetic variation-based demultiplexing for single-cell RNA sequencing ([Weber et al. 2020](https://www.biorxiv.org/content/10.1101/2020.11.06.371963v1)).
 
 - [**diffcyt-evaluations**](https://github.com/lmweber/diffcyt-evaluations): GitHub repository containing code to reproduce the benchmarking analyses in our paper introducing the *diffcyt* framework ([Weber et al. 2019](https://www.nature.com/articles/s42003-019-0415-5)).
 
@@ -33,8 +33,6 @@ Additional code repositories (e.g. smaller projects, examples and tutorials, and
 
 
 ### Data repositories
-
-Papers corresponding to the repositories below are also listed on the [Publications](publications.html) page.
 
 - [**FlowRepository FR-FCM-ZYL8**](http://flowrepository.org/id/FR-FCM-ZYL8): Data repository containing datasets used in the benchmarking analyses from our paper introducing the *diffcyt* framework ([Weber et al. 2019](https://www.nature.com/articles/s42003-019-0415-5)). These datasets are also provided in a more easily accessible format in the [HDCytoData](http://bioconductor.org/packages/HDCytoData) Bioconductor package.
 
