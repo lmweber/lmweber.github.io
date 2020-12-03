@@ -1,6 +1,14 @@
-# My website
+# Repository for my website
 
-**Link to website:** [**lmweber.github.io**](https://lmweber.github.io/)
+Repository containing code for my academic website.
 
-(Based on Karl Broman's ["simple site" website tutorial](https://kbroman.org/simple_site/))
+
+## Link to website
+
+Link to website: [**lmweber.github.io**](https://lmweber.github.io/)
+
+
+## Acknowledgments
+
+Code is based on Karl Broman's ["simple site" website tutorial](https://kbroman.org/simple_site/)).
 
