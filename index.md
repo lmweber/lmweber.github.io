@@ -6,11 +6,13 @@ layout: page
 
 ### About
 
-I am a postdoctoral fellow in [Prof. Stephanie Hicks's](https://www.stephaniehicks.com/) group in the [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/), [Bloomberg School of Public Health](https://www.jhsph.edu/), [Johns Hopkins University](https://www.jhu.edu/).
+I am a postdoctoral fellow in [Prof. Stephanie Hicks's](https://www.stephaniehicks.com/) group in the [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/) at the [Bloomberg School of Public Health](https://www.jhsph.edu/), [Johns Hopkins University](https://www.jhu.edu/).
 
 My research work is on statistical methodology, software development, and benchmarking for the analysis of high-throughput genomics data. Currently, I am mainly working with single-cell RNA sequencing and spatial transcriptomics data.
 
-My work is motivated by collaborative projects with researchers in various fields of biology. These collaborations show us where the interesting statistical problem lie, and let us contribute to fascinating scientific advances. In my methodological work, I am a strong proponent of rigorous benchmarking against existing methods. I strongly support open science, including free code and data availability and publication of preprints. I mainly work with the R programming language, and most of my software packages have been developed as part of the [Bioconductor](http://bioconductor.org/) project.
+My work is motivated by collaborative projects with researchers in various fields of biology. These collaborations show us where the interesting statistical problem lie, and let us contribute to fascinating scientific advances. In my methodological work, I am a strong proponent of rigorous benchmarking against existing methods. I strongly support open science, including free code and data availability and publication of preprints.
+
+I mainly work with the R programming language, and most of my software packages have been developed as part of the [Bioconductor](http://bioconductor.org/) project.
 
 I am also interested in teaching, especially R programming skills, and have been an instructor for several short workshops for [Data Carpentry](https://datacarpentry.org/) and [Software Carpentry](https://software-carpentry.org/).
 
