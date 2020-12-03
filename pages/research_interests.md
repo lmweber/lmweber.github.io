@@ -16,12 +16,15 @@ Key papers:
 
 - **Weber L.M.** and Robinson M.D. (2016), *Comparison of clustering methods for high‐dimensional single‐cell flow and mass cytometry data*, Cytometry Part A, 89A, 12, 1084--1096. Links to: [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.23030), [Code](https://github.com/lmweber/cytometry-clustering-comparison), [Data](http://flowrepository.org/id/FR-FCM-ZZPH).
 
-    - benchmark paper comparing the performance of clustering algorithms for mass cytometry (CyTOF) data <br/>
+    - benchmark paper comparing the performance of clustering algorithms for mass cytometry (CyTOF) data
 
+<br/>
 
 - Maynard K.R.\*, Collado-Torres L.\*, **Weber L.M.**, Uytingco C., Barry B.K., Williams S.R., Catallini J.L. II, Tran M.N., Besich Z., Tippani M., Chew J., Yin Y., Kleinman J.E., Hyde T.M., Rao N., Hicks S.C., Martinowich K.<sup>+</sup>, Jaffe A.E.<sup>+</sup> (2020), *Transcriptome-scale spatial gene expression in the human dorsolateral prefrontal cortex*, bioRxiv, v1. Links to: [Paper](https://www.biorxiv.org/content/10.1101/2020.02.28.969931v1), [Web application](http://spatial.libd.org/spatialLIBD/), [R/Bioconductor package](http://bioconductor.org/packages/spatialLIBD), [Code for paper](https://github.com/LieberInstitute/HumanPilot), [Code for web application](https://github.com/LieberInstitute/spatialLIBD).
 
-    - collaboration paper investigating the spatial landscape of gene expression in human brain (dorsolateral prefrontal cortex); my contribution consisted of the development of an unsupervised analysis pipeline <br/>
+    - collaboration paper investigating the spatial landscape of gene expression in human brain (dorsolateral prefrontal cortex); my contribution consisted of the development of an unsupervised analysis pipeline
+
+<br/>
 
 
 
@@ -35,12 +38,15 @@ Key papers:
 
 - **Weber L.M.**, Nowicka N., Soneson C., and Robinson M.D. (2019), *diffcyt: Differential discovery in high-dimensional cytometry via high-resolution clustering*, Communications Biology, 2, 183. Links to: [Paper](https://www.nature.com/articles/s42003-019-0415-5), [R/Bioconductor package](http://bioconductor.org/packages/diffcyt), [Code](https://github.com/lmweber/diffcyt-evaluations), [Data](http://flowrepository.org/id/FR-FCM-ZYL8).
 
-    - development of an improved computational framework for differential analyses in mass cytometry (CyTOF) data, implemented as an R/Bioconductor software package named `diffcyt` <br/>
+    - development of an improved computational framework for differential analyses in mass cytometry (CyTOF) data, implemented as an R/Bioconductor software package named `diffcyt`
 
+<br/>
 
 - Nowicka N., Krieg C., Crowell H.L., **Weber L.M.**, Hartmann F.J., Guglietta S., Becher B., Levesque M.P., and Robinson M.D. (2017; updated 2019), *CyTOF workflow: differential discovery in high-throughput high-dimensional cytometry datasets*, F1000Research, 6:748, v3. Links to: [Paper](https://f1000research.com/articles/6-748), [R/Bioconductor package](https://bioconductor.org/packages/cytofWorkflow).
 
-    - contributed to a comprehensive data analysis pipeline for differential analyses in mass cytometry (CyTOF) data <br/>
+    - contributed to a comprehensive data analysis pipeline for differential analyses in mass cytometry (CyTOF) data
+
+<br/>
 
 
 
@@ -62,7 +68,9 @@ Key papers:
 
 - **Weber L.M.**, Hippen A.A., Hickey P.F., Berrett K.C., Gertz J., Doherty J.A., Greene C.S., and Hicks S.C. (2020), *Genetic demultiplexing of pooled single-cell RNA-sequencing samples in cancer facilitates effective experimental design*, bioRxiv, v1, 371963. Links to: [Paper](https://www.biorxiv.org/content/10.1101/2020.11.06.371963v1), [Code](https://github.com/lmweber/snp-dmx-cancer), [Data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE156793), [Code (controlled access)](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002262.v1.p1).
 
-    - evaluation of genetic variation-based sample demultiplexing in the context of an experimental collaboration on high-grade serous ovarian cancer (HGSOC), and development of a Snakemake computational pipeline <br/>
+    - evaluation of genetic variation-based sample demultiplexing in the context of an experimental collaboration on high-grade serous ovarian cancer (HGSOC), and development of a Snakemake computational pipeline
+
+<br/>
 
 
 
@@ -76,8 +84,9 @@ Key papers:
 
 - **Weber L.M.**, Saelens W., Cannoodt R., Soneson C., Hapfelmeier A., Gardner P.P., Boulesteix A.-L., Saeys Y., and Robinson M.D. (2019), *Essential guidelines for computational method benchmarking*, Genome Biology, 20, 125. Link to: [Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1738-8).
 
-    - review paper summarizing our views and guidance for how to best perform different types of benchmarking studies <br/>
+    - review paper summarizing our views and guidance for how to best perform different types of benchmarking studies
 
+<br/>
 
 - Weber and Robinson (2016) (comparison of clustering algorithms for mass cytometry data; see details above)
 
