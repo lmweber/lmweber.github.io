@@ -19,6 +19,8 @@ I am also interested in teaching, especially R programming skills, and have been
 My training includes a PhD in Biostatistics with [Prof. Mark Robinson](https://robinsonlabuzh.github.io/) at the University of Zurich, Switzerland, and a MSc in Statistics at ETH Zurich, Switzerland. Previously, I studied physics, mathematics, and economics at the University of Western Australia and Australian National University, and worked for several years as a policy analyst for the Australian federal public service.
 
 
+---
+
 
 ### Contact
 
