@@ -11,6 +11,8 @@ Recent conference talks:
 - BioC 2020 (Bioconductor annual conference), 29 July 2020 (virtual conference): *Unsupervised analysis of transcriptome-scale spatial gene expression data in the human prefrontal cortex*
 
 
+---
+
 
 ### Conference posters
 

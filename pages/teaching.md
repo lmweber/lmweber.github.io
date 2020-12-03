@@ -16,6 +16,8 @@ I have instructed at several short workshops through the [Software Carpentry](ht
 - [Software Carpentry, ResBaz Perth, Murdoch University, Australia](http://raffademichelis.github.io/2016-02-01-perth/): 1--3 Feb 2016
 
 
+---
+
 
 ### Courses
 

@@ -23,6 +23,8 @@ Key papers:
     - collaboration paper investigating the spatial landscape of gene expression in human brain (dorsolateral prefrontal cortex); my contribution consisted of the development of an unsupervised analysis pipeline
 
 
+---
+
 
 ### Differential analyses
 
@@ -41,6 +43,8 @@ Key papers:
     - contributed to a comprehensive data analysis pipeline for differential analyses in mass cytometry (CyTOF) data
 
 
+---
+
 
 ### Spatial transcriptomics
 
@@ -50,6 +54,8 @@ Key papers:
 
 - Maynard and Collado-Torres et al. (2020) (spatial transcriptomics collaboration on human brain; see details above)
 
+
+---
 
 
 ### Single-cell RNA sequencing
@@ -62,6 +68,8 @@ Key papers:
 
     - evaluation of genetic variation-based sample demultiplexing in the context of an experimental collaboration on high-grade serous ovarian cancer (HGSOC), and development of a Snakemake computational pipeline
 
+
+---
 
 
 ### Benchmarking
@@ -80,6 +88,8 @@ Key papers:
 
 - Weber et al. (2019) (development of `diffcyt` framework for differential analyses in mass cytometry data; see details above)
 
+
+---
 
 
 ### Open science

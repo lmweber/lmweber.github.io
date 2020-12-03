@@ -11,6 +11,8 @@ Links to most of my software packages and code repositories are also available v
 Key packages and repositories are listed below. Additional smaller repositories are also available via [GitHub](https://github.com/lmweber).
 
 
+---
+
 
 ### Software packages
 
@@ -21,6 +23,8 @@ Key packages and repositories are listed below. Additional smaller repositories 
 - **regsplice**: R package implementing statistical methodology for detection of differential splicing (differential exon usage) in RNA-seq data. [Available from Bioconductor](http://bioconductor.org/packages/regsplice).
 
 
+---
+
 
 ### Code repositories
 
@@ -30,6 +34,8 @@ Key packages and repositories are listed below. Additional smaller repositories 
 
 - [**cytometry-clustering-comparison**](https://github.com/lmweber/cytometry-clustering-comparison): GitHub repository containing reproducible code from our benchmark paper comparing clustering algorithms for high-dimensional cytometry data ([Weber and Robinson, 2016](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.23030)).
 
+
+---
 
 
 ### Data repositories
