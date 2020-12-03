@@ -36,7 +36,7 @@ Key papers:
 
 - **Weber L.M.**, Nowicka N., Soneson C., and Robinson M.D. (2019), *diffcyt: Differential discovery in high-dimensional cytometry via high-resolution clustering*, Communications Biology, 2, 183. Links to: [Paper](https://www.nature.com/articles/s42003-019-0415-5), [R/Bioconductor package](http://bioconductor.org/packages/diffcyt), [Code](https://github.com/lmweber/diffcyt-evaluations), [Data](http://flowrepository.org/id/FR-FCM-ZYL8).
 
-    - development of an improved computational framework for differential analyses in mass cytometry (CyTOF) data, implemented as an R/Bioconductor software package named `diffcyt` <br/> <br/>
+    - development of an improved computational framework for differential analyses in mass cytometry (CyTOF) data, implemented as an R/Bioconductor software package named *diffcyt* <br/> <br/>
 
 - Nowicka N., Krieg C., Crowell H.L., **Weber L.M.**, Hartmann F.J., Guglietta S., Becher B., Levesque M.P., and Robinson M.D. (2017; updated 2019), *CyTOF workflow: differential discovery in high-throughput high-dimensional cytometry datasets*, F1000Research, 6:748, v3. Links to: [Paper](https://f1000research.com/articles/6-748), [R/Bioconductor package](https://bioconductor.org/packages/cytofWorkflow).
 
@@ -86,7 +86,7 @@ Key papers:
 
 - Weber and Robinson (2016) (comparison of clustering algorithms for mass cytometry data; see details above)
 
-- Weber et al. (2019) (development of `diffcyt` framework for differential analyses in mass cytometry data; see details above)
+- Weber et al. (2019) (development of *diffcyt* framework for differential analyses in mass cytometry data; see details above)
 
 
 ---
