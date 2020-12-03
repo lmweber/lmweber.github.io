@@ -19,12 +19,9 @@ Key papers:
     - benchmark paper comparing the performance of clustering algorithms for mass cytometry (CyTOF) data
 
 <br/>
-
 - Maynard K.R.\*, Collado-Torres L.\*, **Weber L.M.**, Uytingco C., Barry B.K., Williams S.R., Catallini J.L. II, Tran M.N., Besich Z., Tippani M., Chew J., Yin Y., Kleinman J.E., Hyde T.M., Rao N., Hicks S.C., Martinowich K.<sup>+</sup>, Jaffe A.E.<sup>+</sup> (2020), *Transcriptome-scale spatial gene expression in the human dorsolateral prefrontal cortex*, bioRxiv, v1. Links to: [Paper](https://www.biorxiv.org/content/10.1101/2020.02.28.969931v1), [Web application](http://spatial.libd.org/spatialLIBD/), [R/Bioconductor package](http://bioconductor.org/packages/spatialLIBD), [Code for paper](https://github.com/LieberInstitute/HumanPilot), [Code for web application](https://github.com/LieberInstitute/spatialLIBD).
 
     - collaboration paper investigating the spatial landscape of gene expression in human brain (dorsolateral prefrontal cortex); my contribution consisted of the development of an unsupervised analysis pipeline
-
-<br/>
 
 
 
@@ -41,12 +38,9 @@ Key papers:
     - development of an improved computational framework for differential analyses in mass cytometry (CyTOF) data, implemented as an R/Bioconductor software package named `diffcyt`
 
 <br/>
-
 - Nowicka N., Krieg C., Crowell H.L., **Weber L.M.**, Hartmann F.J., Guglietta S., Becher B., Levesque M.P., and Robinson M.D. (2017; updated 2019), *CyTOF workflow: differential discovery in high-throughput high-dimensional cytometry datasets*, F1000Research, 6:748, v3. Links to: [Paper](https://f1000research.com/articles/6-748), [R/Bioconductor package](https://bioconductor.org/packages/cytofWorkflow).
 
     - contributed to a comprehensive data analysis pipeline for differential analyses in mass cytometry (CyTOF) data
-
-<br/>
 
 
 
@@ -70,8 +64,6 @@ Key papers:
 
     - evaluation of genetic variation-based sample demultiplexing in the context of an experimental collaboration on high-grade serous ovarian cancer (HGSOC), and development of a Snakemake computational pipeline
 
-<br/>
-
 
 
 ### Benchmarking
@@ -87,7 +79,6 @@ Key papers:
     - review paper summarizing our views and guidance for how to best perform different types of benchmarking studies
 
 <br/>
-
 - Weber and Robinson (2016) (comparison of clustering algorithms for mass cytometry data; see details above)
 
 - Weber et al. (2019) (development of `diffcyt` framework for differential analyses in mass cytometry data; see details above)
