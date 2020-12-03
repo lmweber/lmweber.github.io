@@ -39,7 +39,7 @@ Baltimore, MD 21205-2179, USA
 </div>
 <div class="span3" markdown="1">
 
-<img src="images/Lukas_Weber_photo_small.jpg" alt="Lukas Weber photo" width="190">
+<img src="images/Lukas_Weber_photo_small.jpg" alt="Lukas Weber photo" width="180">
 
 </div>
 </div>
