@@ -1,11 +1,11 @@
 # Code repository for my website
 
-Repository containing code for my academic website.
+Repository containing code for my website.
 
 
 ## Link to website
 
-Link to website: https://lmweber.org/
+Link to website: [https://lmweber.org/](https://lmweber.org/)
 
 
 ## Acknowledgments
