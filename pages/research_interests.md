@@ -6,11 +6,7 @@ title: Research Interests
 
 ### Unsupervised statistical methods
 
-I am interested in developing improved statistical methods for unsupervised analyses in high-throughput and high-dimensional biological data, including mass cytometry (CyTOF), single-cell RNA sequencing, and spatial transcriptomics.
-
-This includes techniques such as clustering and dimension reduction.
-
-I am also interested in making these methods accessible through the development of user-friendly computational data analysis pipelines.
+I am interested in developing improved statistical methods for unsupervised analyses in high-throughput and high-dimensional biological data, including spatial transcriptomics, single-cell RNA sequencing, and mass cytometry (CyTOF). This includes techniques such as clustering and dimension reduction. I am also interested in making these methods accessible through the development of user-friendly computational data analysis pipelines.
 
 Key papers:
 
@@ -28,9 +24,7 @@ Key papers:
 
 ### Differential analyses
 
-Methods for differential analyses are frequently used for exploratory analyses in high-throughput genomics data -- for example identifying differentially abundant (DA) subpopulations of cells, or differential states (DS) within cell populations.
-
-I have been involved with several projects to develop improved methods for DA and DS analyses in mass cytometry (CyTOF) data.
+Methods for differential analyses are frequently used for exploratory analyses in high-throughput genomics data -- for example identifying differentially abundant (DA) subpopulations of cells, or differential states (DS) of expression within cell populations. I have been involved with several projects to develop improved methods for DA and DS analyses in mass cytometry (CyTOF) data.
 
 Key papers:
 
@@ -48,11 +42,11 @@ Key papers:
 
 ### Spatial transcriptomics
 
-My methodological work is motivated by experimental collaborations in high-throughput biology. Recently, I have been involved in several collaborations on data analysis for spatial transcriptomics (10x Genomics Visium platform) in human brain. This is a fascinating new type of data, which allows measuring transcriptome-wide gene expression with spatial resolution, at near single-cell level. These projects allow us to contribute to fundamental biological insights, while opening up new avenues for statistical methodological research to develop data analysis methods that account for the unique characteristics of these data types.
+My methodological work is motivated by experimental collaborations in high-throughput molecular biology. Recently, I have been involved in several collaborations on data analysis for spatial transcriptomics (using the 10x Genomics Visium platform) in human brain. This is a fascinating new type of data, which allows measuring transcriptome-wide gene expression with spatial resolution, at near single-cell level. These projects allow us to contribute to fundamental biological insights, while opening up new avenues for statistical methodological research to develop data analysis methods that account for the unique characteristics of these data types.
 
 Key papers:
 
-- Maynard and Collado-Torres et al. (2020) (spatial transcriptomics collaboration on human brain; see details above)
+- Maynard and Collado-Torres et al. (2020) (spatial transcriptomics collaboration on human brain; see link and details above)
 
 
 ---
@@ -60,7 +54,7 @@ Key papers:
 
 ### Single-cell RNA sequencing
 
-Single-cell RNA sequencing experiments are expensive, and frequently subject to systematic issues such as batch effects. Application of improved methods for experimental design, such as genetic variation-based sample multiplexing, can help alleviate these issues.
+Single-cell RNA sequencing experiments are expensive, and frequently subject to systematic issues such as batch effects. Application of improved methods for experimental design, such as sample pooling and genetic variation-based sample demultiplexing, can help alleviate these issues.
 
 Key papers:
 
@@ -74,9 +68,7 @@ Key papers:
 
 ### Benchmarking
 
-Benchmarking is a crucial aspect of computational methods development. New methods must be rigorously compared against existing methods, both in terms of statistical performance, as well as other aspects such as computational complexity and runtime.
-
-Useful contributions include both neutral benchmarks (i.e. major systematic comparisons of algorithms by researchers not involved with developing any of the methods), as well as smaller (but still comprehensive) benchmarks performed by developers of a new method to demonstrate their performance.
+Benchmarking is a crucial aspect of computational methods development. New methods must be rigorously compared against existing methods, both in terms of statistical performance, as well as other aspects such as computational complexity and runtime. Useful contributions include both neutral benchmarks (i.e. major systematic comparisons of algorithms by researchers not involved with the development of any of the methods), as well as smaller (but still comprehensive) benchmarks performed by developers of a new method to demonstrate their performance.
 
 Key papers:
 
@@ -84,9 +76,9 @@ Key papers:
 
     - review paper summarizing our views and guidance for how to best perform different types of benchmarking studies <br/> <br/>
 
-- Weber and Robinson (2016) (comparison of clustering algorithms for mass cytometry data; see details above)
+- Weber and Robinson (2016) (comparison of clustering algorithms for mass cytometry data; see link and details above)
 
-- Weber et al. (2019) (development of *diffcyt* framework for differential analyses in mass cytometry data; see details above)
+- Weber et al. (2019) (development of *diffcyt* framework for differential analyses in mass cytometry data; see link and details above)
 
 
 ---
