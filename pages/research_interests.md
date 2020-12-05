@@ -58,7 +58,7 @@ Single-cell RNA sequencing experiments are expensive, and frequently subject to 
 
 Key papers:
 
-- **Weber L.M.**, Hippen A.A., Hickey P.F., Berrett K.C., Gertz J., Doherty J.A., Greene C.S., and Hicks S.C. (2020), *Genetic demultiplexing of pooled single-cell RNA-sequencing samples in cancer facilitates effective experimental design*, bioRxiv, v1, 371963. Links to: [Paper](https://www.biorxiv.org/content/10.1101/2020.11.06.371963v1), [Code](https://github.com/lmweber/snp-dmx-cancer), [Data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE156793), [Code (controlled access)](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002262.v1.p1).
+- **Weber L.M.**, Hippen A.A., Hickey P.F., Berrett K.C., Gertz J., Doherty J.A., Greene C.S., and Hicks S.C. (2020), *Genetic demultiplexing of pooled single-cell RNA-sequencing samples in cancer facilitates effective experimental design*, bioRxiv, v1, 371963. Links to: [Paper](https://www.biorxiv.org/content/10.1101/2020.11.06.371963v1), [Code](https://github.com/lmweber/snp-dmx-cancer), [Data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE156793), [Data (controlled access)](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002262.v1.p1).
 
     - evaluation of genetic variation-based sample demultiplexing in the context of an experimental collaboration on high-grade serous ovarian cancer (HGSOC), and development of a Snakemake computational pipeline
 
