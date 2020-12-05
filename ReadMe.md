@@ -5,7 +5,7 @@ Repository containing code for my academic website.
 
 ## Link to website
 
-Link to website: [lmweber.github.io](https://lmweber.github.io/)
+Link to website: https://lmweber.org/
 
 
 ## Acknowledgments
