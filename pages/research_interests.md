@@ -46,7 +46,7 @@ My methodological work is motivated by experimental collaborations in high-throu
 
 Key papers:
 
-- Maynard and Collado-Torres et al. (2020) (spatial transcriptomics collaboration on human brain; see details and link above under "Unsupervised statistical methods")
+- Maynard and Collado-Torres et al. (2020) (collaboration on human brain; see details and link above under "Unsupervised statistical methods")
 
 
 ---
@@ -76,7 +76,7 @@ Key papers:
 
     - review paper summarizing our views and guidance for how to best perform different types of benchmarking studies <br/> <br/>
 
-- Weber and Robinson (2016) (comparison of clustering algorithms for mass cytometry data; see details and link above under "Unsupervised statistical methods")
+- Weber and Robinson (2016) (comparison of clustering algorithms; see details and link above under "Unsupervised statistical methods")
 
 - Weber et al. (2019) (development of *diffcyt* computational framework; see details and link above under "Differential analyses")
 
