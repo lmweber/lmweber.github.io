@@ -6,7 +6,7 @@ title: Research Interests
 
 ### Unsupervised statistical methods
 
-I am interested in developing improved statistical methods for unsupervised analyses in high-throughput and high-dimensional biological data, including spatial transcriptomics, single-cell RNA sequencing, and mass cytometry (CyTOF). This includes techniques such as clustering and dimension reduction. I am also interested in making these methods accessible through the development of user-friendly computational data analysis pipelines.
+I am interested in developing improved statistical methods for unsupervised analyses in high-throughput and high-dimensional biological data, including spatial transcriptomics, single-cell RNA sequencing, and mass cytometry (CyTOF). This includes techniques such as clustering and dimension reduction. I am also interested in benchmarking these methods, and making methods accessible through the development of user-friendly computational data analysis pipelines.
 
 Key papers:
 
