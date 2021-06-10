@@ -14,7 +14,7 @@ A complete list of publications is also available on [Google Scholar](https://sc
 
 ### Preprints
 
-- Righell D.\*, **Weber L.M.\***, Crowell H.L.\*, Pardo B., Collado-Torres L., Ghazanfar S., Lun A.T.L., and Hicks S.C.<sup>+</sup>, Risso D.<sup>+</sup>, *SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor*, bioRxiv, 2021.01.27.428431v1. Links to: [Paper](https://www.biorxiv.org/content/10.1101/2021.01.27.428431v1), [R/Bioconductor package](https://bioconductor.org/packages/SpatialExperiment).
+- Righell D.\*, **Weber L.M.\***, Crowell H.L.\*, Pardo B., Collado-Torres L., Ghazanfar S., Lun A.T.L., Hicks S.C.<sup>+</sup>, and Risso D.<sup>+</sup>, *SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor*, bioRxiv, 2021.01.27.428431v1. Links to: [Paper](https://www.biorxiv.org/content/10.1101/2021.01.27.428431v1), [R/Bioconductor package](https://bioconductor.org/packages/SpatialExperiment).
 
 - Hippen A.A., Falco M.M., **Weber L.M.**, Erkan E.P., Zhang K., Doherty J.A., Vähärautio A., Greene C.S., and Hicks S.C. (2021), *miQC: An adaptive probabilistic framework for quality control of single-cell RNA-sequencing data*, bioRxiv, 2021.03.03.433798v1. Links to: [Paper](https://www.biorxiv.org/content/10.1101/2021.03.03.433798v1), [R/Bioconductor package](https://bioconductor.org/packages/miQC).
 

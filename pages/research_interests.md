@@ -48,7 +48,7 @@ Key papers:
 
 - Maynard and Collado-Torres et al. (2021) (collaboration on human brain; see details and link above under "Unsupervised statistical methods")
 
-- Righell D.\*, **Weber L.M.\***, Crowell H.L.\*, Pardo B., Collado-Torres L., Ghazanfar S., Lun A.T.L., and Hicks S.C.<sup>+</sup>, Risso D.<sup>+</sup>, *SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor*, bioRxiv, 2021.01.27.428431v1. Links to: [Paper](https://www.biorxiv.org/content/10.1101/2021.01.27.428431v1), [R/Bioconductor package](https://bioconductor.org/packages/SpatialExperiment).
+- Righell D.\*, **Weber L.M.\***, Crowell H.L.\*, Pardo B., Collado-Torres L., Ghazanfar S., Lun A.T.L., Hicks S.C.<sup>+</sup>, and Risso D.<sup>+</sup>, *SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor*, bioRxiv, 2021.01.27.428431v1. Links to: [Paper](https://www.biorxiv.org/content/10.1101/2021.01.27.428431v1), [R/Bioconductor package](https://bioconductor.org/packages/SpatialExperiment).
 
     - implementation of `SpatialExperiment`, a core data structure for storing and manipulating spatial transcriptomics data in R using the Bioconductor framework
 
