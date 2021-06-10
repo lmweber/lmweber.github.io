@@ -50,7 +50,7 @@ Key papers:
 
 - Righell D.\*, **Weber L.M.\***, Crowell H.L.\*, Pardo B., Collado-Torres L., Ghazanfar S., Lun A.T.L., Hicks S.C.<sup>+</sup>, Risso D.<sup>+</sup>, *SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor*, bioRxiv, 2021.01.27.428431v1. Links to: [Paper](https://www.biorxiv.org/content/10.1101/2021.01.27.428431v1), [R/Bioconductor package](https://bioconductor.org/packages/SpatialExperiment).
 
-        - implementation of `SpatialExperiment`, a core data structure for storing and manipulating spatial transcriptomics data in R using the Bioconductor framework
+    - implementation of `SpatialExperiment`, a core data structure for storing and manipulating spatial transcriptomics data in R using the Bioconductor framework
 
 
 ---
