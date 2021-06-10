@@ -6,7 +6,7 @@ title: Research Interests
 
 ### Unsupervised statistical methods
 
-I am interested in developing improved statistical methods for unsupervised analyses in high-throughput and high-dimensional biological data, including spatial transcriptomics, single-cell RNA sequencing, and mass cytometry (CyTOF). This includes techniques such as feature selection, dimension reduction, and clustering. I am also interested in benchmarking these methods, and making methods accessible through the development of user-friendly R packages and computational analysis pipelines.
+I am interested in developing improved statistical methods for unsupervised analyses in high-throughput and high-dimensional biological data, including spatially resolved transcriptomics, single-cell RNA sequencing, and mass cytometry (CyTOF). This includes techniques such as feature selection, dimension reduction, and clustering. I am also interested in benchmarking these methods, and making methods accessible through the development of user-friendly R packages and computational analysis pipelines.
 
 Key papers:
 
@@ -40,9 +40,9 @@ Key papers:
 ---
 
 
-### Spatial transcriptomics
+### Spatially resolved transcriptomics
 
-My methodological work is motivated by experimental collaborations in high-throughput molecular biology. Recently, I have been involved in several collaborations on data analysis for spatial transcriptomics (using the 10x Genomics Visium platform) in human brain. This is a fascinating new type of data, which allows measuring transcriptome-wide gene expression with spatial resolution, at near single-cell level. These projects allow us to contribute to fundamental biological insights, while opening up new avenues for statistical methodological research to develop data analysis methods that account for the unique characteristics of these data types.
+My methodological work is motivated by experimental collaborations in high-throughput molecular biology. Recently, I have been involved in several collaborations on data analysis for spatially resolved transcriptomics (using the 10x Genomics Visium platform) in human brain. This is a fascinating new type of data, which allows measuring transcriptome-wide gene expression with spatial resolution, at near single-cell level. These projects allow us to contribute to fundamental biological insights, while opening up new avenues for statistical methodological research to develop data analysis methods that account for the unique characteristics of these data types.
 
 Key papers:
 
@@ -50,7 +50,7 @@ Key papers:
 
 - Righell D.\*, **Weber L.M.\***, Crowell H.L.\*, Pardo B., Collado-Torres L., Ghazanfar S., Lun A.T.L., Hicks S.C.<sup>+</sup>, and Risso D.<sup>+</sup>, *SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor*, bioRxiv, 2021.01.27.428431v1. Links to: [Paper](https://www.biorxiv.org/content/10.1101/2021.01.27.428431v1), [R/Bioconductor package](https://bioconductor.org/packages/SpatialExperiment).
 
-    - implementation of `SpatialExperiment`, a core data structure for storing and manipulating spatial transcriptomics data in R using the Bioconductor framework
+    - implementation of `SpatialExperiment`, a core data structure for storing and manipulating spatially resolved transcriptomics data in R using the Bioconductor framework
 
 
 ---
