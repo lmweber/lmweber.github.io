@@ -14,6 +14,14 @@ Key packages and repositories are listed below. Additional smaller repositories 
 ---
 
 
+### Online book
+
+- **OSTA**: "Orchestrating Spatially Resolved Transcriptomics Analysis with Bioconductor". Online textbook describing steps in a computational analysis pipeline for spatially resolved transcriptomics data, including example datasets and R code. Under development. [Available from GitHub](https://lmweber.org/OSTA-book/).
+
+
+---
+
+
 ### Software packages
 
 - **diffcyt**: R package implementing a computational framework for differential discovery analyses in high-dimensional cytometry data. [Available from Bioconductor](http://bioconductor.org/packages/diffcyt).
