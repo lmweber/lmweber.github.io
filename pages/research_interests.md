@@ -6,7 +6,7 @@ title: Research Interests
 
 ### Unsupervised statistical methods
 
-I am interested in developing improved statistical methods for unsupervised analyses in high-throughput and high-dimensional biological data, including spatial transcriptomics, single-cell RNA sequencing, and mass cytometry (CyTOF). This includes techniques such as clustering and dimension reduction. I am also interested in benchmarking these methods, and making methods accessible through the development of user-friendly computational data analysis pipelines.
+I am interested in developing improved statistical methods for unsupervised analyses in high-throughput and high-dimensional biological data, including spatial transcriptomics, single-cell RNA sequencing, and mass cytometry (CyTOF). This includes techniques such as feature selection, dimension reduction, and clustering. I am also interested in benchmarking these methods, and making methods accessible through the development of user-friendly R packages and computational analysis pipelines.
 
 Key papers:
 
@@ -14,7 +14,7 @@ Key papers:
 
     - benchmark paper comparing the performance of clustering algorithms for mass cytometry (CyTOF) data <br/> <br/>
 
-- Maynard K.R.\*, Collado-Torres L.\*, **Weber L.M.**, Uytingco C., Barry B.K., Williams S.R., Catallini J.L. II, Tran M.N., Besich Z., Tippani M., Chew J., Yin Y., Kleinman J.E., Hyde T.M., Rao N., Hicks S.C., Martinowich K.<sup>+</sup>, Jaffe A.E.<sup>+</sup> (2020), *Transcriptome-scale spatial gene expression in the human dorsolateral prefrontal cortex*, bioRxiv, v1. Links to: [Paper](https://www.biorxiv.org/content/10.1101/2020.02.28.969931v1), [Web application](http://spatial.libd.org/spatialLIBD/), [R/Bioconductor package](http://bioconductor.org/packages/spatialLIBD), [Code for paper](https://github.com/LieberInstitute/HumanPilot), [Code for web application](https://github.com/LieberInstitute/spatialLIBD).
+- Maynard K.R.\*, Collado-Torres L.\*, **Weber L.M.**, Uytingco C., Barry B.K., Williams S.R., Catallini J.L. II, Tran M.N., Besich Z., Tippani M., Chew J., Yin Y., Kleinman J.E., Hyde T.M., Rao N., Hicks S.C., Martinowich K.<sup>+</sup>, Jaffe A.E.<sup>+</sup> (2021), *Transcriptome-scale spatial gene expression in the human dorsolateral prefrontal cortex*, Nature Neuroscience, 24, 425-436. Links to: [Paper](https://www.nature.com/articles/s41593-020-00787-0), [Web application](http://spatial.libd.org/spatialLIBD/), [R/Bioconductor package](http://bioconductor.org/packages/spatialLIBD), [Code for paper](https://github.com/LieberInstitute/HumanPilot), [Code for web application](https://github.com/LieberInstitute/spatialLIBD).
 
     - collaboration paper investigating the spatial landscape of gene expression in human brain (dorsolateral prefrontal cortex); my contribution consisted of the development of an unsupervised analysis pipeline
 
@@ -46,7 +46,11 @@ My methodological work is motivated by experimental collaborations in high-throu
 
 Key papers:
 
-- Maynard and Collado-Torres et al. (2020) (collaboration on human brain; see details and link above under "Unsupervised statistical methods")
+- Maynard and Collado-Torres et al. (2021) (collaboration on human brain; see details and link above under "Unsupervised statistical methods")
+
+- Righell D.\*, **Weber L.M.\***, Crowell H.L.\*, Pardo B., Collado-Torres L., Ghazanfar S., Lun A.T.L., Hicks S.C.<sup>+</sup>, Risso D.<sup>+</sup>, *SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor*, bioRxiv, 2021.01.27.428431v1. Links to: [Paper](https://www.biorxiv.org/content/10.1101/2021.01.27.428431v1), [R/Bioconductor package](https://bioconductor.org/packages/SpatialExperiment).
+
+        - implementation of `SpatialExperiment`, a core data structure for storing and manipulating spatial transcriptomics data in R using the Bioconductor framework
 
 
 ---
@@ -90,6 +94,6 @@ Science is a collaborative human effort spanning continents and generations. Ope
 
 I strongly support modern practices in open science, including -- providing freely available code and data repositories along with all papers to ensure reproducibility of computational analyses; developing freely available and open-source software packages to implement all new statistical methods; collaborative development of software via platforms such as GitHub; and making papers accessible by posting preprints and publishing open access papers.
 
-These practices have undergone enormous change within the last 10 years -- especially the widespread adoption of preprints in biology through [bioRxiv](https://www.biorxiv.org/). I am excited to continue following these developments over the coming years and decades, and will continue to adopt best practices in open science in all my own research work.
+These practices have undergone enormous change within the last 10 years -- especially the widespread adoption of preprints in biology through [bioRxiv](https://www.biorxiv.org/). I am excited to continue following these developments over the coming years and decades, and will continue to adopt best practices in open science in my research work.
 
 
