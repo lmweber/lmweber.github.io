@@ -18,6 +18,8 @@ A complete list of publications is also available on [Google Scholar](https://sc
 
 - Hippen A.A., Falco M.M., **Weber L.M.**, Erkan E.P., Zhang K., Doherty J.A., Vähärautio A., Greene C.S., and Hicks S.C. (2021), *miQC: An adaptive probabilistic framework for quality control of single-cell RNA-sequencing data*, bioRxiv, 2021.03.03.433798v1. Links to: [Paper](https://www.biorxiv.org/content/10.1101/2021.03.03.433798v1), [R/Bioconductor package](https://bioconductor.org/packages/miQC).
 
+- Pardo B., Spangler A., **Weber L.M.**, Hicks S.C., Jaffe A.E., Martinowich K., Maynard K.R., and Collado-Torres L. (2021), *spatialLIBD: an R/Bioconductor package to visualize spatially-resolved transcriptomics data*, bioRxiv, 2021.04.29.440149v1. Links to: [Paper](https://www.biorxiv.org/content/10.1101/2021.04.29.440149v1), [R/Bioconductor package](http://bioconductor.org/packages/spatialLIBD).
+
 - **Weber L.M.**, Hippen A.A., Hickey P.F., Berrett K.C., Gertz J., Doherty J.A., Greene C.S., and Hicks S.C. (2020), *Genetic demultiplexing of pooled single-cell RNA-sequencing samples in cancer facilitates effective experimental design*, bioRxiv, v1, 371963. Links to: [Paper](https://www.biorxiv.org/content/10.1101/2020.11.06.371963v1), [Code](https://github.com/lmweber/snp-dmx-cancer), [Data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE156793), [Data (controlled access)](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002262.v1.p1).
 
 - Tiberi S., Crowell H.L., **Weber L.M.**, Samartsidis P., and Robinson M.D. (2020), *distinct: a novel approach to differential distribution analyses*, bioRxiv, v1, 394213. Links to: [Paper](https://www.biorxiv.org/content/10.1101/2020.11.24.394213v1).
