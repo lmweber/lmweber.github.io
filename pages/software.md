@@ -24,7 +24,7 @@ Links to my software packages and other code repositories are also available fro
 
 - [SpatialExperiment](https://bioconductor.org/packages/SpatialExperiment): R/Bioconductor object class for storing spatially resolved transcriptomics datasets. (Joint project with [Dario Righelli](https://github.com/drighelli) and [Helena L. Crowell](https://helenalc.github.io/).)
 
-- [ggspavis](https://github.com/lmweber/ggspavis): Visualization functions for spatially resolved transcriptomics data.
+- [ggspavis](https://github.com/lmweber/ggspavis): Visualization functions for spatially resolved transcriptomics data. (Joint project with [Helena L. Crowell](https://helenalc.github.io/).)
 
 - [STexampleData](https://bioconductor.org/packages/STexampleData): Collection of spatially resolved transcriptomics datasets in SpatialExperiment Bioconductor format.
 
