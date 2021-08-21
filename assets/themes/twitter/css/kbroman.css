@@ -21,6 +21,10 @@ h1, h2, h3, h4 {
   line-height: 1.6;
 }
 
+li {
+  line-height: 1.6;
+}
+
 /* using default font sizes from Bootstrap 4 */
 h1 {
   font-size: 40px;
