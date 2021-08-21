@@ -4,9 +4,7 @@ layout: page
 ---
 
 
-## Workshops
-
-I have instructed at several short workshops through the [Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](https://datacarpentry.org/) initiatives and the University of Zurich, mainly on R programming and data analysis skills for life scientists.
+## Short workshops
 
 - [Data Carpentry, University of Zurich, Switzerland](https://pennekampster.github.io/2017-11-08-lugano/): 8--10 Nov 2017
 - [Mass Cytometry and Data Analysis Workshop, University of Zurich, Switzerland](https://github.com/lmweber/CyTOF-workshop-2017-07-10): 10 Jul 2017
@@ -19,9 +17,7 @@ I have instructed at several short workshops through the [Software Carpentry](ht
 ---
 
 
-## Courses
-
-I have assisted with teaching during the following courses.
+## Courses and teaching assistance
 
 - [Advanced Data Science](https://jhu-advdatasci.github.io/2019/) (guest lecture on resampling techniques), Prof. Stephanie Hicks, Johns Hopkins University, 13 Nov 2019
 - Practical Bioinformatics (session on RMarkdown and R programming), Prof. Mark Robinson, University of Zurich, 23 May 2019
