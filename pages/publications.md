@@ -4,7 +4,7 @@ layout: page
 ---
 
 
-## Google Scholar
+### Google Scholar
 
 A complete list of publications is available from [Google Scholar](https://scholar.google.com/citations?user=1vZo3toAAAAJ&hl=en).
 
@@ -12,7 +12,7 @@ A complete list of publications is available from [Google Scholar](https://schol
 ---
 
 
-## Accepted papers
+### Accepted papers
 
 - **Weber L.M.**, Hippen A.A., Hickey P.F., Berrett K.C., Gertz J., Doherty J.A., Greene C.S., and Hicks S.C. (2021), *Genetic demultiplexing of pooled single-cell RNA-sequencing samples in cancer facilitates effective experimental design*, accepted in GigaScience. [Paper](https://www.biorxiv.org/content/10.1101/2020.11.06.371963v3), [Code](https://github.com/lmweber/snp-dmx-cancer), [Data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE156793), [Data (controlled access)](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002262.v1.p1).
 
@@ -24,7 +24,7 @@ A complete list of publications is available from [Google Scholar](https://schol
 ---
 
 
-## Preprints
+### Preprints
 
 - Righell D.\*, **Weber L.M.\***, Crowell H.L.\*, Pardo B., Collado-Torres L., Ghazanfar S., Lun A.T.L., Hicks S.C.<sup>+</sup>, and Risso D.<sup>+</sup> (2021), *SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor*, bioRxiv. [Paper](https://www.biorxiv.org/content/10.1101/2021.01.27.428431v1), [R/Bioconductor package](https://bioconductor.org/packages/SpatialExperiment).
 
@@ -42,7 +42,7 @@ A complete list of publications is available from [Google Scholar](https://schol
 ---
 
 
-## Published papers
+### Published papers
 
 - Maynard K.R.\*, Collado-Torres L.\*, **Weber L.M.**, Uytingco C., Barry B.K., Williams S.R., Catallini J.L. II, Tran M.N., Besich Z., Tippani M., Chew J., Yin Y., Kleinman J.E., Hyde T.M., Rao N., Hicks S.C., Martinowich K.<sup>+</sup>, Jaffe A.E.<sup>+</sup> (2021), *Transcriptome-scale spatial gene expression in the human dorsolateral prefrontal cortex*, Nature Neuroscience, 24, 425-436. [Paper](https://www.nature.com/articles/s41593-020-00787-0), [Web application](http://spatial.libd.org/spatialLIBD/), [R/Bioconductor package](http://bioconductor.org/packages/spatialLIBD), [Code for paper](https://github.com/LieberInstitute/HumanPilot), [Code for web application](https://github.com/LieberInstitute/spatialLIBD).
 

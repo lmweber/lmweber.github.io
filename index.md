@@ -4,7 +4,7 @@ layout: page
 ---
 
 
-## About
+### About
 
 I am a postdoctoral researcher in [Dr. Stephanie Hicks's](https://www.stephaniehicks.com/) group in the [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/) at [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu/).
 
@@ -18,7 +18,7 @@ My training includes a PhD in Biostatistics with [Dr. Mark Robinson](https://rob
 ---
 
 
-## Contact
+### Contact
 
 <div class="row-fluid" markdown="1">
 <div class="span7" markdown="1">
