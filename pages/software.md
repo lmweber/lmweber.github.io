@@ -1,6 +1,6 @@
 ---
+title: Software
 layout: page
-title: Software / Code / Data
 ---
 
 

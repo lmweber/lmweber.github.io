@@ -1,6 +1,6 @@
 ---
+title: Talks
 layout: page
-title: Talks and Posters
 ---
 
 
