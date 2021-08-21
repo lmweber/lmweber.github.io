@@ -14,7 +14,7 @@ Links to my software packages and other code repositories are also available fro
 
 ### Online book
 
-- [Orchestrating Spatially Resolved Transcriptomics Analysis with Bioconductor (OSTA)](https://lmweber.org/OSTA-book/): Online textbook describing steps in a computational analysis pipeline for spatially resolved transcriptomics data, including R code and example datasets. (Joint project with [several contributors](https://lmweber.org/OSTA-book/contributors.html).)
+- [Orchestrating Spatially Resolved Transcriptomics Analysis with Bioconductor (OSTA)](https://lmweber.org/OSTA-book/): Interactive online textbook describing steps in a computational analysis pipeline for spatially resolved transcriptomics data, including R code and example datasets. (Joint project with [several contributors](https://lmweber.org/OSTA-book/contributors.html).)
 
 
 ---
