@@ -38,7 +38,11 @@ h4 {
   font-size: 24px;
 }
 
-/* navigation bar font size */
+/* navigation bar font sizes */
 .navbar .nav > li > a {
+  font-size: 20px;
+}
+
+.navbar .brand > a {
   font-size: 20px;
 }
