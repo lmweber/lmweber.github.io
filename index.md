@@ -21,7 +21,7 @@ My training includes a PhD in Biostatistics with [Dr. Mark Robinson](https://rob
 ### Contact
 
 <div class="row-fluid" markdown="1">
-<div class="span6" markdown="1">
+<div class="span7" markdown="1">
 
 Lukas M. Weber, Ph.D. <br/>
 [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/) <br/>
@@ -37,7 +37,7 @@ Baltimore, MD 21205-2179, USA
 </div>
 <div class="span3" markdown="1">
 
-<img src="images/Lukas_Weber_photo_small.jpg" alt="Lukas Weber photo" width="180">
+<img src="images/Lukas_Weber_photo_small.jpg" alt="Lukas Weber photo" width="200">
 
 </div>
 </div>
