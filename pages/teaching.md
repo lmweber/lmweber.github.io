@@ -4,7 +4,7 @@ layout: page
 ---
 
 
-### Workshops
+## Workshops
 
 I have instructed at several short workshops through the [Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](https://datacarpentry.org/) initiatives and the University of Zurich, mainly on R programming and data analysis skills for life scientists.
 
@@ -19,7 +19,7 @@ I have instructed at several short workshops through the [Software Carpentry](ht
 ---
 
 
-### Courses
+## Courses
 
 I have assisted with teaching during the following courses.
 
@@ -31,5 +31,4 @@ I have assisted with teaching during the following courses.
 - Practical Bioinformatics (teaching assistant), Prof. Mark Robinson, University of Zurich, 27--29 May 2015
 - Statistik II (applied statistics and R programming; teaching assistant for exercise sessions), ETH Zurich, fall semester 2014
 - Wahrscheinlichkeit und Statistik (probability and statistics; teaching assistant for exercise sessions), ETH Zurich, fall semester 2013
-
 

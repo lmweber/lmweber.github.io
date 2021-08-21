@@ -4,7 +4,7 @@ layout: page
 ---
 
 
-### Unsupervised statistical methods
+## Unsupervised statistical methods
 
 I am interested in developing improved statistical methods for unsupervised analyses in high-throughput and high-dimensional biological data, including spatially resolved transcriptomics, single-cell RNA sequencing, and mass cytometry (CyTOF). This includes techniques such as feature selection, dimension reduction, and clustering. I am also interested in benchmarking these methods, and making methods accessible through the development of user-friendly R packages and computational analysis pipelines.
 
@@ -22,7 +22,7 @@ Key papers:
 ---
 
 
-### Differential analyses
+## Differential analyses
 
 Methods for differential analyses are frequently used for exploratory analyses in high-throughput genomics data -- for example identifying differentially abundant (DA) subpopulations of cells, or differential states (DS) of expression within cell populations. I have been involved with several projects to develop improved methods for DA and DS analyses in mass cytometry (CyTOF) data.
 
@@ -40,7 +40,7 @@ Key papers:
 ---
 
 
-### Spatially resolved transcriptomics
+## Spatially resolved transcriptomics
 
 My methodological work is motivated by experimental collaborations in high-throughput molecular biology. Recently, I have been involved in several collaborations on data analysis for spatially resolved transcriptomics (using the 10x Genomics Visium platform) in human brain. This is a fascinating new type of data, which allows measuring transcriptome-wide gene expression with spatial resolution, at near single-cell level. These projects allow us to contribute to fundamental biological insights, while opening up new avenues for statistical methodological research to develop data analysis methods that account for the unique characteristics of these data types.
 
@@ -56,7 +56,7 @@ Key papers:
 ---
 
 
-### Single-cell RNA sequencing
+## Single-cell RNA sequencing
 
 Single-cell RNA sequencing experiments are expensive, and frequently subject to systematic issues such as batch effects. Application of improved methods for experimental design, such as sample pooling and genetic variation-based sample demultiplexing, can help alleviate these issues.
 
@@ -70,7 +70,7 @@ Key papers:
 ---
 
 
-### Benchmarking
+## Benchmarking
 
 Benchmarking is a crucial aspect of computational methods development. New methods must be rigorously compared against existing methods, both in terms of statistical performance, as well as other aspects such as computational complexity and runtime. Useful contributions include both neutral benchmarks (i.e. major systematic comparisons of algorithms by researchers not involved with the development of any of the methods), as well as smaller (but still comprehensive) benchmarks performed by developers of a new method to demonstrate their performance.
 
@@ -88,12 +88,11 @@ Key papers:
 ---
 
 
-### Open science
+## Open science
 
 Science is a collaborative human effort spanning continents and generations. Openness is crucial, since it allows us all to build on each others' achievements and insights.
 
 I strongly support modern practices in open science, including -- providing freely available code and data repositories along with all papers to ensure reproducibility of computational analyses; developing freely available and open-source software packages to implement all new statistical methods; collaborative development of software via platforms such as GitHub; and making papers accessible by posting preprints and publishing open access papers.
 
 These practices have undergone enormous change within the last 10 years -- especially the widespread adoption of preprints in biology through [bioRxiv](https://www.biorxiv.org/). I am excited to continue following these developments over the coming years and decades, and will continue to adopt best practices in open science in my research work.
-
 

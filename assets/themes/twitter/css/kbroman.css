@@ -26,21 +26,21 @@ li {
   margin-bottom: 6px;
 }
 
-/* using default font sizes from Bootstrap 4 */
+/* custom heading font sizes */
 h1 {
-  font-size: 40px;
+  font-size: 36px;
 }
 
 h2 {
-  font-size: 32px;
-}
-
-h3 {
   font-size: 28px;
 }
 
-h4 {
+h3 {
   font-size: 24px;
+}
+
+h4 {
+  font-size: 20px;
 }
 
 /* navigation bar font sizes */
