@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Research Interests
 layout: page
 ---
 
@@ -12,7 +12,7 @@ I am interested in developing improved and scalable methods for unsupervised ana
 ---
 
 
-### Spatial statistics
+### Applications of spatial statistics
 
 ST data (e.g. from the [10x Genomics Visium platform](https://www.10xgenomics.com/products/spatial-gene-expression)) consists of gene expression measurements for 10,000 - 20,000 genes at a grid of around 5,000 spatial coordinates on a tissue slide. To efficiently analyze these large datasets, we are adapting recent advances in spatial statistical methodology to the genomic context. For example, this will allow us to more efficiently identify spatially variable genes with expression that varies with tissue structures of interest, or to perform spatially aware clustering on cell types or subsets.
 
