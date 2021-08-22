@@ -8,7 +8,7 @@ layout: page
 
 - [Bioc2021 Bioconductor annual conference 2021](https://bioc2021.bioconductor.org/), 4-6 August 2021: [*Workshop on "Orchestrating Spatially Resolved Transcriptomics Analysis with Bioconductor (OSTA)"*](https://lmweber.org/OSTAWorkshopBioc2021/)
 
-- [Bioc2021 Bioconductor annual conference 2021](https://bioc2021.bioconductor.org/), 4-6 August 2021: [*SpatialExperiment Workshop*](https://github.com/drighelli/SpatialExperiment_Bioc2021) (joint presentation with [Dario Righelli](https://github.com/drighelli) and [Helena L. Crowell](https://helenalc.github.io/))
+- [Bioc2021 Bioconductor annual conference 2021](https://bioc2021.bioconductor.org/), 4-6 August 2021: [*SpatialExperiment Workshop*](https://drighelli.github.io/SpatialExperiment_Bioc2021/index.html) (joint presentation with [Dario Righelli](https://github.com/drighelli) and [Helena L. Crowell](https://helenalc.github.io/))
 
 - [EuroBioc2020 European Bioconductor Meeting 2020](https://eurobioc2020.bioconductor.org/), 14-18 December 2020: *SpatialExperiment workshop* (joint presentation with [Dario Righelli](https://github.com/drighelli) and [Helena L. Crowell](https://helenalc.github.io/))
 
