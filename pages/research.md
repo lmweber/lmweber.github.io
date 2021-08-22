@@ -30,7 +30,7 @@ My methodological works is motivated by collaborative projects with experimental
 
 ### Differential analyses
 
-Differential analyses aim to identify features such as differential abundance of cell types or differential expression states within cell types between groups of replicate samples from different conditions, such as diseased and healthy. I have been involved in several computational and methodological projects related to differential analyses for HDCyto data, including leading the development of an improved computational framework (*diffcyt*) ([Weber et al. 2019](https://www.nature.com/articles/s42003-019-0415-5)), and contributions to a comprehensive data analysis pipeline ([Nowicka et al. 2019](https://f1000research.com/articles/6-748)).
+Differential analyses aim to identify features such as differential abundance of cell types or differential expression states within cell types between groups of replicate samples from different conditions, such as diseased and healthy. I have been involved in several computational and methodological projects related to differential analyses for HDCyto data, including leading the development of an improved computational framework (diffcyt) ([Weber et al. 2019](https://www.nature.com/articles/s42003-019-0415-5)), and contributions to a comprehensive data analysis pipeline ([Nowicka et al. 2019](https://f1000research.com/articles/6-748)).
 
 
 ---
@@ -46,7 +46,7 @@ Methodological work requires rigorous and systematic benchmarking of new methods
 
 ### Software pipelines
 
-I am motivated to develop user-friendly software and analysis pipelines that will enable other researchers to analyze high-throughput genomics data. To facilitate these efforts, I have been involved in a joint project to develop a core data structure for storing and manipulating ST data in the R/Bioconductor framework (*SpatialExperiment*) ([Righelli, Weber, Crowell et al. 2021](https://www.biorxiv.org/content/10.1101/2021.01.27.428431v2)). Recently, I am leading a collaborative effort to develop an interactive online textbook demonstrating key steps in a computational analysis pipeline for ST data, including examples of R code and datasets ([*Orchestrating Spatially Resolved Transcriptomics Analysis with Bioconductor (OSTA)*](https://lmweber.org/OSTA-book/)).
+I am motivated to develop user-friendly software and analysis pipelines that will enable other researchers to analyze high-throughput genomics data. To facilitate these efforts, I have been involved in a joint project to develop a core data structure for storing and manipulating ST data in the R/Bioconductor framework (SpatialExperiment) ([Righelli, Weber, Crowell et al. 2021](https://www.biorxiv.org/content/10.1101/2021.01.27.428431v2)). Recently, I am leading a collaborative effort to develop an interactive online textbook demonstrating key steps in a computational analysis pipeline for ST data, including examples of R code and datasets ([Orchestrating Spatially Resolved Transcriptomics Analysis with Bioconductor (OSTA)](https://lmweber.org/OSTA-book/)).
 
 
 ---
