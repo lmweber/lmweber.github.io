@@ -4,7 +4,7 @@ layout: page
 ---
 
 
-### Conference presentations
+### Selected conference presentations
 
 - [Bioc2021 Bioconductor annual conference 2021](https://bioc2021.bioconductor.org/), 4-6 August 2021: [*Workshop on "Orchestrating Spatially Resolved Transcriptomics Analysis with Bioconductor (OSTA)"*](https://lmweber.org/OSTAWorkshopBioc2021/)
 
@@ -18,7 +18,7 @@ layout: page
 ---
 
 
-### Conference posters
+### Selected conference posters
 
 - [ASHG Institute for Genomic Medicine Symposium on Spatial Omics](https://igmsymposium.weebly.com/), 26 October 2020: [*Unsupervised analysis of transcriptome-scale spatial gene expression in human dorsolateral prefrontal cortex using spatial transcriptomics data*](https://zenodo.org/record/4110719)
 
