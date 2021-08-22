@@ -6,7 +6,7 @@ layout: page
 
 ### Unsupervised statistical methods
 
-I am interested in developing improved and scalable methods for unsupervised analyses in high-throughput genomics data, including spatially resolved transcriptomics (ST), single-cell RNA sequencing (scRNA-seq), and high-dimensional cytometry (HDCyto). In previous work I have performed a systematic benchmark comparison of clustering methods for HDCyto data ([Weber and Robinson 2016](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.23030)), and developed an unsupervised analysis pipeline for ST data as part of a collaboration on analyzing the spatial landscape of gene expression in the human brain dorsolateral prefrontal cortex (DLPFC) region ([Maynard and Collado-Torres et al. 2021](https://www.nature.com/articles/s41593-020-00787-0)).
+I am interested in developing improved and scalable methods for unsupervised analyses in high-throughput genomics data, including spatially resolved transcriptomics (ST), single-cell RNA sequencing (scRNA-seq), and high-dimensional cytometry (HDCyto). In previous work, I have performed a systematic benchmark comparison of clustering methods for HDCyto data ([Weber and Robinson 2016](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.23030)), and developed an unsupervised analysis pipeline for ST data as part of a collaboration on analyzing the spatial landscape of gene expression in the human brain dorsolateral prefrontal cortex (DLPFC) region ([Maynard and Collado-Torres et al. 2021](https://www.nature.com/articles/s41593-020-00787-0)).
 
 
 ---
@@ -14,7 +14,7 @@ I am interested in developing improved and scalable methods for unsupervised ana
 
 ### Spatial statistics
 
-ST data consists of gene expression measurements for 10,000 - 20,000 genes at a grid of around 5,000 spatial coordinates. To efficiently analyze these large datasets, we are adapting recent advanced in spatial statistical methodology to the genomic context. For example, this will allow us to more efficiently identify spatially variable genes with expression that varies with tissue structures of interest, or to perform spatially aware clustering on cell types or subsets.
+ST data (e.g. from the [10x Genomics Visium platform](https://www.10xgenomics.com/products/spatial-gene-expression)) consists of gene expression measurements for 10,000 - 20,000 genes at a grid of around 5,000 spatial coordinates on a tissue slide. To efficiently analyze these large datasets, we are adapting recent advances in spatial statistical methodology to the genomic context. For example, this will allow us to more efficiently identify spatially variable genes with expression that varies with tissue structures of interest, or to perform spatially aware clustering on cell types or subsets.
 
 
 ---
@@ -30,7 +30,7 @@ My methodological works is motivated by collaborative projects with experimental
 
 ### Differential analyses
 
-Differential analyses aim to identify features such as differential abundance of cell types or differential expression states within cell types between groups of replicate samples from different conditions, such as diseased and healthy. I have been involved in several computational and methodological projects related to differential analyses for HDCyto data, including leading the development of an improved computational framework (diffcyt) ([Weber et al. 2019](https://www.nature.com/articles/s42003-019-0415-5)), and contributions to a comprehensive data analysis pipeline ([Nowicka et al. 2019](https://f1000research.com/articles/6-748)).
+Differential analyses aim to identify features such as differential abundance of cell types or differential expression states within cell types between groups of replicate samples from different conditions, such as diseased and healthy. I have been involved in several computational and methodological projects related to differential analyses in HDCyto data, including leading the development of an improved computational framework for these analyses (diffcyt) ([Weber et al. 2019](https://www.nature.com/articles/s42003-019-0415-5)), and contributions to a comprehensive data analysis pipeline ([Nowicka et al. 2019](https://f1000research.com/articles/6-748)).
 
 
 ---
@@ -46,7 +46,7 @@ Methodological work requires rigorous and systematic benchmarking of new methods
 
 ### Software pipelines
 
-I am motivated to develop user-friendly software and analysis pipelines that will enable other researchers to analyze high-throughput genomics data. To facilitate these efforts, I have been involved in a joint project to develop a core data structure for storing and manipulating ST data in the R/Bioconductor framework (SpatialExperiment) ([Righelli, Weber, Crowell et al. 2021](https://www.biorxiv.org/content/10.1101/2021.01.27.428431v2)). Recently, I am leading a collaborative effort to develop an interactive online textbook demonstrating key steps in a computational analysis pipeline for ST data, including examples of R code and datasets ([Orchestrating Spatially Resolved Transcriptomics Analysis with Bioconductor (OSTA)](https://lmweber.org/OSTA-book/)).
+I am motivated to develop user-friendly software and analysis pipelines that will enable other researchers to analyze high-throughput genomics data in a reliable and reproducible manner. To facilitate these efforts, I have been involved in a joint project to develop a core data structure for storing and manipulating ST data in the R/Bioconductor framework (SpatialExperiment) ([Righelli, Weber, Crowell et al. 2021](https://www.biorxiv.org/content/10.1101/2021.01.27.428431v2)). I am also leading a collaborative effort to develop an interactive online textbook demonstrating key steps in a computational analysis pipeline for ST data, including examples of R code and datasets ([Orchestrating Spatially Resolved Transcriptomics Analysis with Bioconductor (OSTA)](https://lmweber.org/OSTA-book/)).
 
 
 ---
@@ -55,5 +55,5 @@ I am motivated to develop user-friendly software and analysis pipelines that wil
 ### Open science
 
 
-I strongly support open science principles, including the release of open-source software, free availability of code and data resources, and publication of preprints. In my view, open science is better science and leads to faster advances, since open-source software and reproducible code and data repositories allow researchers to easily build on each others' ideas. In January 2021, my efforts to create open code and data resources as part of my computational projects were recognized with the aware of a [Research Symbiont award](https://researchsymbionts.org/). I also support the publication of preprints and efforts to open the academic publishing system, such as open-access publication and journal-independent peer review, to ensure that the public has access to the results of publicly funded research and democratize access to publication venues for researchers.
+I support open science principles, including the release of open-source software, free availability of code and data resources, and publication of preprints. Open science is better science and leads to faster scientific advances, since open-source software and reproducible code and data repositories allow researchers to easily build on each others' work and ideas. In January 2021, my efforts to create open code and data resources as part of my computational projects were recognized with a [Research Symbiont award](https://researchsymbionts.org/). I also support the publication of preprints and efforts to open the academic publishing system, such as open-access publication and journal-independent peer review, to ensure that the public has access to the results of publicly funded research and to democratize access to publication venues for researchers.
 
