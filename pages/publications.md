@@ -16,8 +16,6 @@ A complete list of publications is available from [Google Scholar](https://schol
 
 - **Weber L.M.**, Hippen A.A., Hickey P.F., Berrett K.C., Gertz J., Doherty J.A., Greene C.S., and Hicks S.C. (2021), *Genetic demultiplexing of pooled single-cell RNA-sequencing samples in cancer facilitates effective experimental design*, accepted in GigaScience. [Paper](https://www.biorxiv.org/content/10.1101/2020.11.06.371963v3), [Code](https://github.com/lmweber/snp-dmx-cancer), [Data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE156793), [Data (controlled access)](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002262.v1.p1).
 
-- Hippen A.A., Falco M.M., **Weber L.M.**, Erkan E.P., Zhang K., Doherty J.A., Vähärautio A., Greene C.S., and Hicks S.C. (2021), *miQC: An adaptive probabilistic framework for quality control of single-cell RNA-sequencing data*, accepted in PLOS Computational Biology. [Paper](https://www.biorxiv.org/content/10.1101/2021.03.03.433798v1), [R/Bioconductor package](https://bioconductor.org/packages/miQC).
-
 
 ---
 
@@ -43,6 +41,8 @@ A complete list of publications is available from [Google Scholar](https://schol
 ### Published papers
 
 - Liechti T., **Weber L.M.**, Ashhurst T.M., Stanley N., Prlic M., Van Gassen S., and Mair F. (2021), *An updated guide for the perplexed: cytometry in the high-dimensional era*, Nature Immunology. [Paper](https://www.nature.com/articles/s41590-021-01006-z).
+
+- Hippen A.A., Falco M.M., **Weber L.M.**, Erkan E.P., Zhang K., Doherty J.A., Vähärautio A., Greene C.S., and Hicks S.C. (2021), *miQC: An adaptive probabilistic framework for quality control of single-cell RNA-sequencing data*, PLOS Computational Biology. [Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009290), [R/Bioconductor package](https://bioconductor.org/packages/miQC).
 
 - Maynard K.R.\*, Collado-Torres L.\*, **Weber L.M.**, Uytingco C., Barry B.K., Williams S.R., Catallini J.L. II, Tran M.N., Besich Z., Tippani M., Chew J., Yin Y., Kleinman J.E., Hyde T.M., Rao N., Hicks S.C., Martinowich K.<sup>+</sup>, Jaffe A.E.<sup>+</sup> (2021), *Transcriptome-scale spatial gene expression in the human dorsolateral prefrontal cortex*, Nature Neuroscience, 24, 425-436. [Paper](https://www.nature.com/articles/s41593-020-00787-0), [Web application](http://spatial.libd.org/spatialLIBD/), [R/Bioconductor package](http://bioconductor.org/packages/spatialLIBD), [Code for paper](https://github.com/LieberInstitute/HumanPilot), [Code for web application](https://github.com/LieberInstitute/spatialLIBD).
 
