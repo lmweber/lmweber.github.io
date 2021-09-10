@@ -12,7 +12,7 @@ A complete list of publications is available from [Google Scholar](https://schol
 ---
 
 
-### Accepted papers / in press
+### Accepted / in press
 
 - **Weber L.M.**, Hippen A.A., Hickey P.F., Berrett K.C., Gertz J., Doherty J.A., Greene C.S., and Hicks S.C. (2021), *Genetic demultiplexing of pooled single-cell RNA-sequencing samples in cancer facilitates effective experimental design*, accepted in GigaScience. [Paper](https://www.biorxiv.org/content/10.1101/2020.11.06.371963v3), [Code](https://github.com/lmweber/snp-dmx-cancer), [Data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE156793), [Data (controlled access)](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002262.v1.p1).
 
