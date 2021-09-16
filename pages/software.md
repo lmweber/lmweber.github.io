@@ -12,6 +12,14 @@ Links to my software packages and other code repositories are also available fro
 ---
 
 
+### Online book
+
+- [Orchestrating Spatially Resolved Transcriptomics Analysis with Bioconductor (OSTA)](https://lmweber.org/OSTA-book/): Interactive online textbook describing steps in a computational analysis pipeline for spatially resolved transcriptomics data, including R code and example datasets. (Joint project with [several contributors](https://lmweber.org/OSTA-book/contributors.html).)
+
+
+---
+
+
 ### Software packages
 
 - [SpatialExperiment](https://bioconductor.org/packages/SpatialExperiment): R/Bioconductor object class for storing spatially resolved transcriptomics datasets. (Joint project with [Dario Righelli](https://github.com/drighelli) and [Helena L. Crowell](https://helenalc.github.io/).)
@@ -25,14 +33,6 @@ Links to my software packages and other code repositories are also available fro
 - [HDCytoData](http://bioconductor.org/packages/HDCytoData): R package containing a number of publicly available high-dimensional cytometry benchmark datasets in Bioconductor object formats.
 
 - [regsplice](http://bioconductor.org/packages/regsplice): R package implementing statistical methodology for detection of differential splicing (differential exon usage) in RNA-seq data.
-
-
----
-
-
-### Online book
-
-- [Orchestrating Spatially Resolved Transcriptomics Analysis with Bioconductor (OSTA)](https://lmweber.org/OSTA-book/): Interactive online textbook describing steps in a computational analysis pipeline for spatially resolved transcriptomics data, including R code and example datasets. (Joint project with [several contributors](https://lmweber.org/OSTA-book/contributors.html).)
 
 
 ---
