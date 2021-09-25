@@ -12,12 +12,10 @@ A complete list of publications is available from [Google Scholar](https://schol
 ---
 
 
-### Accepted / in press
-
-- **Weber L.M.**, Hippen A.A., Hickey P.F., Berrett K.C., Gertz J., Doherty J.A., Greene C.S., and Hicks S.C. (2021), *Genetic demultiplexing of pooled single-cell RNA-sequencing samples in cancer facilitates effective experimental design*, accepted in GigaScience. [Paper](https://www.biorxiv.org/content/10.1101/2020.11.06.371963v3), [Code](https://github.com/lmweber/snp-dmx-cancer), [Data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE156793), [Data (controlled access)](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002262.v1.p1).
+<!-- ### Accepted / in press -->
 
 
----
+<!-- --- -->
 
 
 ### Preprints
@@ -39,6 +37,8 @@ A complete list of publications is available from [Google Scholar](https://schol
 
 
 ### Published papers
+
+- **Weber L.M.**, Hippen A.A., Hickey P.F., Berrett K.C., Gertz J., Doherty J.A., Greene C.S., and Hicks S.C. (2021), *Genetic demultiplexing of pooled single-cell RNA-sequencing samples in cancer facilitates effective experimental design*, GigaScience, 10, 9, giab062. [Paper](https://academic.oup.com/gigascience/article/10/9/giab062/6374209), [Code](https://github.com/lmweber/snp-dmx-cancer), [Data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE156793), [Data (controlled access)](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002262.v1.p1).
 
 - Liechti T., **Weber L.M.**, Ashhurst T.M., Stanley N., Prlic M., Van Gassen S., and Mair F. (2021), *An updated guide for the perplexed: cytometry in the high-dimensional era*, Nature Immunology. [Paper](https://www.nature.com/articles/s41590-021-01006-z).
 
