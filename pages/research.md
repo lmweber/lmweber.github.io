@@ -46,7 +46,7 @@ Methodological work requires rigorous and systematic benchmarking of new methods
 
 ### Software pipelines
 
-I am motivated to develop user-friendly software and analysis pipelines that will enable other researchers to analyze high-throughput genomics data in a reliable and reproducible manner. To facilitate these efforts, I have been involved in a joint project to develop a core data structure for storing and manipulating ST data in the R/Bioconductor framework (*SpatialExperiment*) ([Righelli, Weber, Crowell et al. 2021](https://www.biorxiv.org/content/10.1101/2021.01.27.428431v2)). I am also leading a collaborative effort to develop an interactive online textbook demonstrating key steps in a computational analysis pipeline for ST data, including examples of R code and datasets ([Orchestrating Spatially Resolved Transcriptomics Analysis with Bioconductor (OSTA)](https://lmweber.org/OSTA-book/)).
+I am motivated to develop user-friendly software and analysis pipelines that will enable other researchers to analyze high-throughput genomics data in a reliable and reproducible manner. To facilitate these efforts, I have been involved in a joint project to develop a core data structure for storing and manipulating ST data in the R/Bioconductor framework (*SpatialExperiment*) ([Righelli, Weber, Crowell et al. 2021](https://www.biorxiv.org/content/10.1101/2021.01.27.428431v3)). I am also leading a collaborative effort to develop an interactive online textbook demonstrating key steps in a computational analysis pipeline for ST data, including examples of R code and datasets ([Orchestrating Spatially Resolved Transcriptomics Analysis with Bioconductor (OSTA)](https://lmweber.org/OSTA-book/)).
 
 
 ---

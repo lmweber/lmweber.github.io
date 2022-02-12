@@ -20,7 +20,7 @@ A complete list of publications is available from [Google Scholar](https://schol
 
 ### Preprints
 
-- Righell D.\*, **Weber L.M.\***, Crowell H.L.\*, Pardo B., Collado-Torres L., Ghazanfar S., Lun A.T.L., Hicks S.C.<sup>+</sup>, and Risso D.<sup>+</sup> (2021), *SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor*, bioRxiv. [Paper](https://www.biorxiv.org/content/10.1101/2021.01.27.428431v2), [R/Bioconductor package](https://bioconductor.org/packages/SpatialExperiment).
+- Righell D.\*, **Weber L.M.\***, Crowell H.L.\*, Pardo B., Collado-Torres L., Ghazanfar S., Lun A.T.L., Hicks S.C.<sup>+</sup>, and Risso D.<sup>+</sup> (2021), *SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor*, bioRxiv. [Paper](https://www.biorxiv.org/content/10.1101/2021.01.27.428431v3), [R/Bioconductor package](https://bioconductor.org/packages/SpatialExperiment).
 
 - Tippani M., Divecha H.R., Catallini II J.L., **Weber L.M.**, Spangler A., Jaffe A.E., Hicks S.C., Martinowich K., Collado-Torres L., Page S.C., and Maynard K.R. (2021), *VistoSeg: a MATLAB pipeline to process, analyze and visualize high-resolution histology images for Visium spatial transcriptomics data*, bioRxiv. [Paper](https://www.biorxiv.org/content/10.1101/2021.08.04.452489v1), [Software](http://research.libd.org/VistoSeg/), [Code](https://github.com/LieberInstitute/VistoSeg).
 
