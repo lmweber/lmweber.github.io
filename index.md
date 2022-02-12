@@ -6,7 +6,7 @@ layout: page
 
 ### About
 
-I am a postdoctoral researcher in [Dr. Stephanie Hicks's](https://www.stephaniehicks.com/) group in the [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/) at [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu/), funded by a [K99/R00 Pathway to Independence Award](https://reporter.nih.gov/search/5u7x8jpqxUSznDKcHnIqSw/project-details/10350850) from [NIH](https://www.nih.gov/) [NHGRI](https://www.genome.gov/).
+I am a postdoctoral researcher funded by a [K99/R00 Pathway to Independence Award](https://reporter.nih.gov/search/5u7x8jpqxUSznDKcHnIqSw/project-details/10350850) from the [NIH](https://www.nih.gov/) [NHGRI](https://www.genome.gov/), advised by [Dr. Stephanie Hicks](https://www.stephaniehicks.com/) in the [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/) at [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu/).
 
 My work in on the development of unsupervised statistical methodology and software for analyzing data from spatial transcriptomics, single-cell RNA sequencing, and other high-throughput genomics technologies. Most of my methodological projects are implemented as R packages within the open-source [Bioconductor](http://bioconductor.org/) project.
 
