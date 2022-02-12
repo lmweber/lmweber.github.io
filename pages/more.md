@@ -6,7 +6,7 @@ layout: page
 
 ### Code of conduct
 
-If you plan to work with me, you agree to abide by an appropriate code of conduct policy for an academic environment, such as the [Bioconductor project-wide Code of Conduct](https://www.bioconductor.org/about/code-of-conduct/).
+If you plan to work with me, you agree to abide by an appropriate code of conduct policy for an academic environment, such as the [Bioconductor project-wide Code of Conduct](https://bioconductor.github.io/bioc_coc_multilingual/en-US.html).
 
 
 ---
