@@ -30,9 +30,9 @@ E3011 | 615 N Wolfe St <br/>
 Baltimore, MD 21205-2179, USA
 
 <img src="images/envelope.svg" alt="Email logo" width="20"> [Email: lukas.weber@jhu.edu]() <br/>
-<img src="images/twitter.svg" alt="Twitter logo" width="20"> [Twitter: @lmwebr](https://twitter.com/lmwebr)
+<img src="images/twitter.svg" alt="Twitter logo" width="20"> [Twitter: @lmwebr](https://twitter.com/lmwebr) <br/>
 <img src="images/github.svg" alt="GitHub logo" width="20"> [GitHub: lmweber](https://github.com/lmweber) <br/>
-<img src="images/scholar.svg" alt="Google Scholar logo" width="20"> [Google Scholar](https://scholar.google.com/citations?user=1vZo3toAAAAJ&hl=en) <br/>
+<img src="images/scholar.svg" alt="Google Scholar logo" width="20"> [Google Scholar](https://scholar.google.com/citations?user=1vZo3toAAAAJ&hl=en)
 
 </div>
 <div class="span3" markdown="1">
