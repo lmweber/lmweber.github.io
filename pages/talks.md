@@ -38,9 +38,9 @@ layout: page
 
 ### Conference posters
 
-- ASHG Institute for Genomic Medicine Symposium on Spatial Omics. (2020). *Unsupervised analysis of transcriptome-scale spatial gene expression in human dorsolateral prefrontal cortex using spatial transcriptomics data.* [Link](https://zenodo.org/record/4110719).
+- ASHG Institute for Genomic Medicine Symposium on Spatial Omics. (2020). [*Unsupervised analysis of transcriptome-scale spatial gene expression in human dorsolateral prefrontal cortex using spatial transcriptomics data.*](https://zenodo.org/record/4110719)
 
-- Genome Informatics. (Poster and lightning talk.) (2020). *Unsupervised analysis of transcriptome-scale spatial gene expression in human dorsolateral prefrontal cortex using spatial transcriptomics data.* [Link](https://zenodo.org/record/4110719).
+- Genome Informatics. (Poster and lightning talk.) (2020). [*Unsupervised analysis of transcriptome-scale spatial gene expression in human dorsolateral prefrontal cortex using spatial transcriptomics data.*](https://zenodo.org/record/4110719)
 
 - CYTO 2018: 33rd Congress of the International Society for Advancement of Cytometry, Prague, Czechia. (2018). *diffcyt: Differential discovery in high-dimensional cytometry via high-resolution clustering.*
 
