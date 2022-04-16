@@ -30,7 +30,7 @@ Additional details are available from [GitHub](https://github.com/lmweber).
 
 ### Other software projects
 
-- [CrispantCal](https://lmweber.org/CrispantCal/): R/Shiny web application to calculate injection mix volumes for CRISPR-Cas9 experiments (described in our publication: Burger et al., 2016).
+- [CrispantCal](https://lmweber.org/CrispantCal/): R/Shiny web application to calculate injection mix volumes for CRISPR-Cas9 experiments (described in our publication: Burger et al. 2016).
 
 
 ---
