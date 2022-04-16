@@ -10,9 +10,9 @@ layout: page
 
 - Bioc2021 Bioconductor annual conference. (Virtual.) (2021). [*Workshop on 'Orchestrating Spatially Resolved Transcriptomics Analysis with Bioconductor (OSTA)'.*](https://lmweber.org/OSTAWorkshopBioc2021/)
 
-- Bioc2021 Bioconductor annual conference. (Virtual.) (2021). [*Workshop on 'SpatialExperiment' (joint presentation with Dario Righelli and Helena L. Crowell).*](https://drighelli.github.io/SpatialExperiment_Bioc2021/index.html)
+- Bioc2021 Bioconductor annual conference. (Virtual.) (2021). [*Workshop on 'SpatialExperiment'.*](https://drighelli.github.io/SpatialExperiment_Bioc2021/index.html) (Joint presentation with Dario Righelli and Helena L. Crowell.)
 
-- European Bioconductor Meeting 2020. (Virtual.) (2020). *Workshop on 'SpatialExperiment' (joint presentation with Dario Righelli and Helena L. Crowell).*
+- European Bioconductor Meeting 2020. (Virtual.) (2020). *Workshop on 'SpatialExperiment'.* (Joint presentation with Dario Righelli and Helena L. Crowell.)
 
 - Bioc2020 Bioconductor annual conference. (Virtual.) (2020). *Unsupervised analysis of transcriptome-scale spatial gene expression data in the human prefrontal cortex.*
 
