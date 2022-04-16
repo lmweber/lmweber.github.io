@@ -8,9 +8,9 @@ layout: page
 
 - ENAR (Eastern North American Region of the International Biometric Society) Spring Meeting, Houston, Texas, United States. (2022). *nnSVG: scalable identification of spatially variable genes using nearest-neighbor Gaussian processes.*
 
-- Bioc2021 Bioconductor annual conference. (Virtual.) (2021). *Workshop on 'Orchestrating Spatially Resolved Transcriptomics Analysis with Bioconductor (OSTA)'.*
+- Bioc2021 Bioconductor annual conference. (Virtual.) (2021). [*Workshop on 'Orchestrating Spatially Resolved Transcriptomics Analysis with Bioconductor (OSTA)'.*](https://lmweber.org/OSTAWorkshopBioc2021/)
 
-- Bioc2021 Bioconductor annual conference. (Virtual.) (2021). *Workshop on 'SpatialExperiment' (joint presentation with Dario Righelli and Helena L. Crowell).*
+- Bioc2021 Bioconductor annual conference. (Virtual.) (2021). [*Workshop on 'SpatialExperiment' (joint presentation with Dario Righelli and Helena L. Crowell).*](https://drighelli.github.io/SpatialExperiment_Bioc2021/index.html)
 
 - European Bioconductor Meeting 2020. (Virtual.) (2020). *Workshop on 'SpatialExperiment' (joint presentation with Dario Righelli and Helena L. Crowell).*
 
