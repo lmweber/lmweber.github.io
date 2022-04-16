@@ -4,23 +4,51 @@ layout: page
 ---
 
 
-### Selected conference presentations
+### Conference presentations
 
-- [Bioc2021 Bioconductor annual conference 2021](https://bioc2021.bioconductor.org/), 4-6 August 2021: [*Workshop on "Orchestrating Spatially Resolved Transcriptomics Analysis with Bioconductor (OSTA)"*](https://lmweber.org/OSTAWorkshopBioc2021/)
+- ENAR (Eastern North American Region of the International Biometric Society) Spring Meeting, Houston, Texas, United States. (2022). *nnSVG: scalable identification of spatially variable genes using nearest-neighbor Gaussian processes.*
 
-- [Bioc2021 Bioconductor annual conference 2021](https://bioc2021.bioconductor.org/), 4-6 August 2021: [*SpatialExperiment Workshop*](https://drighelli.github.io/SpatialExperiment_Bioc2021/index.html) (joint presentation with [Dario Righelli](https://github.com/drighelli) and [Helena L. Crowell](https://helenalc.github.io/))
+- Bioc2021 Bioconductor annual conference. (Virtual.) (2021). *Workshop on 'Orchestrating Spatially Resolved Transcriptomics Analysis with Bioconductor (OSTA)'.*
 
-- [EuroBioc2020 European Bioconductor Meeting 2020](https://eurobioc2020.bioconductor.org/), 14-18 December 2020: *SpatialExperiment workshop* (joint presentation with [Dario Righelli](https://github.com/drighelli) and [Helena L. Crowell](https://helenalc.github.io/))
+- Bioc2021 Bioconductor annual conference. (Virtual.) (2021). *Workshop on 'SpatialExperiment' (joint presentation with Dario Righelli and Helena L. Crowell).*
 
-- [Bioc2020 Bioconductor annual conference 2020](http://bioc2020.bioconductor.org/), 27-31 July 2020: *Unsupervised analysis of transcriptome-scale spatial gene expression data in the human prefrontal cortex*
+- European Bioconductor Meeting 2020. (Virtual.) (2020). *Workshop on 'SpatialExperiment' (joint presentation with Dario Righelli and Helena L. Crowell).*
+
+- Bioc2020 Bioconductor annual conference. (Virtual.) (2020). *Unsupervised analysis of transcriptome-scale spatial gene expression data in the human prefrontal cortex.*
+
+- ICCABS 2018 (IEEE 8th International Conference on Computational Advances in Bio and Medical Sciences): 1st Workshop on Computational Advances for Single-Cell Omics Data Analysis (CASCODA), Las Vegas, United States. (2018). *Methods, tools, and resources for differential discovery in high-dimensional cytometry data.*
+
+- 1st Swiss Cytometry Meeting, Lausanne, Switzerland. (2018). *Statistical methods for differential discovery in high-dimensional cytometry data.*
+
+- European Bioconductor Meeting 2018, Munich, Germany. (2018). *HDCytoData package: High-dimensional cytometry benchmark datasets in Bioconductor formats.*
+
+- European Bioconductor Meeting 2017, Cambridge, United Kingdom. (2017). *Statistical methods for differential discovery in high-dimensional cytometry data.*
+
+- CYTO 2017:\ 32nd Congress of the International Society for Advancement of Cytometry, Boston, United States. (2017). *Statistical methods for differential discovery in high-dimensional cytometry data.*
+
+- IMLS Scientific Retreat 2017 (Institute of Molecular Life Sciences, University of Zurich), Emmetten, Switzerland. (2017). *Comparison of clustering methods for high-dimensional single-cell flow and mass cytometry (CyTOF) data.*
+
+- European Bioconductor Developers' Meeting 2015, Cambridge, United Kingdom. (2015). *regsplice: Lasso-based model selection for improved detection of differential exon usage.*
+
+- C1omics 2015:\ Single-Cell Omics Methods and Applications, Manchester, United Kingdom. (2015). *Comparison of clustering methods for high-dimensional single-cell flow and mass cytometry data.*
 
 
 ---
 
 
-### Selected conference posters
+### Conference posters
 
-- [ASHG Institute for Genomic Medicine Symposium on Spatial Omics](https://igmsymposium.weebly.com/), 26 October 2020: [*Unsupervised analysis of transcriptome-scale spatial gene expression in human dorsolateral prefrontal cortex using spatial transcriptomics data*](https://zenodo.org/record/4110719)
+- ASHG Institute for Genomic Medicine Symposium on Spatial Omics. (2020). *Unsupervised analysis of transcriptome-scale spatial gene expression in human dorsolateral prefrontal cortex using spatial transcriptomics data.* [Link](https://zenodo.org/record/4110719).
 
-- [Genome Informatics](https://coursesandconferences.wellcomeconnectingscience.org/event/genome-informatics-virtual-conference-20200914/), 14-16 September 2020 (poster and lightning talk): [*Unsupervised analysis of transcriptome-scale spatial gene expression in human dorsolateral prefrontal cortex using spatial transcriptomics data*](https://zenodo.org/record/4110719)
+- Genome Informatics. (Poster and lightning talk.) (2020). *Unsupervised analysis of transcriptome-scale spatial gene expression in human dorsolateral prefrontal cortex using spatial transcriptomics data.* [Link](https://zenodo.org/record/4110719).
+
+- CYTO 2018: 33rd Congress of the International Society for Advancement of Cytometry, Prague, Czechia. (2018). *diffcyt: Differential discovery in high-dimensional cytometry via high-resolution clustering.*
+
+- Ascona Workshop 2017: Statistical Challenges in Single-Cell Biology, Ascona, Switzerland. (2017) *Statistical methods for differential discovery in high-dimensional cytometry data.*
+
+- ICML 2016 (International Conference on Machine Learning): Workshop on Computational Biology, New York, United States. (2016). *Comparison of clustering methods for high-dimensional single-cell flow and mass cytometry (CyTOF) data.*
+
+- SIB Days: Swiss Institute of Bioinformatics annual conference, Biel/Bienne, Switzerland. (2016). *Comparison of clustering methods for high-dimensional single-cell flow and mass cytometry (CyTOF) data.*
+
+- IMLS Scientific Retreat 2015 (Institute of Molecular Life Sciences, University of Zurich), Morschach, Switzerland. (2015). *Improving power to detect differential exon usage by L1-regularization (lasso) model selection.*
 

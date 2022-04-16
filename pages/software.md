@@ -6,15 +6,7 @@ layout: page
 
 ### GitHub
 
-Links to my software packages and other code repositories are also available from [GitHub](https://github.com/lmweber).
-
-
----
-
-
-### Online book
-
-- [Orchestrating Spatially Resolved Transcriptomics Analysis with Bioconductor (OSTA)](https://lmweber.org/OSTA-book/): Interactive online textbook describing steps in a computational analysis pipeline for spatially resolved transcriptomics data, including R code and example datasets. (Joint project with [several contributors](https://lmweber.org/OSTA-book/contributors.html).)
+Additional details are available from [GitHub](https://github.com/lmweber).
 
 
 ---
@@ -22,17 +14,33 @@ Links to my software packages and other code repositories are also available fro
 
 ### Software packages
 
-- [SpatialExperiment](https://bioconductor.org/packages/SpatialExperiment): R/Bioconductor object class for storing spatially resolved transcriptomics datasets. (Joint project with [Dario Righelli](https://github.com/drighelli) and [Helena L. Crowell](https://helenalc.github.io/).)
+- [nnSVG](https://bioconductor.org/packages/nnSVG): R/Bioconductor package to identify spatially variable genes in spatially-resolved transcriptomics data.
 
-- [ggspavis](https://github.com/lmweber/ggspavis): Visualization functions for spatially resolved transcriptomics data. (Joint project with [Helena L. Crowell](https://helenalc.github.io/).)
+- [SpatialExperiment](https://bioconductor.org/packages/SpatialExperiment): R/Bioconductor data structure for storing spatially resolved transcriptomics datasets. (Joint project with Dario Righelli and Helena L. Crowell.)
 
-- [STexampleData](https://bioconductor.org/packages/STexampleData): Collection of spatially resolved transcriptomics datasets in SpatialExperiment Bioconductor format.
+- [ggspavis](https://bioconductor.org/packages/ggspavis): R/Bioconductor package containing visualization functions for spatially resolved transcriptomics data. (Joint project with Helena L. Crowell.)
 
-- [diffcyt](https://bioconductor.org/packages/diffcyt): R package implementing a computational framework for differential discovery analyses in high-dimensional cytometry data.
+- [diffcyt](https://bioconductor.org/packages/diffcyt): R/Bioconductor package implementing a computational framework for differential discovery analyses in high-dimensional cytometry data.
 
-- [HDCytoData](http://bioconductor.org/packages/HDCytoData): R package containing a number of publicly available high-dimensional cytometry benchmark datasets in Bioconductor object formats.
+- [regsplice](https://bioconductor.org/packages/regsplice): R/Bioconductor package implementing statistical methodology for detection of differential splicing (differential exon usage) in RNA-sequencing data.
 
-- [regsplice](http://bioconductor.org/packages/regsplice): R package implementing statistical methodology for detection of differential splicing (differential exon usage) in RNA-seq data.
+
+---
+
+
+### Other software projects
+
+- [CrispantCal](https://lmweber.org/CrispantCal/): R/Shiny web application to calculate injection mix volumes for CRISPR-Cas9 experiments (described in our publication: Burger et al., 2016).
+
+
+---
+
+
+### Data packages
+
+- [STexampleData](https://bioconductor.org/packages/STexampleData): R/Bioconductor package containing a collection of spatially resolved transcriptomics datasets in SpatialExperiment Bioconductor format.
+
+- [HDCytoData](https://bioconductor.org/packages/HDCytoData): R/Bioconductor package containing a collection of publicly available high-dimensional cytometry benchmark datasets in Bioconductor object formats.
 
 
 ---
@@ -40,11 +48,11 @@ Links to my software packages and other code repositories are also available fro
 
 ### Selected code repositories
 
-- [snp-dmx-cancer](https://github.com/lmweber/snp-dmx-cancer): Snakemake pipeline and code repository to reproduce analyses in our paper evaluating genetic variation-based demultiplexing for single-cell RNA sequencing ([Weber et al. 2021](https://www.biorxiv.org/content/10.1101/2020.11.06.371963v3)).
+- [snp-dmx-cancer](https://github.com/lmweber/snp-dmx-cancer): Snakemake pipeline and code repository to reproduce analyses and figures in our paper evaluating genetic variation-based demultiplexing for single-cell RNA sequencing (Weber et al. 2021).
 
-- [diffcyt-evaluations](https://github.com/lmweber/diffcyt-evaluations): GitHub repository containing code to reproduce the benchmarking analyses in our paper introducing the *diffcyt* framework ([Weber et al. 2019](https://www.nature.com/articles/s42003-019-0415-5)).
+- [diffcyt-evaluations](https://github.com/lmweber/diffcyt-evaluations): Code repository to reproduce analyses and figures in our paper introducing the 'diffcyt' framework (Weber et al. 2019).
 
-- [cytometry-clustering-comparison](https://github.com/lmweber/cytometry-clustering-comparison): GitHub repository containing reproducible code from our benchmark paper comparing clustering algorithms for high-dimensional cytometry data ([Weber and Robinson, 2016](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.23030)).
+- [cytometry-clustering-comparison](https://github.com/lmweber/cytometry-clustering-comparison): Code repository to reproduce analyses and figures in our benchmark paper comparing clustering algorithms for high-dimensional cytometry data (Weber and Robinson, 2016).
 
 
 ---
@@ -52,7 +60,7 @@ Links to my software packages and other code repositories are also available fro
 
 ### Selected data repositories
 
-- [FlowRepository FR-FCM-ZYL8](http://flowrepository.org/id/FR-FCM-ZYL8): Data repository containing datasets used in the benchmarking analyses from our paper introducing the *diffcyt* framework ([Weber et al. 2019](https://www.nature.com/articles/s42003-019-0415-5)). These datasets are also provided in an easily accessible format in the [HDCytoData](http://bioconductor.org/packages/HDCytoData) Bioconductor package.
+- [FlowRepository FR-FCM-ZYL8](http://flowrepository.org/id/FR-FCM-ZYL8): Data repository containing datasets used for benchmarking analyses in our paper introducing the 'diffcyt' framework (Weber et al. 2019). These datasets are also provided in an easily accessible format in the 'HDCytoData' R/Bioconductor package.
 
-- [FlowRepository FR-FCM-ZZPH](http://flowrepository.org/id/FR-FCM-ZZPH): Data repository containing benchmark datasets from our paper comparing clustering algorithms for high-dimensional cytometry data ([Weber and Robinson, 2016](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.23030)). These datasets are also provided in an easily accessible format in the [HDCytoData](http://bioconductor.org/packages/HDCytoData) Bioconductor package.
+- [FlowRepository FR-FCM-ZZPH](http://flowrepository.org/id/FR-FCM-ZZPH): Data repository containing datasets used for benchmarking analyses in our paper comparing clustering algorithms for high-dimensional cytometry data (Weber and Robinson, 2016). These datasets are also provided in an easily accessible format in the 'HDCytoData' R/Bioconductor package.
 
