@@ -40,7 +40,7 @@ A complete list of publications is also available from [Google Scholar](https://
 
 - **Weber L.M.**, Hippen A.A., Hickey P.F., Berrett K.C., Gertz J., Doherty J.A., Greene C.S., and Hicks S.C. (2021). *Genetic demultiplexing of pooled single-cell RNA-sequencing samples in cancer facilitates effective experimental design.* GigaScience, 10, 9, giab062. [Paper](https://academic.oup.com/gigascience/article/10/9/giab062/6374209), [Code](https://github.com/lmweber/snp-dmx-cancer), [Data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE156793), [Data (controlled access)](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002262.v1.p1).
 
-- Liechti T., =**Weber L.M.**, Ashhurst T.M., Stanley N., Prlic M., Van Gassen S., and Mair F. (2021). *An updated guide for the perplexed: cytometry in the high-dimensional era.* Nature Immunology, 22, 1190--1197. [Paper](https://www.nature.com/articles/s41590-021-01006-z).
+- Liechti T., **Weber L.M.**, Ashhurst T.M., Stanley N., Prlic M., Van Gassen S., and Mair F. (2021). *An updated guide for the perplexed: cytometry in the high-dimensional era.* Nature Immunology, 22, 1190--1197. [Paper](https://www.nature.com/articles/s41590-021-01006-z).
 
 - Hippen A.A., Falco M.M., **Weber L.M.**, Erkan E.P., Zhang K., Doherty J.A., Vähärautio A., Greene C.S., and Hicks S.C. (2021). *miQC: An adaptive probabilistic framework for quality control of single-cell RNA-sequencing data.* PLOS Computational Biology, 17, 8, e1009290. [Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009290), [R/Bioconductor package](https://bioconductor.org/packages/miQC).
 
