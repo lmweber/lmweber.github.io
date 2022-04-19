@@ -14,8 +14,6 @@ A complete list of publications is also available from [Google Scholar](https://
 
 ### Preprint articles
 
-- Righell D.\*, **Weber L.M.\***, Crowell H.L.\*, Pardo B., Collado-Torres L., Ghazanfar S., Lun A.T.L., Hicks S.C.\*, and Risso D.\* (2022). *SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor.* bioRxiv (preprint). [Paper](https://www.biorxiv.org/content/10.1101/2021.01.27.428431v3), [R/Bioconductor package](https://bioconductor.org/packages/SpatialExperiment).
-
 - Tiberi S., Crowell H.L., Samartsidis P., **Weber L.M.**, and Robinson M.D. (2022), *distinct: a novel approach to differential distribution analyses.* bioRxiv (preprint). [Paper](https://www.biorxiv.org/content/10.1101/2020.11.24.394213v4), [R/Bioconductor package](https://bioconductor.org/packages/distinct).
 
 - Petrillo M., Fabbri M., Kagkli D.M. et al. (2022). *A roadmap for the generation of benchmarking resources for antimicrobial resistance detection using next generation sequencing.* F1000Research, v2, 10, 80. [Paper](https://f1000research.com/articles/10-80).
@@ -27,10 +25,12 @@ A complete list of publications is also available from [Google Scholar](https://
 - Krieg C., Carloni S., **Weber L.M.**, Fosso B., Hardiman G., Mileti E., El Aidy S., Marzano M., Pesole G., Asnicar F., Segata N., Robinson M.D., and Guglietta S. (2021). *Loss of C3aR induces immune infiltration and inflammatory microbiota in a new spontaneous model of colon cancer.* bioRxiv (preprint). [Paper](https://www.biorxiv.org/content/10.1101/2021.01.18.426963v2).
 
 
-<!-- --- -->
+---
 
 
-<!-- ### Accepted articles (in press) -->
+### Journal articles (accepted or in press)
+
+- Righell D.\*, **Weber L.M.\***, Crowell H.L.\*, Pardo B., Collado-Torres L., Ghazanfar S., Lun A.T.L., Hicks S.C.\*, and Risso D.\* (2022). *SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor.* Bioinformatics. [Paper](https://www.biorxiv.org/content/10.1101/2021.01.27.428431v3), [R/Bioconductor package](https://bioconductor.org/packages/SpatialExperiment).
 
 
 ---
