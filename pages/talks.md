@@ -34,13 +34,13 @@ layout: page
 
 - European Bioconductor Meeting 2018, Munich, Germany. (2018). *HDCytoData package: High-dimensional cytometry benchmark datasets in Bioconductor formats.*
 
-- CYTO 2017:\ 32nd Congress of the International Society for Advancement of Cytometry, Boston, United States. (2017). *Statistical methods for differential discovery in high-dimensional cytometry data.*
+- CYTO 2017: 32nd Congress of the International Society for Advancement of Cytometry, Boston, United States. (2017). *Statistical methods for differential discovery in high-dimensional cytometry data.*
 
 - IMLS Scientific Retreat 2017 (Institute of Molecular Life Sciences, University of Zurich), Emmetten, Switzerland. (2017). *Comparison of clustering methods for high-dimensional single-cell flow and mass cytometry (CyTOF) data.*
 
 - European Bioconductor Developers' Meeting 2015, Cambridge, United Kingdom. (2015). *regsplice: Lasso-based model selection for improved detection of differential exon usage.*
 
-- C1omics 2015:\ Single-Cell Omics Methods and Applications, Manchester, United Kingdom. (2015). *Comparison of clustering methods for high-dimensional single-cell flow and mass cytometry data.*
+- C1omics 2015: Single-Cell Omics Methods and Applications, Manchester, United Kingdom. (2015). *Comparison of clustering methods for high-dimensional single-cell flow and mass cytometry data.*
 
 
 ---
