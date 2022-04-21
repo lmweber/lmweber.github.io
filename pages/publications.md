@@ -30,7 +30,7 @@ A complete list of publications is also available from [Google Scholar](https://
 
 - Righell D.\*, **Weber L.M.\***, Crowell H.L.\*, Pardo B., Collado-Torres L., Ghazanfar S., Lun A.T.L., Hicks S.C.\*, and Risso D.\* (2022). *SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor.* Bioinformatics. [Paper](https://www.biorxiv.org/content/10.1101/2021.01.27.428431v3), [R/Bioconductor package](https://bioconductor.org/packages/SpatialExperiment).
 
-- Pardo B., Spangler A., **Weber L.M.**, Hicks S.C., Jaffe A.E., Martinowich K., Maynard K.R., and Collado-Torres L. (2021), *spatialLIBD: an R/Bioconductor package to visualize spatially-resolved transcriptomics data.* BMC Genomics. [Paper](https://www.biorxiv.org/content/10.1101/2021.04.29.440149v1), [R/Bioconductor package](http://bioconductor.org/packages/spatialLIBD).
+- Pardo B., Spangler A., **Weber L.M.**, Hicks S.C., Jaffe A.E., Martinowich K., Maynard K.R., and Collado-Torres L. (2022), *spatialLIBD: an R/Bioconductor package to visualize spatially-resolved transcriptomics data.* BMC Genomics. [Paper](https://www.biorxiv.org/content/10.1101/2021.04.29.440149v1), [R/Bioconductor package](http://bioconductor.org/packages/spatialLIBD).
 
 
 ---
