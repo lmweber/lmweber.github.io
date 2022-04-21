@@ -4,9 +4,23 @@ layout: page
 ---
 
 
-### Conference presentations
+### Invited presentations
 
 - ENAR (Eastern North American Region of the International Biometric Society) Spring Meeting, Houston, Texas, United States. (2022). *nnSVG: scalable identification of spatially variable genes using nearest-neighbor Gaussian processes.*
+
+- ICCABS 2018 (IEEE 8th International Conference on Computational Advances in Bio and Medical Sciences): 1st Workshop on Computational Advances for Single-Cell Omics Data Analysis (CASCODA), Las Vegas, United States. (2018). *Methods, tools, and resources for differential discovery in high-dimensional cytometry data.*
+
+- 1st Swiss Cytometry Meeting, Lausanne, Switzerland. (2018). *Statistical methods for differential discovery in high-dimensional cytometry data.*
+
+- European Bioconductor Meeting 2017, Cambridge, United Kingdom. (2017). *Statistical methods for differential discovery in high-dimensional cytometry data.*
+
+
+---
+
+
+### Presentations
+
+- BLAST Working Group seminar, Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health. (2022). *nnSVG: scalable identification of spatially variable genes using nearest-neighbor Gaussian Processes.*
 
 - Bioc2021 Bioconductor annual conference. (Virtual.) (2021). [*Workshop on 'Orchestrating Spatially Resolved Transcriptomics Analysis with Bioconductor (OSTA)'.*](https://lmweber.org/OSTAWorkshopBioc2021/)
 
@@ -16,13 +30,7 @@ layout: page
 
 - Bioc2020 Bioconductor annual conference. (Virtual.) (2020). *Unsupervised analysis of transcriptome-scale spatial gene expression data in the human prefrontal cortex.*
 
-- ICCABS 2018 (IEEE 8th International Conference on Computational Advances in Bio and Medical Sciences): 1st Workshop on Computational Advances for Single-Cell Omics Data Analysis (CASCODA), Las Vegas, United States. (2018). *Methods, tools, and resources for differential discovery in high-dimensional cytometry data.*
-
-- 1st Swiss Cytometry Meeting, Lausanne, Switzerland. (2018). *Statistical methods for differential discovery in high-dimensional cytometry data.*
-
 - European Bioconductor Meeting 2018, Munich, Germany. (2018). *HDCytoData package: High-dimensional cytometry benchmark datasets in Bioconductor formats.*
-
-- European Bioconductor Meeting 2017, Cambridge, United Kingdom. (2017). *Statistical methods for differential discovery in high-dimensional cytometry data.*
 
 - CYTO 2017:\ 32nd Congress of the International Society for Advancement of Cytometry, Boston, United States. (2017). *Statistical methods for differential discovery in high-dimensional cytometry data.*
 
@@ -36,7 +44,7 @@ layout: page
 ---
 
 
-### Conference posters
+### Posters
 
 - ASHG Institute for Genomic Medicine Symposium on Spatial Omics. (2020). [*Unsupervised analysis of transcriptome-scale spatial gene expression in human dorsolateral prefrontal cortex using spatial transcriptomics data.*](https://zenodo.org/record/4110719)
 
