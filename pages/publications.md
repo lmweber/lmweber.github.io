@@ -20,8 +20,6 @@ A complete list of publications is also available from [Google Scholar](https://
 
 - Tippani M., Divecha H.R., Catallini II J.L., **Weber L.M.**, Spangler A., Jaffe A.E., Hicks S.C., Martinowich K., Collado-Torres L., Page S.C., and Maynard K.R. (2021). *VistoSeg: a MATLAB pipeline to process, analyze and visualize high-resolution histology images for Visium spatial transcriptomics data.* bioRxiv (preprint). [Paper](https://www.biorxiv.org/content/10.1101/2021.08.04.452489v1), [Software](http://research.libd.org/VistoSeg/), [Code](https://github.com/LieberInstitute/VistoSeg).
 
-- Pardo B., Spangler A., **Weber L.M.**, Hicks S.C., Jaffe A.E., Martinowich K., Maynard K.R., and Collado-Torres L. (2021), *spatialLIBD: an R/Bioconductor package to visualize spatially-resolved transcriptomics data.* bioRxiv (preprint). [Paper](https://www.biorxiv.org/content/10.1101/2021.04.29.440149v1), [R/Bioconductor package](http://bioconductor.org/packages/spatialLIBD).
-
 - Krieg C., Carloni S., **Weber L.M.**, Fosso B., Hardiman G., Mileti E., El Aidy S., Marzano M., Pesole G., Asnicar F., Segata N., Robinson M.D., and Guglietta S. (2021). *Loss of C3aR induces immune infiltration and inflammatory microbiota in a new spontaneous model of colon cancer.* bioRxiv (preprint). [Paper](https://www.biorxiv.org/content/10.1101/2021.01.18.426963v2).
 
 
@@ -31,6 +29,8 @@ A complete list of publications is also available from [Google Scholar](https://
 ### Journal articles (accepted or in press)
 
 - Righell D.\*, **Weber L.M.\***, Crowell H.L.\*, Pardo B., Collado-Torres L., Ghazanfar S., Lun A.T.L., Hicks S.C.\*, and Risso D.\* (2022). *SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor.* Bioinformatics. [Paper](https://www.biorxiv.org/content/10.1101/2021.01.27.428431v3), [R/Bioconductor package](https://bioconductor.org/packages/SpatialExperiment).
+
+- Pardo B., Spangler A., **Weber L.M.**, Hicks S.C., Jaffe A.E., Martinowich K., Maynard K.R., and Collado-Torres L. (2021), *spatialLIBD: an R/Bioconductor package to visualize spatially-resolved transcriptomics data.* BMC Genomics. [Paper](https://www.biorxiv.org/content/10.1101/2021.04.29.440149v1), [R/Bioconductor package](http://bioconductor.org/packages/spatialLIBD).
 
 
 ---
