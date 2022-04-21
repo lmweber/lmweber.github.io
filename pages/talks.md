@@ -30,6 +30,8 @@ layout: page
 
 - Bioc2020 Bioconductor annual conference. (Virtual.) (2020). *Unsupervised analysis of transcriptome-scale spatial gene expression data in the human prefrontal cortex.*
 
+- Johns Hopkins University 13th Annual Genomics and Bioinformatics Symposium and Poster Session, Baltimore, United States. (2019). *Comparison of dimension reduction algorithms for visualization of single-cell data.*
+
 - European Bioconductor Meeting 2018, Munich, Germany. (2018). *HDCytoData package: High-dimensional cytometry benchmark datasets in Bioconductor formats.*
 
 - CYTO 2017:\ 32nd Congress of the International Society for Advancement of Cytometry, Boston, United States. (2017). *Statistical methods for differential discovery in high-dimensional cytometry data.*
