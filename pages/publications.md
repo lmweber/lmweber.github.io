@@ -36,7 +36,7 @@ A complete list of publications is also available from [Google Scholar](https://
 
 ### Journal articles (peer-reviewed and published)
 
-- Righell D.\*, **Weber L.M.\***, Crowell H.L.\*, Pardo B., Collado-Torres L., Ghazanfar S., Lun A.T.L., Hicks S.C.\*, and Risso D.\* (2022). *SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor.* Bioinformatics. [Paper](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac299/6575443), [R/Bioconductor package](https://bioconductor.org/packages/SpatialExperiment).
+- Righell D.\*, **Weber L.M.\***, Crowell H.L.\*, Pardo B., Collado-Torres L., Ghazanfar S., Lun A.T.L., Hicks S.C.\*, and Risso D.\* (2022). *SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor.* Bioinformatics, btac299. [Paper](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac299/6575443), [R/Bioconductor package](https://bioconductor.org/packages/SpatialExperiment).
 
 - **Weber L.M.**, Hippen A.A., Hickey P.F., Berrett K.C., Gertz J., Doherty J.A., Greene C.S., and Hicks S.C. (2021). *Genetic demultiplexing of pooled single-cell RNA-sequencing samples in cancer facilitates effective experimental design.* GigaScience, 10, 9, giab062. [Paper](https://academic.oup.com/gigascience/article/10/9/giab062/6374209), [Code](https://github.com/lmweber/snp-dmx-cancer), [Data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE156793), [Data (controlled access)](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002262.v1.p1).
 
