@@ -48,6 +48,8 @@ Additional details are available from [GitHub](https://github.com/lmweber).
 
 ### Selected code repositories
 
+- [nnSVG-analyses](https://github.com/lmweber/nnSVG-analyses): Code repository to reproduce analyses and figures in our paper on the 'nnSVG' method (Weber et al. 2022).
+
 - [snp-dmx-cancer](https://github.com/lmweber/snp-dmx-cancer): Snakemake pipeline and code repository to reproduce analyses and figures in our paper evaluating genetic variation-based demultiplexing for single-cell RNA sequencing (Weber et al. 2021).
 
 - [diffcyt-evaluations](https://github.com/lmweber/diffcyt-evaluations): Code repository to reproduce analyses and figures in our paper introducing the 'diffcyt' framework (Weber et al. 2019).

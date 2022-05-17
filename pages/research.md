@@ -6,7 +6,7 @@ layout: page
 
 ### Unsupervised statistical methods
 
-I am interested in developing improved and scalable methods for unsupervised analyses in high-throughput genomics data, including spatially resolved transcriptomics (ST), single-cell RNA sequencing (scRNA-seq), and high-dimensional cytometry (HDCyto). In previous work, I have performed a systematic benchmark comparison of clustering methods for HDCyto data ([Weber and Robinson 2016](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.23030)), and developed an unsupervised analysis pipeline for ST data as part of a collaboration on analyzing the spatial landscape of gene expression in the human brain dorsolateral prefrontal cortex (DLPFC) region ([Maynard and Collado-Torres et al. 2021](https://www.nature.com/articles/s41593-020-00787-0)).
+I am interested in developing improved and scalable methods for unsupervised analyses in high-throughput genomics data, including spatially resolved transcriptomics (SRT), single-cell RNA sequencing (scRNA-seq), and high-dimensional cytometry (HDCyto). In previous work, I have performed a systematic benchmark comparison of clustering methods for HDCyto data ([Weber and Robinson 2016](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.23030)), and developed an unsupervised analysis pipeline for SRT data as part of a collaboration on analyzing the spatial landscape of gene expression in the human brain dorsolateral prefrontal cortex (DLPFC) region ([Maynard and Collado-Torres et al. 2021](https://www.nature.com/articles/s41593-020-00787-0)). Recently, I have led the development of [nnSVG](https://bioconductor.org/packages/nnSVG), a new scalable method to identify spatially variable genes in SRT data ([Weber et al. 2022](https://www.biorxiv.org/content/10.1101/2022.05.16.492124v1)).
 
 
 ---
@@ -14,7 +14,7 @@ I am interested in developing improved and scalable methods for unsupervised ana
 
 ### Applications of spatial statistics
 
-ST data (e.g. from the [10x Genomics Visium platform](https://www.10xgenomics.com/products/spatial-gene-expression)) consists of gene expression measurements for thousands of genes at a thousands or more spatial locations on a tissue slide. To efficiently analyze these large datasets, we are adapting recent advances in spatial statistical methodology to the genomic context. For example, this will allow us to more efficiently identify spatially variable genes with expression that varies with tissue structures of interest, or perform spatially aware clustering to identify spatial domains representing cell types or other biological structures.
+SRT data (e.g. from the [10x Genomics Visium platform](https://www.10xgenomics.com/products/spatial-gene-expression)) consists of gene expression measurements for thousands of genes at a thousands or more spatial locations on a tissue slide. To efficiently analyze these large datasets, we are adapting recent advances in spatial statistical methodology to the genomic context. For example, this will allow us to more efficiently identify spatially variable genes with expression that varies with tissue structures of interest, or perform spatially aware clustering to identify spatial domains representing cell types or other biological structures. We have recently developed [nnSVG](https://bioconductor.org/packages/nnSVG), a new scalable method to identify spatially variable genes in SRT data ([Weber et al. 2022](https://www.biorxiv.org/content/10.1101/2022.05.16.492124v1)).
 
 
 ---
@@ -46,7 +46,7 @@ Methodological work requires rigorous and systematic benchmarking of new methods
 
 ### Software pipelines
 
-I am motivated to develop user-friendly software and analysis pipelines that will enable other researchers to analyze high-throughput genomics data in a reliable and reproducible manner. To facilitate these efforts, I have been involved in a joint project to develop a core data class for storing and manipulating ST data within the R/Bioconductor framework (*SpatialExperiment*) ([Righelli, Weber, Crowell et al. 2021](https://www.biorxiv.org/content/10.1101/2021.01.27.428431v3)). I am also leading a collaborative effort to develop an interactive online textbook demonstrating key steps in a computational analysis pipeline for ST data, including examples of R code and datasets ([Orchestrating Spatially Resolved Transcriptomics Analysis with Bioconductor (OSTA)](https://lmweber.org/OSTA-book/)).
+I am motivated to develop user-friendly software and analysis pipelines that will enable other researchers to analyze high-throughput genomics data in a reliable and reproducible manner. To facilitate these efforts, I have been involved in a joint project to develop a core data class for storing and manipulating SRT data within the R/Bioconductor framework (*SpatialExperiment*) ([Righelli, Weber, Crowell et al. 2021](https://www.biorxiv.org/content/10.1101/2021.01.27.428431v3)). I am also leading a collaborative effort to develop an interactive online textbook demonstrating key steps in a computational analysis pipeline for SRT data, including examples of R code and datasets ([Orchestrating Spatially Resolved Transcriptomics Analysis with Bioconductor (OSTA)](https://lmweber.org/OSTA-book/)).
 
 
 ---
