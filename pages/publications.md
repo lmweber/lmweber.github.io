@@ -14,6 +14,8 @@ A complete list of publications is also available from [Google Scholar](https://
 
 ### Preprint articles
 
+- **Weber L.M.**, Saha A., Datta A., Hansen K.D., and Hicks S.C. (2022) *nnSVG: scalable identification of spatially variable genes using nearest-neighbor Gaussian processes.* bioRxiv (preprint). [Paper](https://www.biorxiv.org/content/10.1101/2022.05.16.492124v1), [R/Bioconductor package](https://bioconductor.org/packages/nnSVG), [Code](https://github.com/lmweber/nnSVG-analyses).
+
 - Tiberi S., Crowell H.L., Samartsidis P., **Weber L.M.**, and Robinson M.D. (2022), *distinct: a novel approach to differential distribution analyses.* bioRxiv (preprint). [Paper](https://www.biorxiv.org/content/10.1101/2020.11.24.394213v4), [R/Bioconductor package](https://bioconductor.org/packages/distinct).
 
 - Petrillo M., Fabbri M., Kagkli D.M. et al. (2022). *A roadmap for the generation of benchmarking resources for antimicrobial resistance detection using next generation sequencing.* F1000Research, v2, 10, 80. [Paper](https://f1000research.com/articles/10-80).
