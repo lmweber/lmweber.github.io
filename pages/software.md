@@ -16,9 +16,9 @@ Additional details are available from [GitHub](https://github.com/lmweber).
 
 - [nnSVG](https://bioconductor.org/packages/nnSVG): R/Bioconductor package to identify spatially variable genes in spatially-resolved transcriptomics data.
 
-- [SpatialExperiment](https://bioconductor.org/packages/SpatialExperiment): R/Bioconductor data structure for storing spatially resolved transcriptomics datasets. (Joint project with Dario Righelli and Helena L. Crowell.)
+- [SpatialExperiment](https://bioconductor.org/packages/SpatialExperiment): R/Bioconductor data structure for storing spatially-resolved transcriptomics datasets. (Joint project with Dario Righelli and Helena L. Crowell.)
 
-- [ggspavis](https://bioconductor.org/packages/ggspavis): R/Bioconductor package containing visualization functions for spatially resolved transcriptomics data. (Joint project with Helena L. Crowell.)
+- [ggspavis](https://bioconductor.org/packages/ggspavis): R/Bioconductor package containing visualization functions for spatially-resolved transcriptomics data. (Joint project with Helena L. Crowell.)
 
 - [diffcyt](https://bioconductor.org/packages/diffcyt): R/Bioconductor package implementing a computational framework for differential discovery analyses in high-dimensional cytometry data.
 
@@ -38,7 +38,7 @@ Additional details are available from [GitHub](https://github.com/lmweber).
 
 ### Data packages
 
-- [STexampleData](https://bioconductor.org/packages/STexampleData): R/Bioconductor package containing a collection of spatially resolved transcriptomics datasets in SpatialExperiment Bioconductor format.
+- [STexampleData](https://bioconductor.org/packages/STexampleData): R/Bioconductor package containing a collection of spatially-resolved transcriptomics datasets in SpatialExperiment Bioconductor format.
 
 - [HDCytoData](https://bioconductor.org/packages/HDCytoData): R/Bioconductor package containing a collection of publicly available high-dimensional cytometry benchmark datasets in Bioconductor object formats.
 

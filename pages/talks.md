@@ -22,7 +22,7 @@ layout: page
 
 - BLAST Working Group seminar, Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health. (2022). *nnSVG: scalable identification of spatially variable genes using nearest-neighbor Gaussian Processes.*
 
-- Bioc2021 Bioconductor annual conference. (Virtual.) (2021). [*Workshop on 'Orchestrating Spatially Resolved Transcriptomics Analysis with Bioconductor (OSTA)'.*](https://lmweber.org/OSTAWorkshopBioc2021/)
+- Bioc2021 Bioconductor annual conference. (Virtual.) (2021). [*Workshop on 'Orchestrating Spatially-Resolved Transcriptomics Analysis with Bioconductor (OSTA)'.*](https://lmweber.org/OSTAWorkshopBioc2021/)
 
 - Bioc2021 Bioconductor annual conference. (Virtual.) (2021). [*Workshop on 'SpatialExperiment'.*](https://drighelli.github.io/SpatialExperiment_Bioc2021/index.html) (Joint presentation with Dario Righelli and Helena L. Crowell.)
 
