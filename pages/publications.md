@@ -16,29 +16,29 @@ A complete list of publications is also available from [Google Scholar](https://
 
 - **Weber L.M.**, Saha A., Datta A., Hansen K.D., and Hicks S.C. (2022) *nnSVG: scalable identification of spatially variable genes using nearest-neighbor Gaussian processes.* bioRxiv (preprint). [Paper](https://www.biorxiv.org/content/10.1101/2022.05.16.492124v1), [R/Bioconductor package](https://bioconductor.org/packages/nnSVG), [Code](https://github.com/lmweber/nnSVG-analyses).
 
-- Tiberi S., Crowell H.L., Samartsidis P., **Weber L.M.**, and Robinson M.D. (2022), *distinct: a novel approach to differential distribution analyses.* bioRxiv (preprint). [Paper](https://www.biorxiv.org/content/10.1101/2020.11.24.394213v4), [R/Bioconductor package](https://bioconductor.org/packages/distinct).
+- Tippani M., Divecha H.R., Catallini II J.L., **Weber L.M.**, Spangler A., Jaffe A.E., Hicks S.C., Martinowich K., Collado-Torres L., Page S.C., and Maynard K.R. (2021). *VistoSeg: a MATLAB pipeline to process, analyze and visualize high-resolution histology images for Visium spatial transcriptomics data.* bioRxiv (preprint). [Paper](https://www.biorxiv.org/content/10.1101/2021.08.04.452489v2), [Software](http://research.libd.org/VistoSeg/), [Code](https://github.com/LieberInstitute/VistoSeg).
 
-- Petrillo M., Fabbri M., Kagkli D.M. et al. (2022). *A roadmap for the generation of benchmarking resources for antimicrobial resistance detection using next generation sequencing.* F1000Research, v2, 10, 80. [Paper](https://f1000research.com/articles/10-80).
-
-- Tippani M., Divecha H.R., Catallini II J.L., **Weber L.M.**, Spangler A., Jaffe A.E., Hicks S.C., Martinowich K., Collado-Torres L., Page S.C., and Maynard K.R. (2021). *VistoSeg: a MATLAB pipeline to process, analyze and visualize high-resolution histology images for Visium spatial transcriptomics data.* bioRxiv (preprint). [Paper](https://www.biorxiv.org/content/10.1101/2021.08.04.452489v1), [Software](http://research.libd.org/VistoSeg/), [Code](https://github.com/LieberInstitute/VistoSeg).
+- Tiberi S., Crowell H.L., Samartsidis P., **Weber L.M.**, and Robinson M.D. (2022), *distinct: a novel approach to differential distribution analyses.* bioRxiv (preprint). [Paper](https://www.biorxiv.org/content/10.1101/2020.11.24.394213v5), [R/Bioconductor package](https://bioconductor.org/packages/distinct).
 
 - Krieg C., Carloni S., **Weber L.M.**, Fosso B., Hardiman G., Mileti E., El Aidy S., Marzano M., Pesole G., Asnicar F., Segata N., Robinson M.D., and Guglietta S. (2021). *Loss of C3aR induces immune infiltration and inflammatory microbiota in a new spontaneous model of colon cancer.* bioRxiv (preprint). [Paper](https://www.biorxiv.org/content/10.1101/2021.01.18.426963v2).
 
 
 ---
 
-
+<!--
 ### Journal articles (accepted or in press)
 
-- Pardo B., Spangler A., **Weber L.M.**, Hicks S.C., Jaffe A.E., Martinowich K., Maynard K.R., and Collado-Torres L. (2022), *spatialLIBD: an R/Bioconductor package to visualize spatially-resolved transcriptomics data.* BMC Genomics. [Paper](https://www.biorxiv.org/content/10.1101/2021.04.29.440149v1), [R/Bioconductor package](http://bioconductor.org/packages/spatialLIBD).
-
-
 ---
+-->
 
 
 ### Journal articles (peer-reviewed and published)
 
+- Pardo B., Spangler A., **Weber L.M.**, Hicks S.C., Jaffe A.E., Martinowich K., Maynard K.R., and Collado-Torres L. (2022), *spatialLIBD: an R/Bioconductor package to visualize spatially-resolved transcriptomics data.* BMC Genomics, 23, 434. [Paper](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-022-08601-w), [R/Bioconductor package](http://bioconductor.org/packages/spatialLIBD).
+
 - Righell D.\*, **Weber L.M.\***, Crowell H.L.\*, Pardo B., Collado-Torres L., Ghazanfar S., Lun A.T.L., Hicks S.C.\*, and Risso D.\* (2022). *SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor.* Bioinformatics, btac299. [Paper](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac299/6575443), [R/Bioconductor package](https://bioconductor.org/packages/SpatialExperiment).
+
+- Petrillo M., Fabbri M., Kagkli D.M. et al. (2022). *A roadmap for the generation of benchmarking resources for antimicrobial resistance detection using next generation sequencing.* F1000Research, v2, 10, 80. [Paper](https://f1000research.com/articles/10-80).
 
 - **Weber L.M.**, Hippen A.A., Hickey P.F., Berrett K.C., Gertz J., Doherty J.A., Greene C.S., and Hicks S.C. (2021). *Genetic demultiplexing of pooled single-cell RNA-sequencing samples in cancer facilitates effective experimental design.* GigaScience, 10, 9, giab062. [Paper](https://academic.oup.com/gigascience/article/10/9/giab062/6374209), [Code](https://github.com/lmweber/snp-dmx-cancer), [Data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE156793), [Data (controlled access)](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002262.v1.p1).
 
