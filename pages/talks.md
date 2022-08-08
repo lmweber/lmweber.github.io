@@ -6,6 +6,8 @@ layout: page
 
 ### Invited presentations
 
+- R/Medicine. (Virtual) (2022). *Unsupervised analyses of spatially-resolved transcriptomics data with nnSVG and R/Bioconductor.*
+
 - Sydney Bioinformatics Seminar Series, Sydney Precision Bioinformatics Alliance, University of Sydney, Australia. (Virtual) (2022). *nnSVG: scalable identification of spatially variable genes in spatially-resolved transcriptomics data.*
 
 - ENAR (Eastern North American Region of the International Biometric Society) Spring Meeting, Houston, Texas, United States. (2022). *nnSVG: scalable identification of spatially variable genes using nearest-neighbor Gaussian processes.*
