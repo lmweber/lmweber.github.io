@@ -18,18 +18,19 @@ A complete list of publications is also available from [Google Scholar](https://
 
 - Tippani M., Divecha H.R., Catallini II J.L., **Weber L.M.**, Spangler A., Jaffe A.E., Hicks S.C., Martinowich K., Collado-Torres L., Page S.C., and Maynard K.R. (2021). *VistoSeg: a MATLAB pipeline to process, analyze and visualize high-resolution histology images for Visium spatial transcriptomics data.* bioRxiv (preprint). [Paper](https://www.biorxiv.org/content/10.1101/2021.08.04.452489v2), [Software](http://research.libd.org/VistoSeg/), [Code](https://github.com/LieberInstitute/VistoSeg).
 
-- Tiberi S., Crowell H.L., Samartsidis P., **Weber L.M.**, and Robinson M.D. (2022), *distinct: a novel approach to differential distribution analyses.* bioRxiv (preprint). [Paper](https://www.biorxiv.org/content/10.1101/2020.11.24.394213v5), [R/Bioconductor package](https://bioconductor.org/packages/distinct).
-
 - Krieg C., Carloni S., **Weber L.M.**, Fosso B., Hardiman G., Mileti E., El Aidy S., Marzano M., Pesole G., Asnicar F., Segata N., Robinson M.D., and Guglietta S. (2021). *Loss of C3aR induces immune infiltration and inflammatory microbiota in a new spontaneous model of colon cancer.* bioRxiv (preprint). [Paper](https://www.biorxiv.org/content/10.1101/2021.01.18.426963v2).
 
 
 ---
 
-<!--
+
 ### Journal articles (accepted or in press)
 
+- Tiberi S., Crowell H.L., Samartsidis P., **Weber L.M.**, and Robinson M.D. (2022), *distinct: a novel approach to differential distribution analyses.* The Annals of Applied Statistics, in press. [Preprint](https://www.biorxiv.org/content/10.1101/2020.11.24.394213v5), [R/Bioconductor package](https://bioconductor.org/packages/distinct).
+
+
 ---
--->
+
 
 
 ### Journal articles (peer-reviewed and published)
