@@ -26,7 +26,7 @@ A complete list of publications is also available from [Google Scholar](https://
 
 ### Journal articles (accepted or in press)
 
-- Tiberi S., Crowell H.L., Samartsidis P., **Weber L.M.**, and Robinson M.D. (2022), *distinct: a novel approach to differential distribution analyses.* The Annals of Applied Statistics, in press. [Preprint](https://www.biorxiv.org/content/10.1101/2020.11.24.394213v5), [R/Bioconductor package](https://bioconductor.org/packages/distinct).
+- Tiberi S., Crowell H.L., Samartsidis P., **Weber L.M.**, and Robinson M.D. (2022), *distinct: a novel approach to differential distribution analyses.* Annals of Applied Statistics, in press. [Preprint](https://www.biorxiv.org/content/10.1101/2020.11.24.394213v5), [R/Bioconductor package](https://bioconductor.org/packages/distinct).
 
 
 ---
