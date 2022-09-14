@@ -6,9 +6,11 @@ layout: page
 
 ### Invited presentations
 
-- R/Medicine. (Virtual) (2022). *Unsupervised analyses of spatially-resolved transcriptomics data with nnSVG and R/Bioconductor.*
+- European Conference on Computational Biology (ECCB), Workshop NTB-W04. (Virtual). (2022). *Scalable identification of spatially variable genes with nnSVG and Bioconductor.*
 
-- Sydney Bioinformatics Seminar Series, Sydney Precision Bioinformatics Alliance, University of Sydney, Australia. (Virtual) (2022). *nnSVG: scalable identification of spatially variable genes in spatially-resolved transcriptomics data.*
+- R/Medicine. (Virtual). (2022). *Unsupervised analyses of spatially-resolved transcriptomics data with nnSVG and R/Bioconductor.*
+
+- Sydney Bioinformatics Seminar Series, Sydney Precision Bioinformatics Alliance, University of Sydney, Australia. (Virtual). (2022). *nnSVG: scalable identification of spatially variable genes in spatially-resolved transcriptomics data.*
 
 - ENAR (Eastern North American Region of the International Biometric Society) Spring Meeting, Houston, Texas, United States. (2022). *nnSVG: scalable identification of spatially variable genes using nearest-neighbor Gaussian processes.*
 
@@ -28,13 +30,13 @@ layout: page
 
 - BLAST Working Group seminar, Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health. (2022). *nnSVG: scalable identification of spatially variable genes using nearest-neighbor Gaussian processes.*
 
-- Bioc2021 Bioconductor annual conference. (Virtual) (2021). [*Workshop on 'Orchestrating Spatially-Resolved Transcriptomics Analysis with Bioconductor (OSTA)'.*](https://lmweber.org/OSTAWorkshopBioc2021/)
+- Bioc2021 Bioconductor annual conference. (Virtual). (2021). [*Workshop on 'Orchestrating Spatially-Resolved Transcriptomics Analysis with Bioconductor (OSTA)'.*](https://lmweber.org/OSTAWorkshopBioc2021/)
 
-- Bioc2021 Bioconductor annual conference. (Virtual) (2021). [*Workshop on 'SpatialExperiment'.*](https://drighelli.github.io/SpatialExperiment_Bioc2021/index.html) (Joint presentation with Dario Righelli and Helena L. Crowell.)
+- Bioc2021 Bioconductor annual conference. (Virtual). (2021). [*Workshop on 'SpatialExperiment'.*](https://drighelli.github.io/SpatialExperiment_Bioc2021/index.html) (Joint presentation with Dario Righelli and Helena L. Crowell.)
 
-- European Bioconductor Meeting 2020. (Virtual) (2020). *Workshop on 'SpatialExperiment'.* (Joint presentation with Dario Righelli and Helena L. Crowell.)
+- European Bioconductor Meeting 2020. (Virtual). (2020). *Workshop on 'SpatialExperiment'.* (Joint presentation with Dario Righelli and Helena L. Crowell.)
 
-- Bioc2020 Bioconductor annual conference. (Virtual) (2020). *Unsupervised analysis of transcriptome-scale spatial gene expression data in the human prefrontal cortex.*
+- Bioc2020 Bioconductor annual conference. (Virtual). (2020). *Unsupervised analysis of transcriptome-scale spatial gene expression data in the human prefrontal cortex.*
 
 - Johns Hopkins University 13th Annual Genomics and Bioinformatics Symposium and Poster Session, Baltimore, United States. (2019). *Comparison of dimension reduction algorithms for visualization of single-cell data.*
 
