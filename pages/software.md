@@ -48,6 +48,8 @@ Additional details are available from [GitHub](https://github.com/lmweber).
 
 ### Selected code repositories
 
+- [locus-c](https://github.com/lmweber/locus-c/): Code repository to reproduce analyses and figures in our paper on analyzing SRT and snRNA-seq data from the locus coeruleus (LC) region in the human brain (Weber and Divecha et al. 2022).
+
 - [nnSVG-analyses](https://github.com/lmweber/nnSVG-analyses): Code repository to reproduce analyses and figures in our paper on the 'nnSVG' method (Weber et al. 2022).
 
 - [snp-dmx-cancer](https://github.com/lmweber/snp-dmx-cancer): Snakemake pipeline and code repository to reproduce analyses and figures in our paper evaluating genetic variation-based demultiplexing for single-cell RNA sequencing (Weber et al. 2021).
