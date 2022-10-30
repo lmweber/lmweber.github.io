@@ -19,7 +19,8 @@ layout: page
 
 ### Teaching assistance
 
-- [Advanced Data Science (guest lecture on resampling techniques), Dr. Stephanie Hicks](https://jhu-advdatasci.github.io/2019/), Johns Hopkins University (2019)
+- Statistical Programming Paradigms and Workflows (guest lectures on version control using git and GitHub), Dr. Stephanie Hicks, Johns Hopkins Bloomberg School of Public Health (2022)
+- [Advanced Data Science (guest lecture on resampling techniques), Dr. Stephanie Hicks](https://jhu-advdatasci.github.io/2019/), Johns Hopkins Bloomberg School of Public Health (2019)
 - Practical Bioinformatics (session on R Markdown and R programming), Dr. Mark Robinson, University of Zurich (2019)
 - Statistical Analysis of High-Throughput Genomic and Transcriptomic Data (session on analysis of high-dimensional cytometry data), Dr. Mark Robinson, University of Zurich (2018)
 - Practical Bioinformatics (session on analysis of single-cell RNA-sequencing data), Dr. Mark Robinson, University of Zurich (2018)
