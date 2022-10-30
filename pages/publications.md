@@ -14,7 +14,9 @@ A complete list of publications is also available from [Google Scholar](https://
 
 ### Preprint articles
 
-- **Weber L.M.**, Saha A., Datta A., Hansen K.D., and Hicks S.C. (2022) *nnSVG: scalable identification of spatially variable genes using nearest-neighbor Gaussian processes.* bioRxiv (preprint). [Paper](https://www.biorxiv.org/content/10.1101/2022.05.16.492124v1), [R/Bioconductor package](https://bioconductor.org/packages/nnSVG), [Code](https://github.com/lmweber/nnSVG-analyses).
+- **Weber L.M.\***, Divecha H.R.\*, Tran M.N., Kwon S.H., Spangler A., Montgomery K.D., Tippani M., Bharadwaj R., Kleinman J.E., Page S.C., Hyde T.M., Collado-Torres L., Maynard K.R., Martinowich K.\*, and Hicks S.C.\* (2022). *The gene expression landscape of the human locus coeruleus revealed by single-nucleus and spatially-resolved transcriptomics.* bioRxiv (preprint).
+
+- **Weber L.M.**, Saha A., Datta A., Hansen K.D., and Hicks S.C. (2022). *nnSVG: scalable identification of spatially variable genes using nearest-neighbor Gaussian processes.* bioRxiv (preprint). [Paper](https://www.biorxiv.org/content/10.1101/2022.05.16.492124v1), [R/Bioconductor package](https://bioconductor.org/packages/nnSVG), [Code](https://github.com/lmweber/nnSVG-analyses).
 
 - Tippani M., Divecha H.R., Catallini II J.L., **Weber L.M.**, Spangler A., Jaffe A.E., Hicks S.C., Martinowich K., Collado-Torres L., Page S.C., and Maynard K.R. (2021). *VistoSeg: a MATLAB pipeline to process, analyze and visualize high-resolution histology images for Visium spatial transcriptomics data.* bioRxiv (preprint). [Paper](https://www.biorxiv.org/content/10.1101/2021.08.04.452489v2), [Software](http://research.libd.org/VistoSeg/), [Code](https://github.com/LieberInstitute/VistoSeg).
 
@@ -24,7 +26,7 @@ A complete list of publications is also available from [Google Scholar](https://
 
 ### Journal articles (accepted or in press)
 
-- Tiberi S., Crowell H.L., Samartsidis P., **Weber L.M.**, and Robinson M.D. (2022), *distinct: a novel approach to differential distribution analyses.* Annals of Applied Statistics, in press. [Preprint](https://www.biorxiv.org/content/10.1101/2020.11.24.394213v5), [R/Bioconductor package](https://bioconductor.org/packages/distinct).
+- Tiberi S., Crowell H.L., Samartsidis P., **Weber L.M.**, and Robinson M.D. (2022). *distinct: a novel approach to differential distribution analyses.* Annals of Applied Statistics, in press. [Preprint](https://www.biorxiv.org/content/10.1101/2020.11.24.394213v5), [R/Bioconductor package](https://bioconductor.org/packages/distinct).
 
 - Krieg C., **Weber L.M.**, Fosso B., Hardiman G., Mileti E., El Aidy S., Marzano M., Robinson M.D., and Guglietta S. (2022). *Complement downregulation promotes an inflammatory signature that renders colorectal cancer susceptible to immunotherapy.* Journal for ImmunoTherapy of Cancer, in press. [Preprint](https://www.biorxiv.org/content/10.1101/2021.01.18.426963v2).
 
@@ -34,7 +36,7 @@ A complete list of publications is also available from [Google Scholar](https://
 
 ### Journal articles (peer-reviewed and published)
 
-- Pardo B., Spangler A., **Weber L.M.**, Hicks S.C., Jaffe A.E., Martinowich K., Maynard K.R., and Collado-Torres L. (2022), *spatialLIBD: an R/Bioconductor package to visualize spatially-resolved transcriptomics data.* BMC Genomics, 23, 434. [Paper](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-022-08601-w), [R/Bioconductor package](http://bioconductor.org/packages/spatialLIBD).
+- Pardo B., Spangler A., **Weber L.M.**, Hicks S.C., Jaffe A.E., Martinowich K., Maynard K.R., and Collado-Torres L. (2022). *spatialLIBD: an R/Bioconductor package to visualize spatially-resolved transcriptomics data.* BMC Genomics, 23, 434. [Paper](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-022-08601-w), [R/Bioconductor package](http://bioconductor.org/packages/spatialLIBD).
 
 - Righell D.\*, **Weber L.M.\***, Crowell H.L.\*, Pardo B., Collado-Torres L., Ghazanfar S., Lun A.T.L., Hicks S.C.\*, and Risso D.\* (2022). *SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor.* Bioinformatics, btac299. [Paper](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac299/6575443), [R/Bioconductor package](https://bioconductor.org/packages/SpatialExperiment).
 
