@@ -38,6 +38,8 @@ Additional details are available from [GitHub](https://github.com/lmweber).
 
 ### Data packages
 
+- [WeberDivechaLCdata](https://bioconductor.org/packages/WeberDivechaLCdata): R/Bioconductor package containing datasets from our paper on spatially-resolved transcriptomics and single-nucleus RNA-sequencing data in the human locus coeruleus (Weber and Divecha et al. 2022).
+
 - [STexampleData](https://bioconductor.org/packages/STexampleData): R/Bioconductor package containing a collection of spatially-resolved transcriptomics datasets in SpatialExperiment Bioconductor format.
 
 - [HDCytoData](https://bioconductor.org/packages/HDCytoData): R/Bioconductor package containing a collection of publicly available high-dimensional cytometry benchmark datasets in Bioconductor object formats.
