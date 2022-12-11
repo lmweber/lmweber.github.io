@@ -56,6 +56,8 @@ layout: page
 
 ### Posters
 
+- ACNP 2022 (American College of Neuropsychopharmacology), Phoenix, Arizona, United States. (2022). (Travel awardee.) *The gene expression landscape of the human locus coeruleus revealed by single-nucleus and spatially-resolved transcriptomics.*
+
 - ASHG Institute for Genomic Medicine Symposium on Spatial Omics. (2020). [*Unsupervised analysis of transcriptome-scale spatial gene expression in human dorsolateral prefrontal cortex using spatial transcriptomics data.*](https://zenodo.org/record/4110719)
 
 - Genome Informatics. (Poster and lightning talk.) (2020). [*Unsupervised analysis of transcriptome-scale spatial gene expression in human dorsolateral prefrontal cortex using spatial transcriptomics data.*](https://zenodo.org/record/4110719)
