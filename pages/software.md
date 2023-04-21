@@ -30,6 +30,8 @@ Additional details are available from [GitHub](https://github.com/lmweber).
 
 ### Other software projects
 
+- [Orchestrating Spatially-Resolved Transcriptomics Analysis with Bioconductor (OSTA)](https://lmweber.org/OSTA-book/): Online book containing interactive example analysis workflows for spatially-resolved transcriptomics data.
+
 - [CrispantCal](https://lmweber.org/CrispantCal/): R/Shiny web application to calculate injection mix volumes for CRISPR-Cas9 experiments (described in our publication: Burger et al. 2016).
 
 
@@ -50,7 +52,7 @@ Additional details are available from [GitHub](https://github.com/lmweber).
 
 ### Selected code repositories
 
-- [locus-c](https://github.com/lmweber/locus-c/): Code repository to reproduce analyses and figures in our paper on analyzing SRT and snRNA-seq data from the locus coeruleus (LC) region in the human brain (Weber and Divecha et al. 2022).
+- [locus-c](https://github.com/lmweber/locus-c/): Code repository to reproduce analyses and figures in our paper on analyzing SRT and snRNA-seq data from the locus coeruleus (LC) region in the human brain (Weber and Divecha et al. 2023).
 
 - [nnSVG-analyses](https://github.com/lmweber/nnSVG-analyses): Code repository to reproduce analyses and figures in our paper on the 'nnSVG' method (Weber et al. 2022).
 
