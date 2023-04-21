@@ -28,13 +28,13 @@ A complete list of publications is also available from [Google Scholar](https://
 
 - Tiberi S., Crowell H.L., Samartsidis P., **Weber L.M.**, and Robinson M.D. (2022). *distinct: a novel approach to differential distribution analyses.* Annals of Applied Statistics (in press). [Preprint](https://www.biorxiv.org/content/10.1101/2020.11.24.394213v5), [R/Bioconductor package](https://bioconductor.org/packages/distinct).
 
-- Krieg C., **Weber L.M.**, Fosso B., Hardiman G., Mileti E., El Aidy S., Marzano M., Robinson M.D., and Guglietta S. (2022). *Complement downregulation promotes an inflammatory signature that renders colorectal cancer susceptible to immunotherapy.* Journal for ImmunoTherapy of Cancer (in press). [Preprint](https://www.biorxiv.org/content/10.1101/2021.01.18.426963v2).
-
 
 ---
 
 
 ### Journal articles (peer-reviewed and published)
+
+- Krieg C., **Weber L.M.**, Fosso B., Hardiman G., Mileti E., El Aidy S., Marzano M., Robinson M.D., and Guglietta S. (2022). *Complement downregulation promotes an inflammatory signature that renders colorectal cancer susceptible to immunotherapy.* Journal for ImmunoTherapy of Cancer, 10, e004717. [Paper](https://jitc.bmj.com/content/10/9/e004717).
 
 - Pardo B., Spangler A., **Weber L.M.**, Hicks S.C., Jaffe A.E., Martinowich K., Maynard K.R., and Collado-Torres L. (2022). *spatialLIBD: an R/Bioconductor package to visualize spatially-resolved transcriptomics data.* BMC Genomics, 23, 434. [Paper](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-022-08601-w), [R/Bioconductor package](http://bioconductor.org/packages/spatialLIBD).
 
