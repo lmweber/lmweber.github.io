@@ -24,11 +24,11 @@ A complete list of publications is also available from [Google Scholar](https://
 
 ### Journal articles (accepted or in press)
 
-- **Weber L.M.\***, Divecha H.R.\*, Tran M.N., Kwon S.H., Spangler A., Montgomery K.D., Tippani M., Bharadwaj R., Kleinman J.E., Page S.C., Hyde T.M., Collado-Torres L., Maynard K.R., Martinowich K.\*, and Hicks S.C.\* (2022). *The gene expression landscape of the human locus coeruleus revealed by single-nucleus and spatially-resolved transcriptomics.* eLife Reviewed Preprint.
+- **Weber L.M.\***, Divecha H.R.\*, Tran M.N., Kwon S.H., Spangler A., Montgomery K.D., Tippani M., Bharadwaj R., Kleinman J.E., Page S.C., Hyde T.M., Collado-Torres L., Maynard K.R., Martinowich K.\*, and Hicks S.C.\* (2022). *The gene expression landscape of the human locus coeruleus revealed by single-nucleus and spatially-resolved transcriptomics.* eLife Reviewed Preprint (accepted).
 
-- Tiberi S., Crowell H.L., Samartsidis P., **Weber L.M.**, and Robinson M.D. (2022). *distinct: a novel approach to differential distribution analyses.* Annals of Applied Statistics, in press. [Preprint](https://www.biorxiv.org/content/10.1101/2020.11.24.394213v5), [R/Bioconductor package](https://bioconductor.org/packages/distinct).
+- Tiberi S., Crowell H.L., Samartsidis P., **Weber L.M.**, and Robinson M.D. (2022). *distinct: a novel approach to differential distribution analyses.* Annals of Applied Statistics (in press). [Preprint](https://www.biorxiv.org/content/10.1101/2020.11.24.394213v5), [R/Bioconductor package](https://bioconductor.org/packages/distinct).
 
-- Krieg C., **Weber L.M.**, Fosso B., Hardiman G., Mileti E., El Aidy S., Marzano M., Robinson M.D., and Guglietta S. (2022). *Complement downregulation promotes an inflammatory signature that renders colorectal cancer susceptible to immunotherapy.* Journal for ImmunoTherapy of Cancer, in press. [Preprint](https://www.biorxiv.org/content/10.1101/2021.01.18.426963v2).
+- Krieg C., **Weber L.M.**, Fosso B., Hardiman G., Mileti E., El Aidy S., Marzano M., Robinson M.D., and Guglietta S. (2022). *Complement downregulation promotes an inflammatory signature that renders colorectal cancer susceptible to immunotherapy.* Journal for ImmunoTherapy of Cancer (in press). [Preprint](https://www.biorxiv.org/content/10.1101/2021.01.18.426963v2).
 
 
 ---
