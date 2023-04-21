@@ -6,6 +6,20 @@ layout: page
 
 ### Invited presentations
 
+- Boston University, School of Public Health, Department of Biostatistics. (2023). *Unsupervised statistical methods and data-driven analysis workflows for spatially-resolved transcriptomics.*
+
+- Ohio State University, College of Medicine, Department of Biomedical Informatics. (2023). *Unsupervised statistical methods and data-driven analysis workflows for spatially-resolved transcriptomics.*
+
+- University of Colorado, School of Medicine, Department of Biomedical Informatics. (Virtual). (2023). *Unsupervised statistical methods and data-driven analysis workflows for spatially-resolved transcriptomics.*
+
+- Emory University, Rollins School of Public Health, Department of Biostatistics and Bioinformatics. (2023). *Unsupervised statistical methods and data-driven analysis workflows for spatially-resolved transcriptomics.*
+
+- University of Utah, School of Medicine, Department of Human Genetics. (2023). *Unsupervised statistical methods and data-driven analysis workflows for spatially-resolved transcriptomics.*
+
+- University of Minnesota, School of Public Health, Division of Biostatistics. (2023). *Unsupervised statistical methods and data-driven analysis workflows for spatially-resolved transcriptomics.*
+
+- Northwestern University, Feinberg School of Medicine, Department of Cell and Developmental Biology. (Virtual). (2023). *Unsupervised statistical methods and data-driven analysis workflows for spatially-resolved transcriptomics.*
+
 - European Conference on Computational Biology (ECCB), Workshop NTB-W04. (Virtual). (2022). *Scalable identification of spatially variable genes with nnSVG and Bioconductor.*
 
 - R/Medicine. (Virtual). (2022). *Unsupervised analyses of spatially-resolved transcriptomics data with nnSVG and R/Bioconductor.*
@@ -24,7 +38,7 @@ layout: page
 ---
 
 
-### Presentations
+### Other presentations
 
 - Bioc2022 Bioconductor annual conference, Seattle, United States. (2022). *nnSVG: scalable identification of spatially variable genes using nearest-neighbor Gaussian processes.*
 
@@ -56,7 +70,9 @@ layout: page
 
 ### Posters
 
-- ACNP 2022 (American College of Neuropsychopharmacology), Phoenix, Arizona, United States. (2022). (Travel awardee.) [*The gene expression landscape of the human locus coeruleus revealed by single-nucleus and spatially-resolved transcriptomics.*](https://zenodo.org/record/7448748)
+- National Human Genome Research Institute (NHGRI) Research Training and Career Development Annual Meeting 2023, Salt Lake City, Utah, United States. (2023). [*nnSVG: scalable identification of spatially variable genes using nearest-neighbor Gaussian processes.*](https://zenodo.org/record/7814740)
+
+- American College of Neuropsychopharmacology (ACNP) 2022, Phoenix, Arizona, United States. (2022). (Travel awardee.) [*The gene expression landscape of the human locus coeruleus revealed by single-nucleus and spatially-resolved transcriptomics.*](https://zenodo.org/record/7448748)
 
 - ASHG Institute for Genomic Medicine Symposium on Spatial Omics. (2020). [*Unsupervised analysis of transcriptome-scale spatial gene expression in human dorsolateral prefrontal cortex using spatial transcriptomics data.*](https://zenodo.org/record/4110719)
 
