@@ -6,6 +6,8 @@ layout: page
 
 ### Invited presentations
 
+- Joint Statistical Meetings (JSM) 2023, Toronto, Canada. (2023). *nnSVG for preprocessing, feature selection, and quality control in multi-sample spot-based spatially-resolved transcriptomics data.*
+
 - Statistical Methods in Imaging Conference 2023, Annual Meeting of the ASA Statistics in Imaging Section, Minneapolis, MN, United States. (2023). *nnSVG: scalable identification of spatially variable genes using nearest-neighbor Gaussian processes.*
 
 - Emerging Leaders in Computational Oncology 2023, Memorial Sloan Kettering Cancer Center, New York, NY, United States. (2023). *Unsupervised statistical methods and data-driven analysis workflows for spatially-resolved transcriptomics.*
