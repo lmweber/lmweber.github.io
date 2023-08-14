@@ -22,8 +22,6 @@ A complete list of publications is also available from [Google Scholar](https://
 
 ### Journal articles (accepted or in press)
 
-- **Weber L.M.**, Saha A., Datta A., Hansen K.D., and Hicks S.C. (2023). *nnSVG: scalable identification of spatially variable genes using nearest-neighbor Gaussian processes.* Nature Communications (accepted). [Preprint](https://www.biorxiv.org/content/10.1101/2022.05.16.492124v2), [R/Bioconductor package](https://bioconductor.org/packages/nnSVG), [Code](https://github.com/lmweber/nnSVG-analyses).
-
 - **Weber L.M.\***, Divecha H.R.\*, Tran M.N., Kwon S.H., Spangler A., Montgomery K.D., Tippani M., Bharadwaj R., Kleinman J.E., Page S.C., Hyde T.M., Collado-Torres L., Maynard K.R., Martinowich K.\*, and Hicks S.C.\* (2023). *The gene expression landscape of the human locus coeruleus revealed by single-nucleus and spatially-resolved transcriptomics.* eLife Reviewed Preprint (accepted). [Paper](https://elifesciences.org/reviewed-preprints/84628), [R/Bioconductor data package](https://bioconductor.org/packages/WeberDivechaLCdata), [Code](https://github.com/lmweber/locus-c).
 
 - Tiberi S., Crowell H.L., Samartsidis P., **Weber L.M.**, and Robinson M.D. (2022). *distinct: a novel approach to differential distribution analyses.* Annals of Applied Statistics (in press). [Preprint](https://www.biorxiv.org/content/10.1101/2020.11.24.394213v5), [R/Bioconductor package](https://bioconductor.org/packages/distinct).
@@ -33,6 +31,8 @@ A complete list of publications is also available from [Google Scholar](https://
 
 
 ### Journal articles (peer-reviewed and published)
+
+- **Weber L.M.**, Saha A., Datta A., Hansen K.D., and Hicks S.C. (2023). *nnSVG for the scalable identification of spatially variable genes using nearest-neighbor Gaussian processes.* Nature Communications, 14, 4059. [Paper](https://www.nature.com/articles/s41467-023-39748-z), [R/Bioconductor package](https://bioconductor.org/packages/nnSVG), [Code](https://github.com/lmweber/nnSVG-analyses).
 
 - Krieg C., **Weber L.M.**, Fosso B., Hardiman G., Mileti E., El Aidy S., Marzano M., Robinson M.D., and Guglietta S. (2022). *Complement downregulation promotes an inflammatory signature that renders colorectal cancer susceptible to immunotherapy.* Journal for ImmunoTherapy of Cancer, 10, e004717. [Paper](https://jitc.bmj.com/content/10/9/e004717).
 
