@@ -14,17 +14,17 @@ Differential analyses aim to identify features such as differential abundance of
 ---
 
 
-### Applications of spatial statistics
+### Neuroscience and cancer biology
 
-Spatially-resolved transcriptomics data consists of gene expression measurements for large sets of genes at a large number of spatial locations within tissue sections. Recent advances in spatial statistical methodology, such as nearest-neighbor Gaussian processes (NNGPs), enable us to analyze these data in a more efficient and spatially-aware manner, for example to identify spatially variable genes or perform spatially-aware clustering. We have recently developed a scalable method to identify spatially variable genes in spatially-resolved transcriptomics data ([nnSVG](https://bioconductor.org/packages/nnSVG), [Weber et al. 2023](https://www.nature.com/articles/s41467-023-39748-z)), and applied this method to data from postmortem human brain samples from the locus coeruleus region ([Weber and Divecha et al. 2023](https://elifesciences.org/reviewed-preprints/84628)).
+My statistical methodological work is motivated by collaborative projects in neuroscience and cancer biology. Spatially-resolved measurements are especially informative in these systems due to the presence of highly spatially defined biological features. Recent collaborations include an analysis of spatial and single-nucleus data from the locus coeruleus region in postmortem human brain samples ([Weber and Divecha et al. 2023](https://elifesciences.org/reviewed-preprints/84628)), contributions to an analysis of the spatial landscape of gene expression in the human dorsolateral prefrontal cortex (DLPFC) ([Maynard and Collado-Torres et al. 2021](https://www.nature.com/articles/s41593-020-00787-0)), as well as an evaluation of methods for genetic variation-based demultiplexing of pooled single-cell RNA sequencing samples from tumor samples from high-grade serous ovarian cancer (HGSOC) and lung adenocarcinoma ([Weber et al. 2021](https://academic.oup.com/gigascience/article/10/9/giab062/6374209)).
 
 
 ---
 
 
-### Neuroscience and cancer biology
+### Applications of spatial statistics
 
-My statistical methodological work is motivated by collaborative projects in neuroscience and cancer biology. Spatially-resolved measurements are especially informative in these systems due to the presence of highly spatially defined biological features. Recent collaborations include an analysis of spatial and single-nucleus data from the locus coeruleus region in postmortem human brain samples ([Weber and Divecha et al. 2023](https://elifesciences.org/reviewed-preprints/84628)), contributions to an analysis of the spatial landscape of gene expression in the human dorsolateral prefrontal cortex (DLPFC) ([Maynard and Collado-Torres et al. 2021](https://www.nature.com/articles/s41593-020-00787-0)), as well as an evaluation of methods for genetic variation-based demultiplexing of pooled single-cell RNA sequencing samples from tumor samples from high-grade serous ovarian cancer (HGSOC) and lung adenocarcinoma ([Weber et al. 2021](https://academic.oup.com/gigascience/article/10/9/giab062/6374209)).
+Spatially-resolved transcriptomics data consists of gene expression measurements for large sets of genes at a large number of spatial locations within tissue sections. Recent advances in spatial statistical methodology, such as nearest-neighbor Gaussian processes (NNGPs), enable us to analyze these data in a more efficient and spatially-aware manner, for example to identify spatially variable genes or perform spatially-aware clustering. We have recently developed a scalable method to identify spatially variable genes in spatially-resolved transcriptomics data ([nnSVG](https://bioconductor.org/packages/nnSVG), [Weber et al. 2023](https://www.nature.com/articles/s41467-023-39748-z)), and applied this method to data from postmortem human brain samples from the locus coeruleus region ([Weber and Divecha et al. 2023](https://elifesciences.org/reviewed-preprints/84628)).
 
 
 ---
