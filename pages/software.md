@@ -22,7 +22,7 @@ Additional details are available from [GitHub](https://github.com/lmweber).
 
 - [diffcyt](https://bioconductor.org/packages/diffcyt): R/Bioconductor package implementing a computational framework for differential discovery analyses in high-dimensional cytometry data (Weber et al. 2019).
 
-- [regsplice](https://bioconductor.org/packages/regsplice): R/Bioconductor package implementing statistical methodology for detection of differential splicing (differential exon usage) in RNA-sequencing data.
+- [regsplice](https://bioconductor.org/packages/regsplice): R/Bioconductor package implementing statistical methodology for detection of differential splicing (differential exon usage) in RNA sequencing data.
 
 
 ---
@@ -40,7 +40,7 @@ Additional details are available from [GitHub](https://github.com/lmweber).
 
 ### Data packages
 
-- [WeberDivechaLCdata](https://bioconductor.org/packages/WeberDivechaLCdata): R/Bioconductor package containing datasets from our paper on spatially-resolved transcriptomics and single-nucleus RNA-sequencing data in the human locus coeruleus (Weber and Divecha et al. 2023).
+- [WeberDivechaLCdata](https://bioconductor.org/packages/WeberDivechaLCdata): R/Bioconductor package containing datasets from our paper on spatially-resolved transcriptomics and single-nucleus RNA sequencing data in the human locus coeruleus (Weber and Divecha et al. 2023).
 
 - [STexampleData](https://bioconductor.org/packages/STexampleData): R/Bioconductor package containing a collection of spatially-resolved transcriptomics datasets in SpatialExperiment Bioconductor format.
 
@@ -52,7 +52,7 @@ Additional details are available from [GitHub](https://github.com/lmweber).
 
 ### Selected code repositories
 
-- [locus-c](https://github.com/lmweber/locus-c/): Code repository to reproduce analyses and figures in our paper on analyzing SRT and snRNA-seq data from the locus coeruleus (LC) region in the human brain (Weber and Divecha et al. 2023).
+- [locus-c](https://github.com/lmweber/locus-c/): Code repository to reproduce analyses and figures in our paper on analyzing spatial and single-nucleus data from the locus coeruleus (LC) region in the human brain (Weber and Divecha et al. 2023).
 
 - [nnSVG-analyses](https://github.com/lmweber/nnSVG-analyses): Code repository to reproduce analyses and figures in our paper on the 'nnSVG' method (Weber et al. 2023).
 
