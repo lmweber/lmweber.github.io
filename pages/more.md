@@ -4,15 +4,7 @@ layout: page
 ---
 
 
-### Code of conduct
-
-If you plan to work with me, you agree to abide by an appropriate code of conduct policy for an academic environment, such as the [Bioconductor Project-wide Code of Conduct](https://bioconductor.github.io/bioc_coc_multilingual/index.html).
-
-
----
-
-
-### Fun
+### Photos
 
 Some hiking and skiing photos from beautiful Switzerland, where I did my PhD.
 
