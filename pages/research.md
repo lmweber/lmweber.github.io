@@ -4,7 +4,7 @@ layout: page
 ---
 
 
-### Unsupervised statistical methods and differential analyses
+### Statistical methods for unsupervised analyses and differential comparisons in high-throughput genomics
 
 I am interested in developing scalable statistical methods for unsupervised analyses of data from high-throughput genomic platforms, including spatially-resolved transcriptomics and single-cell RNA sequencing. Recent projects include the development of a scalable method to identify spatially variable genes ([nnSVG](https://bioconductor.org/packages/nnSVG), [Weber et al. 2023](https://www.nature.com/articles/s41467-023-39748-z)) and a collaborative analysis of spatial and single-nucleus data from the locus coeruleus region in postmortem human brain samples ([Weber and Divecha et al. 2023](https://elifesciences.org/reviewed-preprints/84628)). Previously, I developed an unsupervised analysis workflow during a collaborative analysis of spatially-resolved transcriptomics data from the dorsolateral prefrontal cortex (DLPFC) in postmortem human brain samples ([Maynard and Collado-Torres et al. 2021](https://www.nature.com/articles/s41593-020-00787-0)).
 
