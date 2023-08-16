@@ -14,7 +14,7 @@ A complete list of publications is also available from [Google Scholar](https://
 
 ### Preprint articles
 
-- Tippani M., Divecha H.R., Catallini II J.L., **Weber L.M.**, Spangler A., Jaffe A.E., Hicks S.C., Martinowich K., Collado-Torres L., Page S.C., and Maynard K.R. (2021). *VistoSeg: a MATLAB pipeline to process, analyze and visualize high-resolution histology images for Visium spatial transcriptomics data.* bioRxiv (preprint). [Paper](https://www.biorxiv.org/content/10.1101/2021.08.04.452489v2), [Software](http://research.libd.org/VistoSeg/), [Code](https://github.com/LieberInstitute/VistoSeg).
+- Tippani M., Divecha H.R., Catallini II J.L., **Weber L.M.**, Spangler A., Jaffe A.E., Hicks S.C., Martinowich K., Collado-Torres L., Page S.C., and Maynard K.R. (2022). *VistoSeg: a MATLAB pipeline to process, analyze and visualize high-resolution histology images for Visium spatial transcriptomics data.* bioRxiv (preprint). [Paper](https://www.biorxiv.org/content/10.1101/2021.08.04.452489v2), [Software](http://research.libd.org/VistoSeg/), [Code](https://github.com/LieberInstitute/VistoSeg).
 
 
 ---
