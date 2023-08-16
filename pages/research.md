@@ -14,7 +14,7 @@ Methods for differential analyses are used to identify biological features such 
 ---
 
 
-### Neuroscience and cancer biology
+### Collaborative projects in neuroscience and cancer biology
 
 My statistical and computational methodological work is motivated by collaborative projects in neuroscience and cancer biology. Spatially-resolved measurements are especially informative in these systems, due to the presence of highly spatially defined biological structures.
 
