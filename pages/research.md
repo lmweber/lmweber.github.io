@@ -24,7 +24,7 @@ Recent collaborations include an analysis of spatial and single-nucleus data fro
 ---
 
 
-### Spatial statistics
+### Applications of spatial statistics
 
 Spatially-resolved transcriptomics data consist of gene expression measurements for up to thousands of genes at up to thousands of spatial locations within tissue sections. Recent advances in statistical methodology and computational implementations in spatial statistics, such as nearest-neighbor Gaussian processes (NNGPs), enable us to analyze these data in a more efficient and spatially-aware manner, for example to identify spatially variable genes or perform spatially-aware clustering. I recently led a project to adapt these methods to the context of spatially-resolved transcriptomics to identify spatially variable genes ([nnSVG](https://bioconductor.org/packages/nnSVG), [Weber et al. 2023](https://www.nature.com/articles/s41467-023-39748-z)), and applied this framework to data from postmortem human brain samples from the locus coeruleus region ([Weber and Divecha et al. 2023](https://elifesciences.org/reviewed-preprints/84628)).
 
