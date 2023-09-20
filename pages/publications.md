@@ -24,7 +24,7 @@ A complete list of publications is also available from [Google Scholar](https://
 
 - **Weber L.M.\***, Divecha H.R.\*, Tran M.N., Kwon S.H., Spangler A., Montgomery K.D., Tippani M., Bharadwaj R., Kleinman J.E., Page S.C., Hyde T.M., Collado-Torres L., Maynard K.R., Martinowich K.\*, and Hicks S.C.\* (2023). *The gene expression landscape of the human locus coeruleus revealed by single-nucleus and spatially-resolved transcriptomics.* eLife Reviewed Preprint (accepted). [Paper](https://elifesciences.org/reviewed-preprints/84628), [R/Bioconductor data package](https://bioconductor.org/packages/WeberDivechaLCdata), [Code](https://github.com/lmweber/locus-c).
 
-- Tippani M., Divecha H.R., Catallini II J.L., **Weber L.M.**, Spangler A., Jaffe A.E., Hicks S.C., Martinowich K., Collado-Torres L., Page S.C., and Maynard K.R. (2023). *VistoSeg: a MATLAB pipeline to process, analyze and visualize high-resolution histology images for Visium spatial transcriptomics data.* Biological Imaging. [Preprint](https://www.biorxiv.org/content/10.1101/2021.08.04.452489v2), [Software](http://research.libd.org/VistoSeg/), [Code](https://github.com/LieberInstitute/VistoSeg).
+- Tippani M., Divecha H.R., Catallini II J.L., **Weber L.M.**, Spangler A., Jaffe A.E., Hicks S.C., Martinowich K., Collado-Torres L., Page S.C., and Maynard K.R. (2023). *VistoSeg: a MATLAB pipeline to process, analyze and visualize high-resolution histology images for Visium spatial transcriptomics data.* Biological Imaging (accepted). [Preprint](https://www.biorxiv.org/content/10.1101/2021.08.04.452489v2), [Software](http://research.libd.org/VistoSeg/), [Code](https://github.com/LieberInstitute/VistoSeg).
 
 
 ---
