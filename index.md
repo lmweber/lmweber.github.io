@@ -6,13 +6,9 @@ layout: page
 
 ### About
 
-**Assistant Professor of Biostatistics at Boston University**
-
 I am an Assistant Professor in the [Department of Biostatistics](https://www.bu.edu/sph/about/departments/biostatistics/) at [Boston University School of Public Health](https://www.bu.edu/sph/).
 
-My research is in statistical genomics and biomedical data science on the development of statistical methodology, open-source software, and collaborative analyses for data from high-throughput genomic technologies, applied to biological questions in neuroscience and cancer biology. Currently, I am especially focused on spatially-resolved transcriptomics and single-cell RNA sequencing data.
-
-I implement statistical methods as R packages within the [Bioconductor](http://bioconductor.org/) project, and distribute additional code resources through [GitHub](https://github.com/lmweber).
+My research is in statistical genomics and biomedical data science on the development of statistical methodology, open-source software, and collaborative analyses for data from high-throughput genomic technologies, applied to biological questions in neuroscience and cancer biology. Currently, I am especially focused on data from spatially-resolved transcriptomics and single-cell RNA sequencing platforms. I implement statistical methods as R packages within the [Bioconductor](http://bioconductor.org/) project.
 
 I support open science principles, including the release of freely accessible open-source software, reproducible analyses, code and data resources, and publication of preprints. During methodological work, I emphasize rigorous benchmarking against existing and baseline methods. I enjoy teaching, and have been an instructor for several short workshops on R programming and data science skills through the [Data Carpentry](https://datacarpentry.org/) and [Software Carpentry](https://software-carpentry.org/) initiatives.
 
@@ -31,6 +27,7 @@ Lukas M. Weber, PhD <br/>
 Assistant Professor <br/>
 [Department of Biostatistics](https://www.bu.edu/sph/about/departments/biostatistics/) <br/>
 [Boston University School of Public Health](https://www.bu.edu/sph/) <br/>
+
 Crosstown Building <br/>
 801 Massachusetts Avenue 3rd Floor <br/>
 Boston, MA 02118, USA
