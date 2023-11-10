@@ -29,7 +29,7 @@ Assistant Professor <br/>
 [Boston University School of Public Health](https://www.bu.edu/sph/) <br/>
 
 Crosstown Building <br/>
-801 Massachusetts Avenue 3rd Floor <br/>
+801 Massachusetts Avenue, 3rd Floor <br/>
 Boston, MA 02118, USA
 
 <img src="images/envelope.svg" alt="Email logo" width="20"> [Email: lmweber@bu.edu]() <br/>
