@@ -32,6 +32,8 @@ A complete list of publications is also available from [Google Scholar](https://
 
 ### Journal articles (peer-reviewed and published)
 
+- Hippen A.A., Omran D.K., **Weber L.M.**, Jung E., Drapkin R., Doherty J.A., Hicks S.C., and Greene C.S. (2023). *Performance of computational algorithms to deconvolve heterogeneous bulk ovarian tumor tissue depends on experimental factors.* Genome Biology, 24, 239. [Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03077-7).
+
 - **Weber L.M.**, Saha A., Datta A., Hansen K.D., and Hicks S.C. (2023). *nnSVG for the scalable identification of spatially variable genes using nearest-neighbor Gaussian processes.* Nature Communications, 14, 4059. [Paper](https://www.nature.com/articles/s41467-023-39748-z), [R/Bioconductor package](https://bioconductor.org/packages/nnSVG), [Code](https://github.com/lmweber/nnSVG-analyses).
 
 - Tiberi S., Crowell H.L., Samartsidis P., **Weber L.M.**, and Robinson M.D. (2023). *distinct: a novel approach to differential distribution analyses.* Annals of Applied Statistics, 17, 2, 1681--1700. [Paper](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-2/distinct-A-novel-approach-to-differential-distribution-analyses/10.1214/22-AOAS1689.full), [R/Bioconductor package](https://bioconductor.org/packages/distinct).
