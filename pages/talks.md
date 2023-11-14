@@ -6,7 +6,9 @@ layout: page
 
 ### Invited presentations
 
-- Spatial Biology Seminar Series, Boston University Chobanian and Avedisian School of Medicine, Section on Computational Biomedicine. (2023). *nnSVG for the identification of spatially variable genes and unsupervised analyses of spatial transcriptomics data.*
+- Columbia University, Department of Biostatistics, Statistical Genomics & Genetics Seminar Series. (Virtual). (2023). *nnSVG for the identification of spatially variable genes and unsupervised analyses of spatial transcriptomics data.*
+
+- Boston University, Chobanian and Avedisian School of Medicine, Section on Computational Biomedicine, Spatial Biology Seminar Series. (Virtual). (2023). *nnSVG for the identification of spatially variable genes and unsupervised analyses of spatial transcriptomics data.*
 
 - Joint Statistical Meetings (JSM) 2023, Toronto, Canada. (2023). *nnSVG for preprocessing, feature selection, and quality control in multi-sample spot-based spatially-resolved transcriptomics data.*
 
