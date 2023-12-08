@@ -82,6 +82,8 @@ layout: page
 
 ### Posters
 
+- American College of Neuropsychopharmacology (ACNP) 2023, Tampa, FL, United States. (2023). [*nnSVG for the identification of spatially variable genes and improved computational analyses of spatial transcriptomic data from postmortem brain tissue.*](https://zenodo.org/records/10291239)
+
 - National Human Genome Research Institute (NHGRI) Research Training and Career Development Annual Meeting 2023, Salt Lake City, UT, United States. (2023). [*nnSVG: scalable identification of spatially variable genes using nearest-neighbor Gaussian processes.*](https://zenodo.org/record/7814740)
 
 - American College of Neuropsychopharmacology (ACNP) 2022, Phoenix, AZ, United States. (2022). (Travel awardee.) [*The gene expression landscape of the human locus coeruleus revealed by single-nucleus and spatially-resolved transcriptomics.*](https://zenodo.org/record/7448748)
