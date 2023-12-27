@@ -30,7 +30,7 @@ Additional details are available from [GitHub](https://github.com/lmweber).
 
 ### Other software projects
 
-- [Orchestrating Spatially-Resolved Transcriptomics Analysis with Bioconductor (OSTA)](https://lmweber.org/OSTA-book/): Online book containing interactive example analysis workflows for spatially-resolved transcriptomics data.
+- [Best Practices for Spatial Transcriptomics Analysis with Bioconductor](https://lmweber.org/BestPracticesST/): Online book containing interactive example analysis workflows for spatial transcriptomics data.
 
 - [CrispantCal](https://lmweber.org/CrispantCal/): R/Shiny web application to calculate injection mix volumes for CRISPR-Cas9 experiments (described in our publication: Burger et al. 2016).
 
