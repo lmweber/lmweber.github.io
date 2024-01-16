@@ -35,7 +35,7 @@ Boston, MA 02118, USA
 <img src="images/envelope.svg" alt="Email logo" width="20"> [Email: lmweber@bu.edu]() <br/>
 <img src="images/twitter.svg" alt="Twitter logo" width="20"> [Twitter: @lmwebr](https://twitter.com/lmwebr) <br/>
 <img src="images/github.svg" alt="GitHub logo" width="20"> [GitHub: lmweber](https://github.com/lmweber) <br/>
-<img src="images/scholar.svg" alt="Google Scholar logo" width="20"> [Google Scholar](https://scholar.google.com/citations?user=1vZo3toAAAAJ&hl=en)
+<img src="images/scholar.svg" alt="Google Scholar logo" width="20"> [Google Scholar](https://scholar.google.com/citations?user=E9G88AQAAAAJ&hl=en)
 
 </div>
 <div class="span3" markdown="1">

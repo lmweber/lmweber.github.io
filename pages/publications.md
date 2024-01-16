@@ -6,7 +6,7 @@ layout: page
 
 ### Google Scholar
 
-A complete list of publications is also available from [Google Scholar](https://scholar.google.com/citations?user=1vZo3toAAAAJ&hl=en).
+A complete list of publications is also available from [Google Scholar](https://scholar.google.com/citations?user=E9G88AQAAAAJ&hl=en).
 
 
 ---
