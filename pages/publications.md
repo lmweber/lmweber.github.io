@@ -14,7 +14,7 @@ A complete list of publications is also available from [Google Scholar](https://
 
 ### Preprint articles
 
-- n/a
+- Hippen A.A., Davidson N.R., Barnard M.E., **Weber L.M.**, Gertz J., Doherty J.A., Hicks S.C., and Greene C.S. (2023). *Deconvolution reveals compositional differences in high-grade serous ovarian cancer subtypes.* bioRxiv (preprint). [Paper](https://www.biorxiv.org/content/10.1101/2023.06.14.544991v1).
 
 
 ---
