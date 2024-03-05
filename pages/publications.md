@@ -19,16 +19,16 @@ A complete list of publications is also available from [Google Scholar](https://
 
 ---
 
-
+<!--
 ### Journal articles (accepted or in press)
-
-- **Weber L.M.\***, Divecha H.R.\*, Tran M.N., Kwon S.H., Spangler A., Montgomery K.D., Tippani M., Bharadwaj R., Kleinman J.E., Page S.C., Hyde T.M., Collado-Torres L., Maynard K.R., Martinowich K.\*, and Hicks S.C.\* (2023). *The gene expression landscape of the human locus coeruleus revealed by single-nucleus and spatially-resolved transcriptomics.* eLife Reviewed Preprint (accepted). [Paper](https://elifesciences.org/reviewed-preprints/84628), [R/Bioconductor data package](https://bioconductor.org/packages/WeberDivechaLCdata), [Code](https://github.com/lmweber/locus-c).
 
 
 ---
-
+-->
 
 ### Journal articles (peer-reviewed and published)
+
+- **Weber L.M.\***, Divecha H.R.\*, Tran M.N., Kwon S.H., Spangler A., Montgomery K.D., Tippani M., Bharadwaj R., Kleinman J.E., Page S.C., Hyde T.M., Collado-Torres L., Maynard K.R., Martinowich K.\*, and Hicks S.C.\* (2023). *The gene expression landscape of the human locus coeruleus revealed by single-nucleus and spatially-resolved transcriptomics.* eLife, 12:RP84628. [Paper](https://elifesciences.org/articles/84628), [R/Bioconductor data package](https://bioconductor.org/packages/WeberDivechaLCdata), [Code](https://github.com/lmweber/locus-c).
 
 - Tippani M., Divecha H.R., Catallini II J.L., Kwon S.H., **Weber L.M.**, Spangler A., Jaffe A.E., Hyde T.M., Kleinman J.E., Hicks S.C., Martinowich K., Collado-Torres L., Page S.C., and Maynard K.R. (2023). *VistoSeg: Processing utilities for high-resolution images for spatially resolved transcriptomics data.* Biological Imaging, 3, e23. [Paper](https://www.cambridge.org/core/journals/biological-imaging/article/vistoseg-processing-utilities-for-highresolution-images-for-spatially-resolved-transcriptomics-data/990CBC4AC069F5EDC62316919398404B), [Software](http://research.libd.org/VistoSeg/). 
 
