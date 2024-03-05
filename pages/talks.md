@@ -38,6 +38,8 @@ layout: page
 
 ### Other presentations
 
+- Boston University, Department of Biostatistics, Biostatistics Student Association Seminar Series. (2024). *GitHub for R Projects.* (Joint seminar with Dr. Shariq Mohammed.)
+
 - Boston University, School of Public Health, Department of Biostatistics, Boston, MA, United States. (2023). *Unsupervised statistical methods and data-driven analysis workflows for spatially-resolved transcriptomics.*
 
 - Ohio State University, College of Medicine, Department of Biomedical Informatics, Columbus, OH, United States. (2023). *Unsupervised statistical methods and data-driven analysis workflows for spatially-resolved transcriptomics.*
