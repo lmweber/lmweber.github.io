@@ -6,7 +6,7 @@ layout: page
 
 ### Invited presentations
 
-- University of Southern California, Division of Biostatistics, Seminar Series. (2023). *nnSVG for the identification of spatially variable genes and unsupervised analyses of spatial transcriptomics data.*
+- University of Southern California, Division of Biostatistics, Seminar Series, Los Angeles, CA, United States. (2023). *nnSVG for the identification of spatially variable genes and unsupervised analyses of spatial transcriptomics data.*
 
 - Columbia University, Department of Biostatistics, Statistical Genomics and Genetics Seminar Series. (Virtual). (2023). *nnSVG for the identification of spatially variable genes and unsupervised analyses of spatial transcriptomics data.*
 
@@ -22,7 +22,7 @@ layout: page
 
 - R/Medicine. (Virtual). (2022). *Unsupervised analyses of spatially-resolved transcriptomics data with nnSVG and R/Bioconductor.*
 
-- Sydney Bioinformatics Seminar Series, Sydney Precision Bioinformatics Alliance, University of Sydney, Australia. (Virtual). (2022). *nnSVG: scalable identification of spatially variable genes in spatially-resolved transcriptomics data.*
+- Sydney Bioinformatics Seminar Series, Sydney Precision Bioinformatics Alliance, University of Sydney. (Virtual). (2022). *nnSVG: scalable identification of spatially variable genes in spatially-resolved transcriptomics data.*
 
 - ENAR (Eastern North American Region of the International Biometric Society) Spring Meeting, Houston, TX, United States. (2022). *nnSVG: scalable identification of spatially variable genes using nearest-neighbor Gaussian processes.*
 
@@ -38,7 +38,7 @@ layout: page
 
 ### Other presentations
 
-- Boston University, Department of Biostatistics, Biostatistics Student Association Seminar Series. (2024). *GitHub for R Projects.* (Joint seminar with Dr. Shariq Mohammed.)
+- Boston University, School of Public Health, Department of Biostatistics, Biostatistics Student Association Seminar Series, Boston, MA, United States. (2024). *GitHub for R Projects.* (Joint seminar with Dr. Shariq Mohammed.)
 
 - Boston University, School of Public Health, Department of Biostatistics, Boston, MA, United States. (2023). *Unsupervised statistical methods and data-driven analysis workflows for spatially-resolved transcriptomics.*
 
