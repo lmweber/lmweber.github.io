@@ -6,6 +6,7 @@ layout: page
 
 ### Workshops
 
+- [Workshop on Data Visualization Techniques & Tools](https://github.com/lmweber/PHDS-data-visualization-2024), Population Health Data Science Program, Boston University School of Public Health (Mar 26, 2024)
 - [Data Carpentry, University of Zurich, Switzerland (2017)](https://pennekampster.github.io/2017-11-08-lugano/)
 - [Mass Cytometry and Data Analysis Workshop, University of Zurich, Switzerland (2017)](https://github.com/lmweber/CyTOF-workshop-2017-07-10)
 - [Mass Cytometry and Data Analysis Workshop, University of Zurich, Switzerland (2017)](https://github.com/lmweber/CyTOF-workshop-2017-03-13)
