@@ -42,7 +42,7 @@ A complete list of publications is also available from [Google Scholar](https://
 
 - Pardo B., Spangler A., **Weber L.M.**, Hicks S.C., Jaffe A.E., Martinowich K., Maynard K.R., and Collado-Torres L. (2022). *spatialLIBD: an R/Bioconductor package to visualize spatially-resolved transcriptomics data.* BMC Genomics, 23, 434. [Paper](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-022-08601-w), [R/Bioconductor package](http://bioconductor.org/packages/spatialLIBD).
 
-- Righell D.\*, **Weber L.M.\***, Crowell H.L.\*, Pardo B., Collado-Torres L., Ghazanfar S., Lun A.T.L., Hicks S.C.\*, and Risso D.\* (2022). *SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor.* Bioinformatics, btac299. [Paper](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac299/6575443), [R/Bioconductor package](https://bioconductor.org/packages/SpatialExperiment).
+- Righell D.\*, **Weber L.M.\***, Crowell H.L.\*, Pardo B., Collado-Torres L., Ghazanfar S., Lun A.T.L., Hicks S.C.\*, and Risso D.\* (2022). *SpatialExperiment: infrastructure for spatially-resolved transcriptomics data in R using Bioconductor.* Bioinformatics, 38(11), 3128-3131. [Paper](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac299/6575443), [R/Bioconductor package](https://bioconductor.org/packages/SpatialExperiment).
 
 - Petrillo M., Fabbri M., Kagkli D.M. et al. (2022). *A roadmap for the generation of benchmarking resources for antimicrobial resistance detection using next generation sequencing.* F1000Research, v2, 10, 80. [Paper](https://f1000research.com/articles/10-80).
 
