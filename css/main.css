@@ -36,7 +36,7 @@ p, ul, li, table, tr, td, dd, dt {
 }
 
 ul {
-  margin-bottom: 10px;
+  gap: 1em;
 }
 
 h1, h2, h3 {
