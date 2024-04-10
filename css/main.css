@@ -35,8 +35,8 @@ p, ul, li, table, tr, td, dd, dt {
   font-size: 1rem;
 }
 
-ul {
-  gap: 1em;
+li {
+  margin-bottom: .75rem;
 }
 
 h1, h2, h3 {
