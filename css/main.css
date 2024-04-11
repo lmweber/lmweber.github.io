@@ -35,10 +35,6 @@ p, ul, li, table, tr, td, dd, dt {
   font-size: 1rem;
 }
 
-li {
-  margin-bottom: .75rem;
-}
-
 h1, h2, h3 {
   color: var(--maroon) !important;
 }
@@ -434,4 +430,9 @@ input::placeholder {
   #page-navbar #projects {
     border: none !important;
   }
+}
+
+/* Custom list formatting ----------------------------------- */
+#dot-points li {
+  margin-bottom: .75rem;
 }
