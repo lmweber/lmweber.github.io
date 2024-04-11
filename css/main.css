@@ -434,5 +434,6 @@ input::placeholder {
 
 /* Custom list formatting ----------------------------------- */
 #dot-points li {
+  margin-left: 0;
   margin-bottom: .75rem;
 }
