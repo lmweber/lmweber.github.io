@@ -433,8 +433,8 @@ input::placeholder {
 }
 
 /* Custom list formatting ----------------------------------- */
-#dot-points li {
+#dot-points ul {
   margin-bottom: .75rem;
-  list-style-position: inside;
-  padding-left: 0;
+  margin-left: 1em;
+  padding: 0;
 }
