@@ -280,12 +280,9 @@ h3:after {
 }
 
 /* Navbar -------------------------------------------- */
-.bg-navbar {
-  background: var(--nd-blue);
-}
-
+.bg-navbar,
 .bg-footer {
-  background: var(--body-background);
+  background: var(--nd-blue);
 }
 
 #page-navbar nav {
@@ -305,7 +302,7 @@ h3:after {
 }
 
 #page-footer {
-  background: var(--nd-blue);
+  background: var(--body-background);
   padding: 2rem 0 1.5rem;
 }
 
