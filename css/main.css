@@ -280,9 +280,12 @@ h3:after {
 }
 
 /* Navbar -------------------------------------------- */
-.bg-navbar,
-.bg-footer {
+.bg-navbar {
   background: var(--nd-blue);
+}
+
+.bg-footer {
+  background: var(--body-background);
 }
 
 #page-navbar nav {
