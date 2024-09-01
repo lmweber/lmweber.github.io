@@ -74,7 +74,7 @@ h3:after {
 }
 
 .position-title {
-  font-size: 1rem;
+  font-size: 1.1rem;
   color: var(--trench-blue) !important;
   font-weight: 600;
 }
