@@ -16,7 +16,7 @@
   --chocolate: rgb(210, 105, 30);
   --maroon: maroon;
   --lightest-gray: #e9ecef;
-  --royalblue3: #3A5FCD;
+  --dodgerblue3: #1874CD;
 }
 
 html {
@@ -283,7 +283,7 @@ h3:after {
 /* Navbar -------------------------------------------- */
 .bg-navbar,
 .bg-footer {
-  background: var(--royalblue3);  /* --nd-blue */
+  background: var(--dodgerblue3);  /* --nd-blue */
 }
 
 #page-navbar nav {
