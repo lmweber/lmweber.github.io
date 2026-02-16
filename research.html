@@ -41,109 +41,69 @@
       <div class="col-sm-12">
         <h1 id="page-lead">Research</h1>
 
-        <p>Overview of recent research topics, along with links to key papers and other associated resources. For more details, see <a href="https://lmweber.org/publications.html">Publications</a> and <a href="https://lmweber.org/software.html">Software</a>.</p>
+        <h3><span>Methods for single-cell and spatial transcriptomics data</span></h3>
 
-        <!-- Methods -->
+        <p>We develop statistical and computational methods for discovery-based 
+        analyses of single-cell and spatial transcriptomics data, including 
+        open-source software implementations. We are especially focused on (i) 
+        methods for unsupervised analyses, for example feature selection methods 
+        to identify spatially variable genes (nnSVG) or clustering methods to 
+        identify spatial domains, and (ii) methods for differential analyses, 
+        including differential spatial localization between conditions. A key 
+        focus of this work is computational scalability, allowing methods to be 
+        applied to large datasets consisting of gene expression measurements for 
+        thousands of genes in thousands of cells or spatial measurement 
+        locations.
+        </p>
 
-        <h3><span>Methods for single-cell and spatial omics data</span></h3>
 
-        <h4><span>Unsupervised statistical methods</span></h4>
+        <h3><span>Open-source software and analysis workflows</span></h3>
 
-        <div class="col-sm-12">
-          <ul id="dot-points">
-            <li>Development of a scalable method to identify spatially variable genes in spatial transcriptomics data: <i>nnSVG</i> (<a href="https://www.nature.com/articles/s41467-023-39748-z">Weber et al. 2023</a>) (<a href="https://bioconductor.org/packages/nnSVG">R/Bioconductor package</a>)
-            </li>
-          </ul>
-        </div>
+        <p>We implement methods as open-source software packages, primarily as 
+        R packages through the Bioconductor project, including code examples, 
+        documentation, and tutorials. In addition, we develop resources for 
+        comprehensive analysis workflows, for example data structures for 
+        storing and manipulating spatial transcriptomics data in R 
+        (SpatialExperiment), and an online book containing reproducible code 
+        examples and discussion on integrated analysis workflows for spatial 
+        transcriptomics data in R/Bioconductor (OSTA).
+        </p>
 
-        <h4><span>Differential analyses</span></h4>
-
-        <div class="col-sm-12">
-          <ul id="dot-points">
-            <li>Development of an improved computational framework for differential analyses in high-dimensional cytometry data: <i>diffcyt</i> (<a href="https://www.nature.com/articles/s42003-019-0415-5">Weber et al. 2019</a>) (<a href="https://bioconductor.org/packages/diffcyt">R/Bioconductor package</a>)
-            </li>
-          </ul>
-        </div>
-
-        <h4><span>Applications of spatial statistics</span></h4>
-
-        <div class="col-sm-12">
-          <ul id="dot-points">
-            <li><i>nnSVG</i> (see 'Unsupervised statistical methods' above)
-            </li>
-          </ul>
-        </div>
-
-        <!-- Collaborative analyses -->
-
-        <h3><span>Collaborative analyses of single-cell and spatial omics data</span></h3>
-
-        <h4><span>Biological applications in neuroscience</span></h4>
-
-        <div class="col-sm-12">
-          <ul id="dot-points">
-            <li>Collaborative analysis of single-nucleus and spatial transcriptomics data from the locus coeruleus region in postmortem human brain samples (<a href="https://elifesciences.org/articles/84628">Weber and Divecha et al. 2023</a>)
-            </li>
-            <li>Development of an unsupervised analysis workflow during a collaborative analysis of spatial transcriptomics data from the dorsolateral prefrontal cortex (DLPFC) region in postmortem human brain samples (<a href="https://www.nature.com/articles/s41593-020-00787-0">Maynard and Collado-Torres et al. 2021</a>)
-            </li>
-          </ul>
-        </div>
-
-        <h4><span>Biological applications in cancer biology</span></h4>
-
-        <div class="col-sm-12">
-          <ul id="dot-points">
-            <li>Benchmark evaluation of methods for genetic variation-based demultiplexing of pooled single-cell RNA sequencing samples from tumor samples from high-grade serous ovarian cancer (HGSOC) and lung adenocarcinoma (<a href="https://academic.oup.com/gigascience/article/10/9/giab062/6374209">Weber et al. 2021</a>)
-            </li>
-          </ul>
-        </div>
-
-        <!-- Benchmarking -->
 
         <h3><span>Benchmarking studies</span></h3>
 
-        <div class="col-sm-12">
-          <ul id="dot-points">
-            <li>Benchmark of methods for genetic variation-based demultiplexing of pooled single-cell RNA sequencing samples from tumors (see 'Applications in cancer biology' above)
-            </li>
-            <li>Review and best practices guidelines on performing different types of benchmarking studies (<a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1738-8">Weber et al. 2019</a>)
-            </li>
-            <li>Benchmark comparison of clustering methods for high-dimensional cytometry data (<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.23030">Weber and Robinson 2016</a>)
-            </li>
-          </ul>
-        </div>
+        <p>Numerous methods have been developed for analyses of single-cell and 
+        spatial transcriptomics and other types of high-throughput genomic 
+        data. This creates challenges for researchers analyzing these data, who 
+        need to select appropriate analysis methods and connect these into 
+        workflows. We perform benchmarking studies that aim to rigorously 
+        evaluate the performance of methods for specific analysis tasks and data 
+        types, including comparisons against baseline methods and taking into 
+        account computational performance and scalability.
+        </p>
 
-        <!-- Analysis workflows -->
 
-        <h3><span>Analysis workflows and software infrastructure</span></h3>
+        <h3><span>Collaborative analyses</span></h3>
 
-        <div class="col-sm-12">
-          <ul id="dot-points">
-            <li>Online book providing reproducible code examples, datasets, and discussion on analysis workflows for spatial transcriptomics data using R/Bioconductor: <a href="https://bioconductor.org/books/OSTA/"><i>Orchestrating Spatial Transcriptomics Analysis with Bioconductor (OSTA)</i></a> (<a href="https://www.biorxiv.org/content/10.1101/2025.11.20.688607v1">Crowell and Dong et al. 2025</a>)
-            </li>
-            <li>Software infrastructure for storing and manipulating spatial transcriptomics datasets within the R/Bioconductor framework: <i>SpatialExperiment</i> (<a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac299/6575443">Righelli, Weber, Crowell et al. 2022</a>) (<a href="https://bioconductor.org/packages/SpatialExperiment">R/Bioconductor package</a>)
-            </li>
-            <li>Contributions to the development of a comprehensive analysis workflow for high-dimensional cytometry data (<a href="https://f1000research.com/articles/6-748">Nowicka et al. 2019</a>) (<a href="https://bioconductor.org/packages/cytofWorkflow">R/Bioconductor package</a>)
-            </li>
-          </ul>
-        </div>
+        <p>We are interested in collaborative analyses of single-cell and 
+        spatial transcriptomics data from experiments in areas of biological 
+        research including neuroscience, immunology, and cancer biology. These 
+        projects provide an opportunity to contribute to biological results, as 
+        well as providing guidance on the most useful areas and ideas for future 
+        methodological development, for example by identifying steps in analysis 
+        workflows where existing methods are inefficient or computationally 
+        infeasible.
+        </p>
 
-        <!-- Open science -->
 
-        <h3><span>Open science</span></h3>
+        <h3><span>Reproducible research and open science</span></h3>
 
-        <div class="col-sm-12">
-          <ul id="dot-points">
-            <li>Development of open-source R packages through the <a href="https://bioconductor.org/">Bioconductor</a> project (see <a href="https://lmweber.org/software.html">Software</a> for details)
-            </li>
-            <li>Publication of preprints (<a href="https://biorxiv.org/">bioRxiv</a> and <a href="https://arxiv.org/">arXiv</a>)
-            </li>
-            <li>Reproducible code and data resources (see <a href="https://lmweber.org/software.html">Software</a> and <a href="https://github.com/lmweber">GitHub</a> for details)
-            </li>
-            <li><a href="https://researchsymbionts.org/">Research Symbiont</a> award, received in January 2021 in recognition of efforts to create open code and data resources
-            </li>
-          </ul>
-        </div>
+        <p>Throughout our research, we follow principles of reproducible 
+        research and open science, including through the development of 
+        open-source software packages, reproducible online resources including 
+        tutorials and code examples, and code and data resources to reproduce 
+        results in published papers.
+        </p>
 
       </div>
       <!-- col-sm-12 -->
